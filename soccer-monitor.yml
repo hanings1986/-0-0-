@@ -1,0 +1,62 @@
+name: Soccer Score Monitor
+
+on:
+  schedule:
+    # 每5分钟运行一次（UTC时间）
+    # 北京时间 06:00 - 23:00 = UTC 22:00(前一天) - 15:00
+    # 用三个cron覆盖这个时段：
+    # 1. UTC 22:00-23:59 (前一天22点到23点59分，对应北京06:00-07:59)
+    # 2. UTC 00:00-14:59 (当天0点到14点59分，对应北京08:00-22:59)  
+    # 3. UTC 15:00-15:59 (当天15点，对应北京23:00-23:59)
+    - cron: '*/5 22,23 * * *'   # UTC 22:xx和23:xx（北京 06:xx ~ 07:xx）
+    - cron: '*/5 0-14 * * *'    # UTC 00:xx ~ 14:xx（北京 08:xx ~ 22:xx）
+    - cron: '*/5 15 * * *'      # UTC 15:xx（北京 23:xx）
+
+  # 允许手动触发（测试用）
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install requests openai
+
+      # ────────────────────────────────────────────────────────
+      # 从 cache 恢复状态文件（记录已发通知的比赛，防重复）
+      # cache key 按日期区分，每天自动重置状态
+      # ────────────────────────────────────────────────────────
+      - name: 恢复监控状态
+        uses: actions/cache/restore@v4
+        with:
+          path: /tmp/soccer_state.json
+          key: soccer-state-${{ github.run_id }}
+          restore-keys: |
+            soccer-state-
+          fail-on-cache-miss: false
+
+      - name: 运行足球比分监控
+        env:
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          SOCCER_STATE_FILE: /tmp/soccer_state.json
+        run: python soccer_monitor.py
+
+      # ────────────────────────────────────────────────────────
+      # 运行后保存状态到 cache（always() 确保出错也保存）
+      # ────────────────────────────────────────────────────────
+      - name: 保存监控状态
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: /tmp/soccer_state.json
+          key: soccer-state-${{ github.run_id }}

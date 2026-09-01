@@ -1,0 +1,14 @@
+# 状态文件（由 GitHub Actions cache 持久化，不入库）
+state/*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
