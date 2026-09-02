@@ -189,61 +189,45 @@ TIER_LABEL = {1: "⭐⭐⭐ 顶级联赛", 2: "⭐⭐ 主流联赛", 3: "⭐ 一
 
 def build_analysis_prompt(game: dict, intel: dict | None = None,
                           base_rate: str | None = None) -> str:
-    """构造 AI 分析 prompt。
-
-    注意：原脚本用 f-string 内嵌 "{1-2句综合判断}" 字面量会触发 Python 解析错误。
-    本版改用字符串拼接，避免此类语法陷阱。
-    """
+    """构造 AI 分析 prompt — 精简版，强制色标输出格式"""
     home = game["home_team"]
     away = game["away_team"]
-    # "all" 比分板不带联赛名，优先用情报包里的联赛名
     league = game["league"] or (intel or {}).get("league", {}).get("name") or "未知联赛"
     score = f"{game['home_score']}:{game['away_score']}"
     minute = game["display_clock"] or f"{game['minute']}'"
     tier_label = TIER_LABEL.get(game.get("tier", 3), "")
 
     parts = [
-        "你是一名足球赛事数据分析师，专精「特殊概念比赛」识别与概率评估。",
+        "你是足球数据分析师。给出简洁、带颜色标识的分析。",
         "",
-        "当前比赛信息：",
-        f"- 联赛：{league}（{tier_label}）",
-        f"- 对阵：{home} vs {away}",
-        f"- 当前比分：{score}",
-        f"- 比赛时间：第 {minute}",
-        "- 赛事状态：进行中，当前仍为 0:0",
+        "色标含义: 🔴高/强  🟡中/不确定  🟢低/弱",
+        "",
+        f"比赛: {home} vs {away} | {league}({tier_label}) | {score} | 第{minute}",
+        "状态: 进行中，0:0",
     ]
 
-    # 注入系统自动搜集的实时情报
     if intel:
         parts.append("")
-        parts.append("## 0. 系统自动搜集的实时数据情报（可信度高于你的记忆，请优先基于这些数据推理）")
+        parts.append("实时数据（优先基于此推理）:")
         ms = intel.get("match_stats")
         if ms:
-            parts.append("本场实时统计：")
             for name, s in ms.items():
                 items = ", ".join(f"{k} {v}" for k, v in s.items())
                 parts.append(f"- {name}: {items}")
         lgp = intel.get("league_goals")
         if lgp:
-            parts.append(f"- 联赛进球画像: 近期 {lgp['matches']} 场完赛, 场均 {lgp['avg_goals']} 球, "
-                         f"大2.5球比率 {lgp['over25_rate']}%（{lgp['tag']}）")
+            parts.append(f"- 联赛画像: 场均{lgp['avg_goals']}球, 大2.5球{lgp['over25_rate']}%({lgp['tag']})")
         tf_map = intel.get("team_form")
         if tf_map:
-            label = {"home": "主队", "away": "客队"}
-            for ha in ("home", "away"):
+            for ha, label in [("home", "主队"), ("away", "客队")]:
                 tf = tf_map.get(ha)
-                if not tf:
-                    continue
-                rows_str = "; ".join(
-                    f"{r['date'][5:]} {r['res']} {r['gf']}-{r['ga']} vs {r['opp']}" for r in tf["rows"]
-                )
-                parts.append(f"- {label.get(ha, ha)} {tf['team_name']} 近5场: "
-                             f"{tf['W']}胜{tf['D']}平{tf['L']}负, 场均进{tf['gf_avg']}失{tf['ga_avg']}, "
-                             f"零封{tf['clean_sheets']}场, 有进球{tf['scored']}/5场 ({rows_str})")
+                if tf:
+                    parts.append(f"- {label}{tf['team_name']}: {tf['W']}胜{tf['D']}平{tf['L']}负 "
+                                 f"场均进{tf['gf_avg']}失{tf['ga_avg']} 零封{tf['clean_sheets']}")
         if intel.get("threat"):
             parts.append(f"- {intel['threat']}")
         if intel.get("tempo"):
-            parts.append(f"- 节奏变化: {intel['tempo']}")
+            parts.append(f"- {intel['tempo']}")
         if intel.get("incidents"):
             parts.append(f"- 关键事件: {'; '.join(intel['incidents'])}")
     if base_rate:
@@ -251,46 +235,23 @@ def build_analysis_prompt(game: dict, intel: dict | None = None,
 
     parts += [
         "",
-        "请针对这场 0:0 比赛，按以下固定流程输出分析：",
+        "严格按以下模板输出（不要加额外段落，不要重复已给的数据）:",
         "",
-        "## 1. 赛程扫描",
-        "列出本场对阵、联赛、当前时间。",
+        "### 综合判断",
+        "[1-2句核心判断，句首用🔴/🟡/🟢标明进球可能性高低]",
         "",
-        "## 2. 概念挖掘",
-        "分析本场是否存在以下特殊统计概念：",
-        "- 球队连胜/连败/连续不胜纪录",
-        "- 球队连续多场进球≥2、连续被零封数据",
-        "- 球队主场/客场连续固定赛果走势",
-        "- 核心球员连续进球、助攻纪录",
-        "- 两队历史交锋极端统计规律",
-        "- 积分榜关键节点：争冠、保级、欧战资格线附近",
+        "### 概率评估",
+        "- 主胜 🟢XX%  平局 🟡XX%  客胜 🔴XX%",
+        "- 进球预期: [🟢/🟡/🔴] [1句话]",
         "",
-        "## 3. 多维数据验证",
-        "基于你的知识分析：",
-        "- 主客场战绩",
-        "- 近期 5 场走势",
-        "- 交锋历史",
-        "- 场地环境、伤病/体能/多线作战隐患",
+        "### 走势参考",
+        "- 胜负倾向: [🟢/🟡/🔴] [1句话]",
+        "- 比分参考: [描述]",
         "",
-        "## 4. 概率评估",
-        "- 各赛果概率占比（主胜/平局/客胜）",
-        "- 总进球区间判断",
+        "### 关键变量",
+        "- [1-2条最关键的赛事变量提醒]",
         "",
-        "## 5. 赛事走势参考",
-        "- 胜负格局倾向",
-        "- 比分区间参考",
-        "",
-        "## 6. 多场组合推演（本场独推）",
-        "针对本场比赛提供：",
-        "- 【常规基本面组合推演】",
-        "- 【冷门走势组合推演】",
-        "",
-        "## 7. 联赛专属分析提醒",
-        f"结合 {league} 的联赛特点给出针对性赛事变量提醒。",
-        "",
-        "注意：所有分析仅作赛事数据、球队基本面推演参考，不涉及任何投注、购彩相关引导内容。输出格式结构化、分点清晰。",
-        "",
-        "最后给出 1-2 句综合判断。",
+        "注: 仅赛事数据推演，不涉投注引导。",
     ]
     return "\n".join(parts)
 
@@ -319,7 +280,7 @@ def get_ai_analysis(game: dict, intel: dict | None = None,
                 {"role": "user", "content": prompt}
             ],
             temperature=0.7,
-            max_tokens=2000,
+            max_tokens=800,
         )
 
         analysis = response.choices[0].message.content
@@ -717,7 +678,7 @@ def collect_intel(game: dict) -> dict:
 
 
 def build_intel_text(intel: dict | None) -> str:
-    """把情报包格式化为钉钉消息文本块（含威胁指数/节奏/关键事件）"""
+    """把情报包格式化为钉钉消息文本块（含威胁指数/节奏/关键事件）— 带色标可视化"""
     if not intel:
         return ""
     parts = []
@@ -728,9 +689,9 @@ def build_intel_text(intel: dict | None) -> str:
 
     ms = intel.get("match_stats")
     if ms:
-        parts.append("📋 当前比赛实时数据")
+        parts.append("📋 实时数据")
         for name, s in ms.items():
-            items = " ".join(f"{k} {v}" for k, v in s.items())
+            items = "  ".join(f"{k}{v}" for k, v in s.items())
             parts.append(f"  {name}: {items}")
 
     tempo = intel.get("tempo")
@@ -739,32 +700,43 @@ def build_intel_text(intel: dict | None) -> str:
 
     inc = intel.get("incidents")
     if inc:
-        parts.append("⚠️ 关键事件（红牌/点球）")
-        for x in inc:
-            parts.append(f"  {x}")
+        parts.append("🟥 关键事件: " + " | ".join(inc))
 
     lg = intel.get("league") or {}
     lgp = intel.get("league_goals")
     if lg.get("name") or lgp:
-        parts.append(f"🏟️ 联赛: {lg.get('name') or '?'}")
+        parts.append(f"🏟️ {lg.get('name') or '?'}")
     if lgp:
-        parts.append(f"  近期 {lgp['matches']} 场完赛: 场均进球 {lgp['avg_goals']} "
-                     f"| 大2.5球比率 {lgp['over25_rate']}% → {lgp['tag']}")
+        if lgp['avg_goals'] >= 2.8:
+            lg_icon = "🔴"
+        elif lgp['avg_goals'] >= 2.0:
+            lg_icon = "🟡"
+        else:
+            lg_icon = "🟢"
+        parts.append(f"  {lg_icon} 场均{lgp['avg_goals']}球 大2.5球{lgp['over25_rate']}% {lgp['tag']}")
 
     tf_map = intel.get("team_form")
     if tf_map:
-        label = {"home": "主队", "away": "客队"}
+        label = {"home": "主", "away": "客"}
         for ha in ("home", "away"):
             tf = tf_map.get(ha)
             if not tf:
                 continue
+            win_rate = tf['W'] / 5.0
+            if win_rate >= 0.6:
+                tf_icon = "🟢"
+            elif win_rate >= 0.3:
+                tf_icon = "🟡"
+            else:
+                tf_icon = "🔴"
             parts.append(
-                f"📊 {label.get(ha, ha)} {tf['team_name']} 近5场: "
-                f"{tf['W']}胜{tf['D']}平{tf['L']}负 | 场均进{tf['gf_avg']}失{tf['ga_avg']} "
-                f"| 零封{tf['clean_sheets']} | 有进球场次 {tf['scored']}/5"
+                f"  {tf_icon} {label.get(ha, ha)}{tf['team_name'][:8]} "
+                f"{tf['W']}胜{tf['D']}平{tf['L']}负 "
+                f"进{tf['gf_avg']}失{tf['ga_avg']} "
+                f"零封{tf['clean_sheets']} 进球{tf['scored']}/5"
             )
-            detail = " ".join(f"{r['res']}{r['gf']}-{r['ga']}{r['opp'][:6]}" for r in tf["rows"])
-            parts.append(f"   明细: {detail}")
+            detail = " ".join(f"{r['res']}{r['gf']}-{r['ga']}" for r in tf["rows"])
+            parts.append(f"     {detail}")
 
     return "\n".join(parts)
 
@@ -794,14 +766,17 @@ def build_threat_line(match_stats: dict | None, minute: int) -> str | None:
     remaining = max(6.0, 92.0 - float(minute))
     p_goal = 1.0 - math.exp(-total * remaining / 90.0)
 
+    # 可视化进度条 (10 格)
+    bar_len = min(10, max(1, int(total + 0.5)))
+    bar = "█" * bar_len + "░" * (10 - bar_len)
+
     if total >= 2.6:
-        tone = "🔥 高危"
+        icon, tone = "🔴", "高危"
     elif total >= 1.4:
-        tone = "⚠️ 中等"
+        icon, tone = "🟡", "中等"
     else:
-        tone = "❄️ 沉闷"
-    line = (f"⚔️ 威胁指数: {tone}（累积威胁度 {total:.1f}，"
-            f"剩余时间破门倾向参考 ≈ {p_goal * 100:.0f}%）")
+        icon, tone = "🟢", "沉闷"
+    line = f"⚔️ 威胁指数 {icon} {tone} {bar} {total:.1f} | 破门倾向≈{p_goal * 100:.0f}%"
 
     ranked = sorted(xg.items(), key=lambda kv: kv[1], reverse=True)
     if ranked and len(ranked) > 1 and ranked[0][1] - ranked[1][1] >= 0.6:
@@ -833,8 +808,13 @@ def build_tempo_line(old_stats: dict | None, new_stats: dict | None) -> str | No
             parts.append(f"{team}: " + " ".join(segs))
     if not parts:
         return None
-    tone = "⚡ 节奏明显提速" if (delta_sot >= 1 or delta_shots >= 4) else "📈 持续施压"
-    return f"🏃 {tone}: " + " | ".join(parts)
+    if delta_sot >= 1 or delta_shots >= 4:
+        icon, tone = "🔴", "明显提速"
+    elif delta_shots >= 2:
+        icon, tone = "🟡", "持续施压"
+    else:
+        icon, tone = "🟢", "节奏平稳"
+    return f"🏃 节奏 {icon} {tone}: " + " | ".join(parts)
 
 
 def _incidents_from_summary(summ: dict) -> list[str]:
@@ -1457,7 +1437,7 @@ def monitor_once():
                     ai_analysis = get_ai_analysis(game, intel, base_rate)
                     if ai_analysis:
                         send_dingtalk(f"[足球预警-AI分析] {game['home_team']} vs {game['away_team']} (70')",
-                                      ai_analysis[:3500])
+                                      ai_analysis[:1500])
                 else:
                     print(f"    [WARN] 发送失败，下次重试")
             else:
@@ -1494,7 +1474,7 @@ def monitor_once():
                     ai_analysis = get_ai_analysis(game, intel, base_rate)
                     if ai_analysis:
                         send_dingtalk(f"[足球预警-AI分析] {game['home_team']} vs {game['away_team']} (80')",
-                                      ai_analysis[:3500])
+                                      ai_analysis[:1500])
                 else:
                     print(f"    [WARN] 发送失败，下次重试")
             else:
