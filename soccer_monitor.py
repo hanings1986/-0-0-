@@ -1109,6 +1109,41 @@ def send_dingtalk_markdown(title: str, text: str) -> bool:
         return False
 
 
+def send_goal_alert(game: dict, rec: dict) -> None:
+    """已监控的 0:0 比赛一旦破门，立即推送钉钉（标题含'足球预警'关键词）。"""
+    now_bj = datetime.now(timezone.utc) + timedelta(hours=8)
+    minute = game["minute"]
+    title = f"[足球预警-进球] {game['home_team']} vs {game['away_team']} — 终于破门！"
+
+    # 判断哪方先进球（用于消息里点明球队）
+    if game["home_score"] > 0 and game["away_score"] == 0:
+        scorer = f"主队 {game['home_team']} 先拔头筹"
+    elif game["away_score"] > 0 and game["home_score"] == 0:
+        scorer = f"客队 {game['away_team']} 先拔头筹"
+    else:
+        scorer = "比赛已被打破平衡"
+
+    alerts = []
+    if rec.get("alert_70_sent"):
+        alerts.append("70'")
+    if rec.get("alert_80_sent"):
+        alerts.append("80'")
+    alert_note = (f"此前已发 {'/'.join(alerts)} 分钟 0:0 预警，" if alerts else "")
+
+    body = (
+        f"⚽ 进球即时提醒\n"
+        f"{'=' * 40}\n"
+        f"联赛: {game['league'] or '未知联赛'}\n"
+        f"比赛: {game['event_name']}\n"
+        f"{scorer}！当前比分 {game['home_score']}:{game['away_score']}\n"
+        f"进球时间: 约第 {minute}'（{game['display_clock']}）\n"
+        f"开赛时间: {game['start_time_bj'].strftime('%m-%d %H:%M') if game['start_time_bj'] else '未知'} (北京)\n"
+        f"{alert_note}0:0 平衡已被打破\n"
+        f"监控时间: {now_bj.strftime('%Y-%m-%d %H:%M:%S')} (北京)\n"
+    )
+    send_dingtalk(title, body)
+
+
 def resolve_finals(state: dict, event_index: dict, results: list) -> int:
     """回查已发 70 分钟预警比赛的终场比分：发赛后回报 + 累积命中率样本"""
     newly = 0
@@ -1602,9 +1637,31 @@ def monitor_once():
                 "first_seen": now_iso,
             }
         rec = state[eid]
+        prev_score = rec.get("last_score")   # 本轮更新前的比分（用于检测 0:0→破门）
         rec["last_seen"] = now_iso
         rec["last_minute"] = minute
         rec["last_score"] = f"{game['home_score']}:{game['away_score']}"
+
+        # 标记重点监控：65 分钟后仍 0:0（这就是"已在监控的 0:0 比赛"）
+        if minute >= INTEL_COLLECT_MINUTE and is_zero_zero(game):
+            rec["watch_zero"] = True
+
+        # 进球即时通知：上一轮还是 0:0、本轮突然破门（且该场在重点监控名单内）→ 立刻推送
+        watched = rec.get("watch_zero") or rec.get("alert_70_sent") or rec.get("alert_80_sent")
+        if (prev_score == "0:0" and not is_zero_zero(game)
+                and watched and not rec.get("goal_alerted")):
+            print(f"    [进球] {ename} 从 0:0 变为 {game['home_score']}:{game['away_score']}"
+                  f"（{minute}'），发送即时通知...")
+            try:
+                send_goal_alert(game, rec)
+                rec["goal_alerted"] = True
+                rec["goal_alert_time"] = now_iso
+                rec["goal_minute"] = minute
+                rec["first_goal_minute"] = minute
+                state_changed = True
+                print(f"    [OK] 进球即时通知已发送")
+            except Exception as e:
+                print(f"    [WARN] 进球通知异常: {e}")
 
         # 65 分钟节点：仍 0:0 → 后台搜集情报（每场只搜集一次，失败最多重试 2 次）
         if (minute >= INTEL_COLLECT_MINUTE and is_zero_zero(game)
