@@ -2406,5 +2406,51 @@
   "goal_after_70": true,
   "date": "2026-09-05",
   "recorded_at": "2026-09-05T13:50:44.519997+00:00"
+ },
+ {
+  "league_id": "23480",
+  "league_name": "English FA Cup Qualifying",
+  "match": "Worcester City at Knowle",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T14:00:34.774951+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "Shenzhen Xinpengcheng at Shandong Taishan",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T14:00:37.327805+00:00"
+ },
+ {
+  "league_id": "3921",
+  "league_name": "3921",
+  "match": "Tenerife at Real Sociedad II",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T14:00:37.327842+00:00"
+ },
+ {
+  "league_id": "3926",
+  "league_name": "3926",
+  "match": "Rodez Aveyron at Metz",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T14:00:37.327855+00:00"
+ },
+ {
+  "league_id": "3926",
+  "league_name": "3926",
+  "match": "Guingamp at Stade de Reims",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T14:00:37.327864+00:00"
  }
 ]

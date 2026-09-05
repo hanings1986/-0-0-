@@ -527,8 +527,75 @@
     "first_goal_minute": 10,
     "first_goal_team": "Dalian Yingbo",
     "recorded_at": "2026-09-05T13:50:44.519997+00:00"
+   },
+   {
+    "match": "Shenzhen Xinpengcheng at Shandong Taishan",
+    "league": "8376",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": false,
+    "first_goal_minute": 1,
+    "first_goal_team": "Shandong Taishan",
+    "recorded_at": "2026-09-05T14:00:37.327805+00:00"
+   },
+   {
+    "match": "Tenerife at Real Sociedad II",
+    "league": "3921",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": false,
+    "first_goal_minute": 60,
+    "first_goal_team": "Tenerife",
+    "recorded_at": "2026-09-05T14:00:37.327842+00:00"
+   },
+   {
+    "match": "Rodez Aveyron at Metz",
+    "league": "3926",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "4:1",
+    "goal_after_70": false,
+    "first_goal_minute": 8,
+    "first_goal_team": "Metz",
+    "recorded_at": "2026-09-05T14:00:37.327855+00:00"
+   },
+   {
+    "match": "Guingamp at Stade de Reims",
+    "league": "3926",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:2",
+    "goal_after_70": false,
+    "first_goal_minute": 5,
+    "first_goal_team": "Guingamp",
+    "recorded_at": "2026-09-05T14:00:37.327864+00:00"
+   },
+   {
+    "match": "Worcester City at Knowle",
+    "league": "English FA Cup Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-05T14:00:34.774951+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-09-05T14:00:38.098946+00:00",
+  "summary": {
+   "total": 48,
+   "goal_after_70": 5,
+   "clean_00": 4,
+   "early_goal": 39,
+   "goal_rate": 10.4
+  }
  }
 }
