@@ -203,6 +203,18 @@
     "first_goal_minute": 66,
     "first_goal_team": "Antigua GFC",
     "recorded_at": "2026-09-05T03:00:33.732445+00:00"
+   },
+   {
+    "match": "Tlaxcala FC at Durango",
+    "league": "3932",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": false,
+    "first_goal_minute": 8,
+    "first_goal_team": "Tlaxcala FC",
+    "recorded_at": "2026-09-05T03:10:40.674313+00:00"
    }
   ],
   "generated_at": null
