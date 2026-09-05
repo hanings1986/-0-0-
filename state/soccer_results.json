@@ -2289,5 +2289,113 @@
   "goal_after_70": true,
   "date": "2026-09-05",
   "recorded_at": "2026-09-05T13:10:43.020262+00:00"
+ },
+ {
+  "league_id": "700",
+  "league_name": "700",
+  "match": "AFC Bournemouth at Newcastle United",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:40:40.029021+00:00"
+ },
+ {
+  "league_id": "8097",
+  "league_name": "8097",
+  "match": "Aston Villa at Chelsea",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:40:40.029032+00:00"
+ },
+ {
+  "league_id": "3914",
+  "league_name": "3914",
+  "match": "Southampton at Lincoln City",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:40:40.029040+00:00"
+ },
+ {
+  "league_id": "3914",
+  "league_name": "3914",
+  "match": "Blackburn Rovers at Preston North End",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:40:40.029045+00:00"
+ },
+ {
+  "league_id": "3914",
+  "league_name": "3914",
+  "match": "Charlton Athletic at Stoke City",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:40:40.029051+00:00"
+ },
+ {
+  "league_id": "8376",
+  "league_name": "Chinese Super League",
+  "match": "Beijing Guoan at Shanghai Port",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:40:40.029056+00:00"
+ },
+ {
+  "league_id": "3915",
+  "league_name": "3915",
+  "match": "Sheffield Wednesday at Peterborough United",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:40:40.029062+00:00"
+ },
+ {
+  "league_id": "3915",
+  "league_name": "3915",
+  "match": "Stockport County at Wigan Athletic",
+  "final": "0:4",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:40:40.029067+00:00"
+ },
+ {
+  "league_id": "3916",
+  "league_name": "3916",
+  "match": "Shrewsbury Town at Fleetwood Town",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:40:40.029072+00:00"
+ },
+ {
+  "league_id": "3916",
+  "league_name": "3916",
+  "match": "Port Vale at Salford City",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:40:40.029076+00:00"
+ },
+ {
+  "league_id": "3917",
+  "league_name": "National League",
+  "match": "FC Halifax Town at Aldershot Town",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:40:40.029081+00:00"
+ },
+ {
+  "league_id": "3917",
+  "league_name": "3917",
+  "match": "Yeovil Town at Southend United",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:40:40.029086+00:00"
  }
 ]
