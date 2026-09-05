@@ -2244,5 +2244,50 @@
   "goal_after_70": true,
   "date": "2026-09-05",
   "recorded_at": "2026-09-05T12:20:36.147913+00:00"
+ },
+ {
+  "league_id": "3939",
+  "league_name": "3939",
+  "match": "Krasnodar at Krylia Sovetov",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:10:43.020215+00:00"
+ },
+ {
+  "league_id": "3927",
+  "league_name": "3927",
+  "match": "1. FC Nürnberg at Holstein Kiel",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:10:43.020237+00:00"
+ },
+ {
+  "league_id": "3927",
+  "league_name": "3927",
+  "match": "SV Darmstadt 98 at Kaiserslautern",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:10:43.020247+00:00"
+ },
+ {
+  "league_id": "3927",
+  "league_name": "3927",
+  "match": "Energie Cottbus at VfL Wolfsburg",
+  "final": "4:4",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:10:43.020255+00:00"
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "Qingdao West Coast at Wuhan Three Towns",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T13:10:43.020262+00:00"
  }
 ]

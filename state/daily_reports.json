@@ -311,6 +311,66 @@
     "first_goal_minute": 53,
     "first_goal_team": "Avispa Fukuoka",
     "recorded_at": "2026-09-05T12:20:36.147913+00:00"
+   },
+   {
+    "match": "Krasnodar at Krylia Sovetov",
+    "league": "3939",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:2",
+    "goal_after_70": false,
+    "first_goal_minute": 3,
+    "first_goal_team": "Krasnodar",
+    "recorded_at": "2026-09-05T13:10:43.020215+00:00"
+   },
+   {
+    "match": "1. FC Nürnberg at Holstein Kiel",
+    "league": "3927",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:2",
+    "goal_after_70": false,
+    "first_goal_minute": 41,
+    "first_goal_team": "1. FC Nürnberg",
+    "recorded_at": "2026-09-05T13:10:43.020237+00:00"
+   },
+   {
+    "match": "SV Darmstadt 98 at Kaiserslautern",
+    "league": "3927",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "3:0",
+    "goal_after_70": false,
+    "first_goal_minute": 43,
+    "first_goal_team": "Kaiserslautern",
+    "recorded_at": "2026-09-05T13:10:43.020247+00:00"
+   },
+   {
+    "match": "Energie Cottbus at VfL Wolfsburg",
+    "league": "3927",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "4:4",
+    "goal_after_70": false,
+    "first_goal_minute": 4,
+    "first_goal_team": "VfL Wolfsburg",
+    "recorded_at": "2026-09-05T13:10:43.020255+00:00"
+   },
+   {
+    "match": "Qingdao West Coast at Wuhan Three Towns",
+    "league": "8376",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:2",
+    "goal_after_70": false,
+    "first_goal_minute": 3,
+    "first_goal_team": "Qingdao West Coast",
+    "recorded_at": "2026-09-05T13:10:43.020262+00:00"
    }
   ],
   "generated_at": null
