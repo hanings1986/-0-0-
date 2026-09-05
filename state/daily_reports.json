@@ -143,6 +143,42 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-05T01:50:34.465275+00:00"
+   },
+   {
+    "match": "América Mineiro at CRB",
+    "league": "4007",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "3:1",
+    "goal_after_70": false,
+    "first_goal_minute": 18,
+    "first_goal_team": "CRB",
+    "recorded_at": "2026-09-05T02:30:41.853194+00:00"
+   },
+   {
+    "match": "Audax Italiano at Deportes Concepcion",
+    "league": "640",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": false,
+    "first_goal_minute": 17,
+    "first_goal_team": "Audax Italiano",
+    "recorded_at": "2026-09-05T02:30:41.853214+00:00"
+   },
+   {
+    "match": "Liga de Quito at Técnico Universitario",
+    "league": "660",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:3",
+    "goal_after_70": false,
+    "first_goal_minute": 19,
+    "first_goal_team": "Técnico Universitario",
+    "recorded_at": "2026-09-05T02:30:41.853224+00:00"
    }
   ],
   "generated_at": null

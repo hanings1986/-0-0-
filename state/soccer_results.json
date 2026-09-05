@@ -2118,5 +2118,32 @@
   "goal_after_70": false,
   "date": "2026-09-04",
   "recorded_at": "2026-09-05T01:50:34.465275+00:00"
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "América Mineiro at CRB",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T02:30:41.853194+00:00"
+ },
+ {
+  "league_id": "640",
+  "league_name": "640",
+  "match": "Audax Italiano at Deportes Concepcion",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T02:30:41.853214+00:00"
+ },
+ {
+  "league_id": "660",
+  "league_name": "660",
+  "match": "Liga de Quito at Técnico Universitario",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T02:30:41.853224+00:00"
  }
 ]
