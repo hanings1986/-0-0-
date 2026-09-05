@@ -12,7 +12,7 @@ on:
         default: 'manual'
 
 permissions:
-  contents: read
+  contents: write
 
 # 同一时间只允许一个实例运行，避免短时间内重复触发钉钉
 # 不取消正在运行的实例（避免漏掉预警）
@@ -59,6 +59,21 @@ jobs:
         run: |
           echo "dispatch source: ${{ github.event.inputs.source }}"
           python soccer_monitor.py
+
+      - name: Commit daily reports to repo
+        # 把 daily_reports.json / soccer_results.json 提交回仓库，供本地桌面 EXCEL 拉取
+        if: success() || failure()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f state/daily_reports.json state/soccer_results.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "daily: update soccer daily reports"
+            git push
+            echo "Committed daily reports"
+          else
+            echo "No daily report changes to commit"
+          fi
 
       - name: Chain next run (10-min cadence, free on public repo)
         # 失败也续链；被手动取消则断链
