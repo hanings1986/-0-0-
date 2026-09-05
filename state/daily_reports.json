@@ -287,6 +287,30 @@
     "first_goal_minute": 15,
     "first_goal_team": "Madrid CFF",
     "recorded_at": "2026-09-05T12:10:39.643895+00:00"
+   },
+   {
+    "match": "FC Badalona at Espanyol",
+    "league": "Liga F",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 97,
+    "first_goal_team": "Badalona",
+    "recorded_at": "2026-09-05T12:20:36.147901+00:00"
+   },
+   {
+    "match": "Mito Hollyhock at Avispa Fukuoka",
+    "league": "750",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": false,
+    "first_goal_minute": 53,
+    "first_goal_team": "Avispa Fukuoka",
+    "recorded_at": "2026-09-05T12:20:36.147913+00:00"
    }
   ],
   "generated_at": null

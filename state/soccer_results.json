@@ -2226,5 +2226,23 @@
   "goal_after_70": true,
   "date": "2026-09-05",
   "recorded_at": "2026-09-05T12:10:39.643895+00:00"
+ },
+ {
+  "league_id": "20956",
+  "league_name": "Liga F",
+  "match": "FC Badalona at Espanyol",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T12:20:36.147901+00:00"
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Mito Hollyhock at Avispa Fukuoka",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T12:20:36.147913+00:00"
  }
 ]
