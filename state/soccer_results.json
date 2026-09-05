@@ -2082,5 +2082,23 @@
   "goal_after_70": true,
   "date": "2026-09-04",
   "recorded_at": "2026-09-05T01:10:40.500360+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Colorado Springs Switchbacks FC at Loudoun United FC",
+  "final": "4:5",
+  "goal_after_70": true,
+  "date": "2026-09-04",
+  "recorded_at": "2026-09-05T01:20:47.286110+00:00"
+ },
+ {
+  "league_id": "3903",
+  "league_name": "Argentine Nacional B",
+  "match": "Mitre (Santiago del Estero) at Ferro Carril Oeste",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-04",
+  "recorded_at": "2026-09-05T01:20:47.286135+00:00"
  }
 ]
