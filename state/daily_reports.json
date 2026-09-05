@@ -1,0 +1,91 @@
+{
+ "2026-09-04": {
+  "date": "2026-09-04",
+  "rows": [
+   {
+    "match": "Brisbane Roar at Brisbane Olympic",
+    "league": "19834",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "3:4",
+    "goal_after_70": true,
+    "first_goal_minute": null,
+    "recorded_at": "2026-09-04T13:01:14.925878+00:00"
+   }
+  ],
+  "generated_at": null
+ },
+ "2026-09-05": {
+  "date": "2026-09-05",
+  "rows": [
+   {
+    "match": "CO Korhogo at AS PSI",
+    "league": "18000",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:2",
+    "goal_after_70": true,
+    "first_goal_minute": null,
+    "recorded_at": "2026-09-04T22:00:38.429271+00:00"
+   },
+   {
+    "match": "Diambars de Saly at Esperence Sportive de Zarzis",
+    "league": "18000",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "3:1",
+    "goal_after_70": true,
+    "first_goal_minute": null,
+    "recorded_at": "2026-09-04T22:00:38.429271+00:00"
+   },
+   {
+    "match": "Huracán at Belgrano (Córdoba)",
+    "league": "745",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 61,
+    "recorded_at": "2026-09-05T00:10:34.782434+00:00"
+   },
+   {
+    "match": "Deportivo Riestra at Platense",
+    "league": "745",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 16,
+    "recorded_at": "2026-09-05T00:00:33.934619+00:00"
+   },
+   {
+    "match": "Cerro Largo at Montevideo City Torque",
+    "league": "680",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:1",
+    "goal_after_70": true,
+    "first_goal_minute": 41,
+    "recorded_at": "2026-09-05T00:00:34.781953+00:00"
+   },
+   {
+    "match": "Cuiabá at Criciúma",
+    "league": "4007",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 19,
+    "recorded_at": "2026-09-05T00:30:35.152444+00:00"
+   }
+  ],
+  "generated_at": null
+ }
+}
