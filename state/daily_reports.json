@@ -251,6 +251,30 @@
     "first_goal_minute": 47,
     "first_goal_team": "Inter de San Carlos",
     "recorded_at": "2026-09-05T04:10:37.540446+00:00"
+   },
+   {
+    "match": "Pachuca at FC Juarez",
+    "league": "760",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": false,
+    "first_goal_minute": 53,
+    "first_goal_team": "Pachuca",
+    "recorded_at": "2026-09-05T05:20:35.881238+00:00"
+   },
+   {
+    "match": "Mineros de Zacatecas at Club Atlético La Paz",
+    "league": "3932",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "3:0",
+    "goal_after_70": false,
+    "first_goal_minute": 18,
+    "first_goal_team": "Club Atlético La Paz",
+    "recorded_at": "2026-09-05T05:20:35.881248+00:00"
    }
   ],
   "generated_at": null

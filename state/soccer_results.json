@@ -2199,5 +2199,23 @@
   "goal_after_70": true,
   "date": "2026-09-05",
   "recorded_at": "2026-09-05T04:10:37.540446+00:00"
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Pachuca at FC Juarez",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T05:20:35.881238+00:00"
+ },
+ {
+  "league_id": "3932",
+  "league_name": "3932",
+  "match": "Mineros de Zacatecas at Club Atlético La Paz",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T05:20:35.881248+00:00"
  }
 ]
