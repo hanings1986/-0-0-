@@ -1,0 +1,84 @@
+name: Soccer Score Monitor
+
+on:
+  schedule:
+    # 每 10 分钟兜底（GitHub cron 不保证准时；主力触发 = 本地 Task Scheduler + 自链式 dispatch）
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+    inputs:
+      source:
+        description: '触发来源 (manual/chain)'
+        required: false
+        default: 'manual'
+
+permissions:
+  contents: write
+
+# 同一时间只允许一个实例运行，避免短时间内重复触发钉钉
+# 不取消正在运行的实例（避免漏掉预警）
+concurrency:
+  group: soccer-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    # 25 分钟上限：监控最多 5 分钟 + 链式休眠最长 ~10.5 分钟 + 余量
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install --quiet requests openai
+
+      - name: Restore state cache
+        uses: actions/cache@v4
+        with:
+          path: state
+          key: soccer-state-${{ github.run_id }}
+          restore-keys: |
+            soccer-state-
+
+      - name: Run monitor
+        timeout-minutes: 5
+        env:
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_BASE_URL: https://api.deepseek.com
+          DEEPSEEK_MODEL: deepseek-chat
+        run: |
+          echo "dispatch source: ${{ github.event.inputs.source }}"
+          python soccer_monitor.py
+
+      - name: Commit daily reports to repo
+        # 把 daily_reports.json / soccer_results.json 提交回仓库，供本地桌面 EXCEL 拉取
+        if: success() || failure()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f state/daily_reports.json state/soccer_results.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "daily: update soccer daily reports"
+            git push
+            echo "Committed daily reports"
+          else
+            echo "No daily report changes to commit"
+          fi
+
+      - name: Chain next run (10-min cadence, free on public repo)
+        # 失败也续链；被手动取消则断链
+        if: success() || failure()
+        env:
+          CHAIN_TOKEN: ${{ secrets.CHAIN_TOKEN }}
+        run: |
+          python chain_next.py
