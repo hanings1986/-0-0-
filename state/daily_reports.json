@@ -227,6 +227,30 @@
     "first_goal_minute": 10,
     "first_goal_team": "Boston Legacy FC",
     "recorded_at": "2026-09-05T03:40:37.422715+00:00"
+   },
+   {
+    "match": "Kansas City Current at Bay FC",
+    "league": "8301",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:2",
+    "goal_after_70": false,
+    "first_goal_minute": 11,
+    "first_goal_team": "Kansas City Current",
+    "recorded_at": "2026-09-05T04:10:37.540435+00:00"
+   },
+   {
+    "match": "Inter de San Carlos at Escorpiones Belén",
+    "league": "4005",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": false,
+    "first_goal_minute": 47,
+    "first_goal_team": "Inter de San Carlos",
+    "recorded_at": "2026-09-05T04:10:37.540446+00:00"
    }
   ],
   "generated_at": null
