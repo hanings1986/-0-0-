@@ -84,6 +84,17 @@
     "goal_after_70": true,
     "first_goal_minute": 19,
     "recorded_at": "2026-09-05T00:30:35.152444+00:00"
+   },
+   {
+    "match": "Sporting Jax at DC Power FC",
+    "league": "23633",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 59,
+    "recorded_at": "2026-09-05T01:10:40.500360+00:00"
    }
   ],
   "generated_at": null
