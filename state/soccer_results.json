@@ -2145,5 +2145,23 @@
   "goal_after_70": true,
   "date": "2026-09-05",
   "recorded_at": "2026-09-05T02:30:41.853224+00:00"
+ },
+ {
+  "league_id": "3929",
+  "league_name": "Honduran Liga Nacional",
+  "match": "Olancho FC at CD Choloma",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T03:00:33.732431+00:00"
+ },
+ {
+  "league_id": "3928",
+  "league_name": "3928",
+  "match": "Aurora FC at Antigua GFC",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-05",
+  "recorded_at": "2026-09-05T03:00:33.732445+00:00"
  }
 ]

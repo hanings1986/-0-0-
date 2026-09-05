@@ -179,6 +179,30 @@
     "first_goal_minute": 19,
     "first_goal_team": "Técnico Universitario",
     "recorded_at": "2026-09-05T02:30:41.853224+00:00"
+   },
+   {
+    "match": "Olancho FC at CD Choloma",
+    "league": "Honduran Liga Nacional",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-05T03:00:33.732431+00:00"
+   },
+   {
+    "match": "Aurora FC at Antigua GFC",
+    "league": "3928",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:1",
+    "goal_after_70": false,
+    "first_goal_minute": 66,
+    "first_goal_team": "Antigua GFC",
+    "recorded_at": "2026-09-05T03:00:33.732445+00:00"
    }
   ],
   "generated_at": null
