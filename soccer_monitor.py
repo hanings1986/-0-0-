@@ -1001,11 +1001,27 @@ def log_resolved_daily_rows(state: dict) -> int:
             except Exception:
                 pass
 
-        # 用首球分钟校正「70'后破门」：首球在 70' 前 → 当时并非 0:0（误报/补漏误纳），不算
-        if fgm is not None:
-            goal_after_70 = has_goals and fgm >= 70
+        # ── 硬过滤：只有「真正 70 分钟 0:0」的比赛才进日报 ──
+        #   0:0 到底（无球）                      → 收录
+        #   有球且首球分钟 >= 70（晚破门）        → 收录
+        #   有球且首球分钟 < 70（早就进球，误报） → 剔除
+        #   有球但首球时间取不到（无法证明 0:0）  → 剔除（保守，宁缺毋滥）
+        if total == 0:
+            is_valid_00 = True
+            goal_after_70 = False
+        elif fgm is not None:
+            is_valid_00 = fgm >= 70
+            goal_after_70 = fgm >= 70
         else:
-            goal_after_70 = has_goals
+            is_valid_00 = False
+            goal_after_70 = False
+
+        rec["daily_logged"] = True
+        if not is_valid_00:
+            reason = (f"首球 {fgt or '?'} {fgm}'<70，早进球非0:0" if fgm is not None
+                      else "终场有球但首球时间未知，无法证实70'0:0")
+            print(f"[日报剔除] {rec.get('game_name') or eid} → {final}：{reason}，不进日报")
+            continue
 
         before = load_daily_reports()
         rows_before = len((before.get(date_key) or {}).get("rows", []))
@@ -1016,13 +1032,10 @@ def log_resolved_daily_rows(state: dict) -> int:
         rows_after = len((after.get(date_key) or {}).get("rows", []))
         if rows_after > rows_before:
             logged += 1
-        rec["daily_logged"] = True
-        if fgm is not None and fgm < 70:
-            fg_txt = f"首球 {fgt or '?'} {fgm}'（非70'后，误报）"
-        elif goal_after_70:
-            fg_txt = f"{fgt or '?'} {fgm}'" if fgm is not None else "已破门(时间未知)"
-        else:
+        if total == 0:
             fg_txt = "0:0 到底"
+        else:
+            fg_txt = f"{fgt or '?'} {fgm}'"
         print(f"[日报登记] {rec.get('game_name') or eid} → {final} 首球 {fg_txt}（{date_key}）")
     return logged
 
@@ -1335,15 +1348,7 @@ def backstop_scan(state: dict, all_games: list, results: list) -> int:
                   f"({rec['backstop_tries']}/{BACKSTOP_MAX_TRIES})")
             continue
 
-        fg_info = _first_goal_info(summ)
-        fg = fg_info["minute"] if fg_info else None
-        was70 = fg is None or fg >= 70
-        was80 = fg is None or fg >= 80
-        # 缓存首球信息，供日报统一登记使用（分钟 + 进球球队）
-        rec["first_goal_minute"] = int(fg) if fg is not None else None
-        rec["first_goal_team"] = (fg_info or {}).get("team") or None
-
-        # 终场比分（summary 优先，比分板兜底）
+        # 终场比分（summary 优先，比分板兜底）—— 提前算，用于交叉验证
         final = None
         try:
             comp = ((summ.get("header") or {}).get("competitions") or [{}])[0]
@@ -1354,6 +1359,34 @@ def backstop_scan(state: dict, all_games: list, results: list) -> int:
             final = None
         if final is None:
             final = f"{g['home_score']}:{g['away_score']}"
+        try:
+            _h, _, _a = final.partition(":")
+            final_total = int(float(_h)) + int(float(_a))
+        except Exception:
+            final_total = -1  # 终场比分未知
+
+        fg_info = _first_goal_info(summ)
+        fg = fg_info["minute"] if fg_info else None
+        # 缓存首球信息，供日报统一登记使用（分钟 + 进球球队）
+        rec["first_goal_minute"] = int(fg) if fg is not None else None
+        rec["first_goal_team"] = (fg_info or {}).get("team") or None
+
+        # 判定 70/80 分钟时刻是否仍 0:0（必须用终场比分交叉验证，不能把"取不到进球"当成"无进球"）：
+        #   - 有明确首球分钟：按分钟判定
+        #   - 终场 0:0（无球）：全程 0:0，窗口必然 0:0
+        #   - 终场有球但首球时间取不到：无法证明当时 0:0 → 保守视为「已进球」，绝不补发（避免误报）
+        if fg is not None:
+            was70 = fg >= 70
+            was80 = fg >= 80
+        elif final_total == 0:
+            was70 = True
+            was80 = True
+        else:
+            was70 = False
+            was80 = False
+            rec["backstop_uncertain"] = True
+            print(f"    [补漏] {g['event_name']} 终场 {final} 有球但首球时间缺失，"
+                  f"不判定为 0:0（跳过补发，避免误报）")
 
         # 决定各窗口的处理方式
         newly = []          # 需要补发的窗口
