@@ -215,6 +215,18 @@
     "first_goal_minute": 8,
     "first_goal_team": "Tlaxcala FC",
     "recorded_at": "2026-09-05T03:10:40.674313+00:00"
+   },
+   {
+    "match": "Boston Legacy FC at Utah Royals",
+    "league": "8301",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:2",
+    "goal_after_70": false,
+    "first_goal_minute": 10,
+    "first_goal_team": "Boston Legacy FC",
+    "recorded_at": "2026-09-05T03:40:37.422715+00:00"
    }
   ],
   "generated_at": null
