@@ -979,7 +979,7 @@ def log_resolved_daily_rows(state: dict) -> int:
             total = int(float(h)) + int(float(a))
         except Exception:
             continue
-        goal_after_70 = total > 0
+        has_goals = total > 0
         date_key = (_bj_date_from_ts(rec.get("final_recorded_at"))
                     or _bj_date_from_ts(rec.get("first_seen"))
                     or _today_bj_str())
@@ -987,7 +987,7 @@ def log_resolved_daily_rows(state: dict) -> int:
         # 首球信息：优先 rec 缓存（实时进球通知/backstop 已算），否则从 summary 拉取
         fgm = rec.get("first_goal_minute")
         fgt = rec.get("first_goal_team")
-        if goal_after_70 and (fgm is None or not fgt):
+        if has_goals and (fgm is None or not fgt):
             try:
                 summ = _espn_first([u.format(eid=eid) for u in SUMMARY_URLS])
                 if summ:
@@ -1001,6 +1001,12 @@ def log_resolved_daily_rows(state: dict) -> int:
             except Exception:
                 pass
 
+        # 用首球分钟校正「70'后破门」：首球在 70' 前 → 当时并非 0:0（误报/补漏误纳），不算
+        if fgm is not None:
+            goal_after_70 = has_goals and fgm >= 70
+        else:
+            goal_after_70 = has_goals
+
         before = load_daily_reports()
         rows_before = len((before.get(date_key) or {}).get("rows", []))
         append_daily_report_row(rec, final, goal_after_70,
@@ -1011,22 +1017,40 @@ def log_resolved_daily_rows(state: dict) -> int:
         if rows_after > rows_before:
             logged += 1
         rec["daily_logged"] = True
-        if not goal_after_70:
-            fg_txt = "0:0 到底"
-        elif fgm is not None:
-            fg_txt = f"{fgt or '?'} {fgm}'"
+        if fgm is not None and fgm < 70:
+            fg_txt = f"首球 {fgt or '?'} {fgm}'（非70'后，误报）"
+        elif goal_after_70:
+            fg_txt = f"{fgt or '?'} {fgm}'" if fgm is not None else "已破门(时间未知)"
         else:
-            fg_txt = "已破门(时间未知)"
+            fg_txt = "0:0 到底"
         print(f"[日报登记] {rec.get('game_name') or eid} → {final} 首球 {fg_txt}（{date_key}）")
     return logged
 
 
+def _eff_goal_after_70(r: dict) -> bool:
+    """以首球分钟为准：首球在 70' 前不算 70'后破门（用于校正历史误报行）。"""
+    fgm = r.get("first_goal_minute")
+    if fgm is not None:
+        return fgm >= 70
+    return bool(r.get("goal_after_70"))
+
+
+def _row_total_goals(r: dict) -> int:
+    try:
+        h, _, a = (r.get("final") or "0:0").partition(":")
+        return int(float(h)) + int(float(a))
+    except Exception:
+        return 0
+
+
 def _summarize_day(rows: list) -> dict:
     total = len(rows)
-    goals = sum(1 for r in rows if r.get("goal_after_70"))
-    clean = total - goals
+    goals = sum(1 for r in rows if _eff_goal_after_70(r))
+    clean = sum(1 for r in rows if _row_total_goals(r) == 0)
+    early = total - goals - clean   # 首球早于 70'（误报/噪声，既非晚破门也非 0:0）
     rate = round(goals * 100 / total, 1) if total else 0.0
-    return {"total": total, "goal_after_70": goals, "clean_00": clean, "goal_rate": rate}
+    return {"total": total, "goal_after_70": goals, "clean_00": clean,
+            "early_goal": early, "goal_rate": rate}
 
 
 def send_daily_report(state: dict) -> None:
@@ -1064,8 +1088,11 @@ def send_daily_report(state: dict) -> None:
         a80 = "✅" if r.get("alert_80") else "—"
         fgm = r.get("first_goal_minute")
         fgt = r.get("first_goal_team") or ""
-        if r.get("goal_after_70"):
-            fg_txt = f"⚽ {fgt + ' ' if fgt else ''}{int(fgm)}'" if fgm is not None else "⚽ 已破门"
+        total_goals = _row_total_goals(r)
+        if fgm is not None:
+            fg_txt = f"⚽ {fgt + ' ' if fgt else ''}{int(fgm)}'"
+        elif total_goals > 0:
+            fg_txt = "⚽ 已破门"
         else:
             fg_txt = "—"
         lines.append(
