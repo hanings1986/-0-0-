@@ -131,6 +131,18 @@
     "first_goal_minute": 19,
     "first_goal_team": "Athletic",
     "recorded_at": "2026-09-05T01:30:33.524786+00:00"
+   },
+   {
+    "match": "Nashville SC at New York City FC",
+    "league": "MLS",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-05T01:50:34.465275+00:00"
    }
   ],
   "generated_at": null
