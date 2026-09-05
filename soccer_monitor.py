@@ -99,6 +99,10 @@ STATE_FILE = os.environ.get("SOCCER_STATE_FILE", os.path.join(_STATE_DIR, "socce
 # 赛果回溯样本库（联赛命中率统计）与健康自检状态
 RESULTS_FILE = os.path.join(_STATE_DIR, "soccer_results.json")
 HEALTH_FILE = os.path.join(_STATE_DIR, "health.json")
+# 每日赛后汇报数据（供本地拉取生成桌面 EXCEL）
+DAILY_REPORTS_FILE = os.path.join(_STATE_DIR, "daily_reports.json")
+# 每日汇报发送时间（北京时间，小时）。监控时段 06-23，取 22 点后第一条运行发送
+DAILY_REPORT_HOUR = 22
 
 STATE_TTL_HOURS = 12
 
@@ -890,6 +894,140 @@ def league_base_rate_text(results: list, league_id: str) -> str | None:
     return f"📈 实证参考: 该联赛样本累积中（破门 {goals}/{n}）"
 
 
+# ── 每日赛后汇报：每日一次表格化钉钉 + 写入 daily_reports.json（供桌面 EXCEL） ──
+
+def load_daily_reports() -> dict:
+    return load_json_file(DAILY_REPORTS_FILE, {}) or {}
+
+
+def save_daily_reports(data: dict) -> None:
+    save_json_file(DAILY_REPORTS_FILE, data)
+
+
+def _today_bj_str() -> str:
+    return (datetime.now(timezone.utc) + timedelta(hours=8)).strftime("%Y-%m-%d")
+
+
+def append_daily_report_row(rec: dict, final: str, goal_after_70: bool) -> None:
+    """终场确定后，把该行追加到当日日报数据（不落钉钉，钉钉每日汇总一次）"""
+    try:
+        reports = load_daily_reports()
+        date_key = _today_bj_str()
+        day = reports.setdefault(date_key, {"date": date_key, "rows": [], "generated_at": None})
+        match_name = rec.get("game_name") or "?"
+        # 避免同一场重复写入（用比赛名+终场比分判重）
+        if any(r.get("match") == match_name and r.get("final") == final for r in day["rows"]):
+            return
+        league_name = ""
+        intel = rec.get("intel") or {}
+        if isinstance(intel, dict):
+            league_name = (intel.get("league") or {}).get("name") or ""
+        if not league_name:
+            league_name = str(rec.get("league_id") or "?")
+        day["rows"].append({
+            "match": match_name,
+            "league": league_name,
+            "tier": rec.get("tier", 3),
+            "alert_70": bool(rec.get("alert_70_sent")),
+            "alert_80": bool(rec.get("alert_80_sent")),
+            "final": final,
+            "goal_after_70": goal_after_70,
+            "recorded_at": rec.get("final_recorded_at"),
+        })
+        save_daily_reports(reports)
+    except Exception as e:
+        print(f"[WARN] 写入 daily_reports 失败: {e}")
+
+
+def _summarize_day(rows: list) -> dict:
+    total = len(rows)
+    goals = sum(1 for r in rows if r.get("goal_after_70"))
+    clean = total - goals
+    rate = round(goals * 100 / total, 1) if total else 0.0
+    return {"total": total, "goal_after_70": goals, "clean_00": clean, "goal_rate": rate}
+
+
+def send_daily_report(state: dict) -> None:
+    """每日一次：把当日所有已终场比赛汇总成表格，发一条钉钉（含 Markdown 表格）。"""
+    now_bj = datetime.now(timezone.utc) + timedelta(hours=8)
+    today_bj = now_bj.strftime("%Y-%m-%d")
+
+    # 仅在 DAILY_REPORT_HOUR 点之后发送，且每天只发一次
+    if now_bj.hour < DAILY_REPORT_HOUR:
+        return
+    if state.get("daily_report_sent_date") == today_bj:
+        return
+
+    reports = load_daily_reports()
+    day = reports.get(today_bj) or {"date": today_bj, "rows": []}
+    rows = day.get("rows", [])
+
+    summary = _summarize_day(rows)
+    # 标记今日已发（即使今天没有可汇报的比赛也标记，避免每 10 分钟重试）
+    state["daily_report_sent_date"] = today_bj
+
+    if not rows:
+        print(f"[日报] {today_bj} 暂无可汇报比赛，仅标记已发送")
+        return
+
+    # 构造 Markdown 表格
+    lines = [
+        f"📋 **{today_bj} 赛后汇报**（共 {summary['total']} 场）",
+        "",
+        "| 比赛 | 联赛 | 70'预警 | 80'预警 | 终场比分 | 70'后破门 |",
+        "|:-----|:-----|:-------:|:-------:|:--------:|:--------:|",
+    ]
+    for r in rows:
+        a70 = "✅" if r.get("alert_70") else "—"
+        a80 = "✅" if r.get("alert_80") else "—"
+        goal = "🟢 是" if r.get("goal_after_70") else "⚪ 否"
+        lines.append(
+            f"| {r.get('match','?')} | {r.get('league','?')} | {a70} | {a80} "
+            f"| {r.get('final','?')} | {goal} |"
+        )
+    lines += [
+        "",
+        f"📊 **汇总**：预警 {summary['total']} 场，70'后破门 {summary['goal_after_70']} 场，"
+        f"0:0 到底 {summary['clean_00']} 场，破门率 {summary['goal_rate']}%",
+        "",
+        "_仅赛事数据推演，不涉投注引导。_",
+    ]
+    body = "\n".join(lines)
+
+    title = f"[足球预警-赛后汇报] {today_bj} 日报"
+    # 钉钉 markdown 消息，表格渲染效果更好
+    send_dingtalk_markdown(title, body)
+
+    # 记录汇总到 daily_reports，供桌面 EXCEL 渲染
+    day["summary"] = summary
+    day["generated_at"] = datetime.now(timezone.utc).isoformat()
+    reports[today_bj] = day
+    save_daily_reports(reports)
+    print(f"[日报] 已发送 {today_bj} 赛后汇报（{summary['total']} 场）")
+
+
+def send_dingtalk_markdown(title: str, text: str) -> bool:
+    """钉钉 markdown 消息（支持表格）。title 必须含'足球预警'关键词。"""
+    if not DINGTALK_WEBHOOK:
+        print("[ERROR] 未配置 DINGTALK_WEBHOOK 环境变量，无法发送钉钉")
+        return False
+    payload = {
+        "msgtype": "markdown",
+        "markdown": {"title": title, "text": text},
+    }
+    try:
+        resp = requests.post(DINGTALK_WEBHOOK, json=payload, timeout=10)
+        result = resp.json()
+        if result.get("errcode") == 0:
+            print(f"[OK] 钉钉日报已发送: {title}")
+            return True
+        print(f"[ERROR] 钉钉错误: {result.get('errmsg')} | code={result.get('errcode')}")
+        return False
+    except Exception as e:
+        print(f"[ERROR] 钉钉发送异常: {e}")
+        return False
+
+
 def resolve_finals(state: dict, event_index: dict, results: list) -> int:
     """回查已发 70 分钟预警比赛的终场比分：发赛后回报 + 累积命中率样本"""
     newly = 0
@@ -936,9 +1074,8 @@ def resolve_finals(state: dict, event_index: dict, results: list) -> int:
         rec["final_recorded_at"] = datetime.now(timezone.utc).isoformat()
         outcome = (f"终场比分 {final}（70 分钟后有进球）" if total > 0
                    else f"终场比分 {final}（0:0 保持到最后）")
-        send_dingtalk(f"[足球预警-赛后回报] {rec.get('game_name') or eid}",
-                      f"📋 赛后回报\n{'-' * 30}\n{outcome}\n"
-                      f"已计入联赛命中率样本库")
+        # 不再单独发赛后回报，改为每日汇总一次（见 send_daily_report）
+        append_daily_report_row(rec, final, total > 0)
         results.append({
             "league_id": str(rec.get("league_id") or ""),
             "league_name": (rec.get("intel") or {}).get("league", {}).get("name")
@@ -1512,13 +1649,22 @@ def monitor_once():
     except Exception as e:
         print(f"[WARN] 补漏扫描异常: {e}")
 
-    # 赛果回溯：已发 70 分钟预警的比赛回查终场比分，累积联赛命中率样本 + 赛后回报
+    # 赛果回溯：已发 70 分钟预警的比赛回查终场比分，累积联赛命中率样本 + 写入日报数据
     try:
         newly = resolve_finals(state, event_index, results)
         if newly:
             print(f"[回溯] 本轮新增 {newly} 条赛果样本 → {os.path.basename(RESULTS_FILE)}")
     except Exception as e:
         print(f"[WARN] 赛果回溯异常: {e}")
+
+    # 每日赛后汇报：每天 22 点后第一条运行发一次表格化钉钉日报
+    try:
+        before = state.get("daily_report_sent_date")
+        send_daily_report(state)
+        if state.get("daily_report_sent_date") != before:
+            state_changed = True
+    except Exception as e:
+        print(f"[WARN] 每日汇报异常: {e}")
 
     save_json_file(RESULTS_FILE, results)   # 样本库每次落盘（文件很小）
 
