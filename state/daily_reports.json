@@ -515,6 +515,18 @@
     "first_goal_minute": 25,
     "first_goal_team": "Yeovil Town",
     "recorded_at": "2026-09-05T13:40:40.029086+00:00"
+   },
+   {
+    "match": "Qingdao Hainiu at Dalian Yingbo",
+    "league": "8376",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:1",
+    "goal_after_70": false,
+    "first_goal_minute": 10,
+    "first_goal_team": "Dalian Yingbo",
+    "recorded_at": "2026-09-05T13:50:44.519997+00:00"
    }
   ],
   "generated_at": null
