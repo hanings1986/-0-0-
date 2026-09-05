@@ -909,7 +909,8 @@ def _today_bj_str() -> str:
 
 
 def append_daily_report_row(rec: dict, final: str, goal_after_70: bool,
-                            first_goal_minute=None, date_key: str | None = None) -> None:
+                            first_goal_minute=None, first_goal_team=None,
+                            date_key: str | None = None) -> None:
     """终场确定后，把该行追加到当日日报数据（不落钉钉，钉钉每日汇总一次）"""
     try:
         reports = load_daily_reports()
@@ -940,6 +941,7 @@ def append_daily_report_row(rec: dict, final: str, goal_after_70: bool,
             "final": final,
             "goal_after_70": goal_after_70,
             "first_goal_minute": fg,
+            "first_goal_team": first_goal_team or None,
             "recorded_at": rec.get("final_recorded_at"),
         })
         save_daily_reports(reports)
@@ -982,28 +984,39 @@ def log_resolved_daily_rows(state: dict) -> int:
                     or _bj_date_from_ts(rec.get("first_seen"))
                     or _today_bj_str())
 
-        # 首球分钟：优先 rec 缓存（backstop 已算），否则从 summary 拉取
+        # 首球信息：优先 rec 缓存（实时进球通知/backstop 已算），否则从 summary 拉取
         fgm = rec.get("first_goal_minute")
-        if goal_after_70 and fgm is None:
+        fgt = rec.get("first_goal_team")
+        if goal_after_70 and (fgm is None or not fgt):
             try:
                 summ = _espn_first([u.format(eid=eid) for u in SUMMARY_URLS])
                 if summ:
-                    fg = _first_goal_minute(summ)
-                    if fg is not None:
-                        fgm = int(fg)
+                    info = _first_goal_info(summ)
+                    if info:
+                        fgm = info["minute"]
+                        fgt = info.get("team") or fgt
                         rec["first_goal_minute"] = fgm
+                        if info.get("team"):
+                            rec["first_goal_team"] = info["team"]
             except Exception:
                 pass
 
         before = load_daily_reports()
         rows_before = len((before.get(date_key) or {}).get("rows", []))
-        append_daily_report_row(rec, final, goal_after_70, first_goal_minute=fgm, date_key=date_key)
+        append_daily_report_row(rec, final, goal_after_70,
+                                first_goal_minute=fgm, first_goal_team=fgt,
+                                date_key=date_key)
         after = load_daily_reports()
         rows_after = len((after.get(date_key) or {}).get("rows", []))
         if rows_after > rows_before:
             logged += 1
         rec["daily_logged"] = True
-        fg_txt = f"{fgm}'" if fgm is not None else ("0:0" if not goal_after_70 else "?")
+        if not goal_after_70:
+            fg_txt = "0:0 到底"
+        elif fgm is not None:
+            fg_txt = f"{fgt or '?'} {fgm}'"
+        else:
+            fg_txt = "已破门(时间未知)"
         print(f"[日报登记] {rec.get('game_name') or eid} → {final} 首球 {fg_txt}（{date_key}）")
     return logged
 
@@ -1039,33 +1052,26 @@ def send_daily_report(state: dict) -> None:
         print(f"[日报] {today_bj} 暂无可汇报比赛，仅标记已发送")
         return
 
-    # 构造 Markdown 表格
+    # 构造 Markdown 表格（进球球队 + 分钟全部在表格列内）
     lines = [
         f"📋 **{today_bj} 赛后汇报**（共 {summary['total']} 场）",
         "",
-        "| 比赛 | 联赛 | 70'预警 | 80'预警 | 终场比分 | 首球时间 |",
-        "|:-----|:-----|:-------:|:-------:|:--------:|:--------:|",
+        "| 比赛 | 联赛 | 70'预警 | 80'预警 | 终场比分 | 首球（球队/时间） |",
+        "|:-----|:-----|:-------:|:-------:|:--------:|:----------------:|",
     ]
-    goal_briefs = []
     for r in rows:
         a70 = "✅" if r.get("alert_70") else "—"
         a80 = "✅" if r.get("alert_80") else "—"
         fgm = r.get("first_goal_minute")
+        fgt = r.get("first_goal_team") or ""
         if r.get("goal_after_70"):
-            fg_txt = f"⚽ {int(fgm)}'" if fgm is not None else "⚽ 已破门"
-            goal_briefs.append(f"{r.get('match','?')} {int(fgm)}'" if fgm is not None
-                               else f"{r.get('match','?')}（时间未知）")
+            fg_txt = f"⚽ {fgt + ' ' if fgt else ''}{int(fgm)}'" if fgm is not None else "⚽ 已破门"
         else:
             fg_txt = "—"
         lines.append(
             f"| {r.get('match','?')} | {r.get('league','?')} | {a70} | {a80} "
             f"| {r.get('final','?')} | {fg_txt} |"
         )
-    lines.append("")
-    if goal_briefs:
-        lines.append("⚽ **破门场次**：" + "；".join(goal_briefs))
-    else:
-        lines.append("🧊 今日预警场次全部 0:0 保持到终场")
     lines += [
         "",
         f"📊 **汇总**：预警 {summary['total']} 场，70'后破门 {summary['goal_after_70']} 场，"
@@ -1221,6 +1227,12 @@ BACKSTOP_MAX_TRIES = 3           # summary 拉取失败重试上限
 
 def _first_goal_minute(summ: dict) -> float | None:
     """从 keyEvents 找第一个进球的比赛分钟数；无进球返回 None"""
+    info = _first_goal_info(summ)
+    return info["minute"] if info else None
+
+
+def _first_goal_info(summ: dict) -> dict | None:
+    """从 keyEvents 找第一个进球：返回 {"minute": int, "team": 球队短名}；无进球返回 None"""
     best = None
     for e in (summ.get("keyEvents") or []):
         try:
@@ -1236,8 +1248,13 @@ def _first_goal_minute(summ: dict) -> float | None:
                 m = int(s)
             else:
                 m = None
-            if m is not None and (best is None or m < best):
-                best = m
+            if m is None:
+                continue
+            team = ((e.get("team") or {}).get("shortDisplayName")
+                    or (e.get("team") or {}).get("displayName")
+                    or (e.get("team") or {}).get("name") or "")
+            if best is None or m < best["minute"]:
+                best = {"minute": m, "team": team}
         except Exception:
             continue
     return best
@@ -1291,11 +1308,13 @@ def backstop_scan(state: dict, all_games: list, results: list) -> int:
                   f"({rec['backstop_tries']}/{BACKSTOP_MAX_TRIES})")
             continue
 
-        fg = _first_goal_minute(summ)
+        fg_info = _first_goal_info(summ)
+        fg = fg_info["minute"] if fg_info else None
         was70 = fg is None or fg >= 70
         was80 = fg is None or fg >= 80
-        # 缓存首球分钟，供日报统一登记使用
+        # 缓存首球信息，供日报统一登记使用（分钟 + 进球球队）
         rec["first_goal_minute"] = int(fg) if fg is not None else None
+        rec["first_goal_team"] = (fg_info or {}).get("team") or None
 
         # 终场比分（summary 优先，比分板兜底）
         final = None
@@ -1650,14 +1669,20 @@ def monitor_once():
         watched = rec.get("watch_zero") or rec.get("alert_70_sent") or rec.get("alert_80_sent")
         if (prev_score == "0:0" and not is_zero_zero(game)
                 and watched and not rec.get("goal_alerted")):
+            # 0:0 → 破门：进的那一方（比分变为 1 的一方）即为首球球队
+            if game["home_score"] > 0:
+                goal_team = game["home_team"]
+            else:
+                goal_team = game["away_team"]
             print(f"    [进球] {ename} 从 0:0 变为 {game['home_score']}:{game['away_score']}"
-                  f"（{minute}'），发送即时通知...")
+                  f"（{minute}'，{goal_team}），发送即时通知...")
             try:
                 send_goal_alert(game, rec)
                 rec["goal_alerted"] = True
                 rec["goal_alert_time"] = now_iso
                 rec["goal_minute"] = minute
                 rec["first_goal_minute"] = minute
+                rec["first_goal_team"] = goal_team
                 state_changed = True
                 print(f"    [OK] 进球即时通知已发送")
             except Exception as e:
