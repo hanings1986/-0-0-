@@ -275,6 +275,18 @@
     "first_goal_minute": 18,
     "first_goal_team": "Club Atlético La Paz",
     "recorded_at": "2026-09-05T05:20:35.881248+00:00"
+   },
+   {
+    "match": "Madrid CFF at Valencia",
+    "league": "20956",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:3",
+    "goal_after_70": false,
+    "first_goal_minute": 15,
+    "first_goal_team": "Madrid CFF",
+    "recorded_at": "2026-09-05T12:10:39.643895+00:00"
    }
   ],
   "generated_at": null
