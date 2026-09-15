@@ -622,5 +622,23 @@
    "early_goal": 0,
    "goal_rate": 100.0
   }
+ },
+ "2026-09-16": {
+  "date": "2026-09-16",
+  "rows": [
+   {
+    "match": "Al-Jazira at Gol Gohar FC Sirjan",
+    "league": "AFC Champions League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-15T16:11:12.676528+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
