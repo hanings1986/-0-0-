@@ -2452,5 +2452,42 @@
   "goal_after_70": true,
   "date": "2026-09-05",
   "recorded_at": "2026-09-05T14:00:37.327864+00:00"
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Shanghai Port at Ratchaburi FC",
+  "final": "4:6",
+  "goal_after_70": true,
+  "date": "2026-09-15",
+  "recorded_at": "2026-09-15T12:01:11.142831+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "AFC Champions League Elite",
+  "match": "Kyoto Sanga at Daejeon Hana Citizen",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-15",
+  "recorded_at": "2026-09-15T12:01:11.220132+00:00"
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Cong An Hanoi at Gamba Osaka",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-09-15",
+  "recorded_at": "2026-09-15T12:01:11.220153+00:00"
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Newcastle Jets at Kashima Antlers",
+  "final": "7:1",
+  "goal_after_70": true,
+  "date": "2026-09-15",
+  "recorded_at": "2026-09-15T12:01:11.220163+00:00"
  }
 ]

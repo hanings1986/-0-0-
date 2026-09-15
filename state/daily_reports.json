@@ -597,5 +597,23 @@
    "early_goal": 39,
    "goal_rate": 10.4
   }
+ },
+ "2026-09-15": {
+  "date": "2026-09-15",
+  "rows": [
+   {
+    "match": "Kyoto Sanga at Daejeon Hana Citizen",
+    "league": "AFC Champions League Elite",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "Daejeon",
+    "recorded_at": "2026-09-15T12:01:11.220132+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
