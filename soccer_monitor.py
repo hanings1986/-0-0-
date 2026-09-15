@@ -333,6 +333,8 @@ def cleanup_stale_state(state: dict) -> bool:
     removed = []
     for eid in list(state.keys()):
         rec = state[eid]
+        if not isinstance(rec, dict):
+            continue  # 顶层混有元数据（如 daily_report_sent_date 字符串），只清理比赛记录
         ts_str = rec.get("last_seen") or rec.get("alert_80_time") or rec.get("alert_70_time")
         if not ts_str:
             continue
