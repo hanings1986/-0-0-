@@ -2489,5 +2489,23 @@
   "goal_after_70": true,
   "date": "2026-09-15",
   "recorded_at": "2026-09-15T12:01:11.220163+00:00"
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Pohang Steelers at Beijing Guoan",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-15",
+  "recorded_at": "2026-09-15T14:20:34.353714+00:00"
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Buriram United at Johor Darul Ta'zim",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-15",
+  "recorded_at": "2026-09-15T14:20:34.353725+00:00"
  }
 ]
