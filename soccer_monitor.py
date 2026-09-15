@@ -1618,9 +1618,11 @@ def monitor_once():
         return
 
     if not (ACTIVE_HOUR_START <= now_bj.hour < ACTIVE_HOUR_END):
-        print(f"[INFO] 当前 {now_bj.hour}:xx 不在监控时段 "
-              f"({ACTIVE_HOUR_START}:00-{ACTIVE_HOUR_END}:00)，跳过")
-        return
+        # 不一刀切退出：窗口前开赛、仍在进行的比赛必须跟到终场（70'/80' 预警可能在 23 点后触发）。
+        # 新开赛的比赛由下方 is_in_active_hours（按开赛时间）排除，凌晨赛事不会纳入。
+        print(f"[INFO] 当前 {now_bj.hour}:xx 已过监控窗口 "
+              f"({ACTIVE_HOUR_START}:00-{ACTIVE_HOUR_END}:00)，"
+              f"仅继续跟踪窗口前开赛且仍在进行的比赛，不纳入新开赛赛事")
 
     # 健康自检：连续取不到数据时告警，恢复时通知
     health = load_json_file(HEALTH_FILE, {})
