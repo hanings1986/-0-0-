@@ -55,6 +55,11 @@ SCOREBOARD_URLS = [
     ("cdn", "https://cdn.espn.com/core/soccer/scoreboard?limit=400"),
 ]
 
+# all/scoreboard 不收录的联赛：需单独拉取并合并 events
+SUPPLEMENTAL_LEAGUE_SLUGS = [
+    "chi.1",   # 智利甲级联赛
+]
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -362,7 +367,9 @@ def cleanup_stale_state(state: dict) -> bool:
 # ──────────────────────────────────────────────────────────────
 
 def get_scoreboard() -> dict | None:
-    """依次尝试多个 ESPN 端点，返回第一个含 events 的 JSON"""
+    """依次尝试多个 ESPN 端点，返回第一个含 events 的 JSON。
+    随后补充拉取 all/scoreboard 不收录的联赛（如智利甲级），合并 events。"""
+    board = None
     for name, url in SCOREBOARD_URLS:
         try:
             resp = requests.get(url, headers=HEADERS, timeout=15)
@@ -374,11 +381,34 @@ def get_scoreboard() -> dict | None:
                 print(f"[ESPN] 端点 {name} 响应缺少 events 字段，尝试下一个...")
                 continue
             print(f"[ESPN] 使用端点 {name}，获取 {len(data.get('events', []))} 场比赛")
-            return data
+            board = data
+            break
         except Exception as e:
             print(f"[ESPN] 端点 {name} 异常: {e}，尝试下一个...")
-    print("[ERROR] 所有 ESPN 端点均失败")
-    return None
+
+    if board is None:
+        print("[ERROR] 所有 ESPN 端点均失败")
+        return None
+
+    # 补充拉取 all/scoreboard 不收录的联赛
+    existing_eids = {e.get("id") for e in board.get("events", [])}
+    for slug in SUPPLEMENTAL_LEAGUE_SLUGS:
+        try:
+            url = f"https://site.web.api.espn.com/apis/site/v2/sports/soccer/{slug}/scoreboard"
+            resp = requests.get(url, headers=HEADERS, timeout=15)
+            if resp.status_code != 200:
+                print(f"[ESPN] 补充联赛 {slug} 返回 {resp.status_code}，跳过")
+                continue
+            data = resp.json()
+            extra = [e for e in data.get("events", []) if e.get("id") not in existing_eids]
+            if extra:
+                board["events"].extend(extra)
+                existing_eids.update(e.get("id") for e in extra)
+                print(f"[ESPN] 补充联赛 {slug}：+{len(extra)} 场（合计 {len(board['events'])} 场）")
+        except Exception as e:
+            print(f"[ESPN] 补充联赛 {slug} 异常: {e}")
+
+    return board
 
 
 def _parse_minute(clock_str: str, period: int, state: str = "") -> int:
