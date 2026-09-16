@@ -104,6 +104,74 @@ SUPPLEMENTAL_LEAGUE_SLUGS = [
 # 运行时从补充联赛端点顶层 leagues[0] 提取的 {league_id: league_name} 映射
 _LEAGUE_ID_NAMES: dict[str, str] = {}
 
+# 静态联赛映射：league_id → (name, slug)，覆盖 all/scoreboard 不自带联赛名的赛事
+LEAGUE_ID_STATIC_MAP = {
+    "606": ("FIFA World Cup", "fifa.world"),
+    "620": ("Bolivian Liga Profesional", "bol.1"),
+    "630": ("Brazilian Serie A", "bra.1"),
+    "640": ("Chilean Primera División", "chi.1"),
+    "650": ("Colombian Primera A", "col.1"),
+    "660": ("LigaPro Ecuador", "ecu.1"),
+    "670": ("Peruvian Liga 1", "per.1"),
+    "680": ("Liga AUF Uruguaya", "uru.1"),
+    "700": ("English Premier League", "eng.1"),
+    "710": ("French Ligue 1", "fra.1"),
+    "715": ("Portuguese Primeira Liga", "por.1"),
+    "720": ("German Bundesliga", "ger.1"),
+    "725": ("Dutch Eredivisie", "ned.1"),
+    "730": ("Italian Serie A", "ita.1"),
+    "735": ("Scottish Premiership", "sco.1"),
+    "740": ("Spanish LALIGA", "esp.1"),
+    "745": ("Argentine Liga Profesional de Fútbol", "arg.1"),
+    "750": ("Japanese J.League", "jpn.1"),
+    "760": ("Mexican Liga BBVA MX", "mex.1"),
+    "770": ("MLS", "usa.1"),
+    "775": ("UEFA Champions League", "uefa.champions"),
+    "776": ("UEFA Europa League", "uefa.europa"),
+    "783": ("CONMEBOL Libertadores", "conmebol.libertadores"),
+    "795": ("FIFA Women's World Cup", "fifa.wwc"),
+    "3901": ("Belgian Pro League", "bel.1"),
+    "3903": ("Argentine Nacional B", "arg.2"),
+    "3906": ("Australian A-League Men", "aus.1"),
+    "3907": ("Austrian Bundesliga", "aut.1"),
+    "3909": ("Segunda División de Chile", "chi.2"),
+    "3910": ("Colombian Primera B", "col.2"),
+    "3913": ("Danish Superliga", "den.1"),
+    "3914": ("English League Championship", "eng.2"),
+    "3915": ("English League One", "eng.3"),
+    "3916": ("English League Two", "eng.4"),
+    "3921": ("Spanish LALIGA 2", "esp.2"),
+    "3926": ("French Ligue 2", "fra.2"),
+    "3927": ("German 2. Bundesliga", "ger.2"),
+    "3929": ("Honduran Liga Nacional", "hon.1"),
+    "3930": ("Irish Premier Division", "irl.1"),
+    "3931": ("Italian Serie B", "ita.2"),
+    "3932": ("Mexican Liga de Expansión MX", "mex.2"),
+    "3933": ("Dutch Keuken Kampioen Divisie", "ned.2"),
+    "3934": ("Paraguayan Primera División", "par.1"),
+    "3939": ("Russian Premier League", "rus.1"),
+    "3940": ("Scottish Championship", "sco.2"),
+    "3943": ("Salvadoran Primera Division", "slv.1"),
+    "3945": ("Swedish Allsvenskan", "swe.1"),
+    "3946": ("Turkish Super Lig", "tur.1"),
+    "3949": ("Venezuelan Primera División", "ven.1"),
+    "3955": ("Greek Super League", "gre.1"),
+    "3960": ("Norwegian Eliteserien", "nor.1"),
+    "4007": ("Brazilian Serie B", "bra.2"),
+    "5315": ("Finnish Veikkausliga", "fin.1"),
+    "5347": ("Gambrinus Liga", "cze.1"),
+    "5454": ("CONMEBOL Sudamericana", "conmebol.sudamericana"),
+    "8316": ("Indian Super League", "ind.1"),
+    "8339": ("Indonesian Super League", "idn.1"),
+    "8340": ("Malaysian Super League", "mys.1"),
+    "8344": ("Thai League 1", "tha.1"),
+    "8345": ("Nigerian Professional League", "nga.1"),
+    "8376": ("Chinese Super League", "chn.1"),
+    "10750": ("Israeli Premier League", "isr.1"),
+    "11088": ("Brazilian Serie C", "bra.3"),
+    "20296": ("UEFA Conference League", "uefa.europa.conf"),
+}
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -580,6 +648,11 @@ def parse_game(event: dict) -> dict:
     if not league_name and league_id and league_id in _LEAGUE_ID_NAMES:
         league_name = _LEAGUE_ID_NAMES[league_id]
 
+    # 静态映射兜底（all/scoreboard 赛事无 league 字段且不在运行时映射中时）
+    event_slug = event.get("_slug", "")
+    if not league_name and league_id and league_id in LEAGUE_ID_STATIC_MAP:
+        league_name, event_slug = LEAGUE_ID_STATIC_MAP[league_id]
+
     result = {
         "event_id": event.get("id", ""),
         "event_name": event.get("name", ""),
@@ -592,7 +665,7 @@ def parse_game(event: dict) -> dict:
         "away_team": "",
         "league": league_name,
         "league_id": _extract_league_id(event),
-        "tier": classify_league(league_name, event.get("_slug", "")),
+        "tier": classify_league(league_name, event_slug),
         "start_time_bj": None,
     }
 
