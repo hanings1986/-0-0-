@@ -56,9 +56,53 @@ SCOREBOARD_URLS = [
 ]
 
 # all/scoreboard 不收录的联赛：需单独拉取并合并 events
+# ESPN all/scoreboard 实测仅覆盖约 100 场，大量联赛（含五大联赛部分场次）被遗漏
 SUPPLEMENTAL_LEAGUE_SLUGS = [
-    "chi.1",   # 智利甲级联赛
+    # ── 南美 ──
+    "chi.1", "chi.2",       # 智利甲级/乙级
+    "arg.1", "arg.2",       # 阿根廷甲级/乙级
+    "col.2",                # 哥伦比亚乙级
+    "uru.1",                # 乌拉圭甲级
+    "par.1",                # 巴拉圭甲级
+    "ecu.1",                # 厄瓜多尔甲级
+    "per.1",                # 秘鲁甲级
+    "bra.1", "bra.3",       # 巴西甲级/丙级
+    # ── 中北美 ──
+    "usa.1",                # MLS
+    "hon.1",                # 洪都拉斯甲级
+    "slv.1",                # 萨尔瓦多甲级
+    # ── 欧洲 ──
+    "eng.1", "eng.3",       # 英超/英甲
+    "esp.2",                # 西乙
+    "ita.1", "ita.2",       # 意甲/意乙
+    "ger.1", "ger.2",       # 德甲/德乙
+    "fra.1", "fra.2",       # 法甲/法乙
+    "ned.2",                # 荷乙
+    "por.1",                # 葡超
+    "tur.1",                # 土超
+    "bel.1",                # 比甲
+    "gre.1",                # 希超
+    "rus.1",                # 俄超
+    "aut.1",                # 奥甲
+    "den.1",                # 丹超
+    "nor.1",                # 挪超
+    "swe.1",                # 瑞超
+    "irl.1",                # 爱超
+    "isr.1",                # 以超
+    # ── 亚洲 ──
+    "chn.1",                # 中超
+    "jpn.1",                # J1联赛
+    "aus.1",                # 澳超
+    "idn.1",                # 印尼甲级
+    "mys.1",                # 马来西亚超级
+    "tha.1",                # 泰超
+    "ind.1",                # 印度超
+    # ── 非洲 ──
+    "nga.1",                # 尼日利亚甲级
 ]
+
+# 运行时从补充联赛端点顶层 leagues[0] 提取的 {league_id: league_name} 映射
+_LEAGUE_ID_NAMES: dict[str, str] = {}
 
 HEADERS = {
     "User-Agent": (
@@ -147,10 +191,56 @@ TIER_2_LEAGUES = {
     "africa cup of nations", "afcon",
     "international friendly",
     "j2 league", "k league 2",
+    # 扩充：南美主要联赛
+    "argentine liga profesional", "liga profesional",
+    "argentine primera división", "primera división de argentina",
+    "brazilian série a", "brasileirão", "brasileirao",
+    "chilean primera división", "chilean primera division",
+    "uruguayan primera división", "uruguayan primera division",
+    "ecuadorian serie a", "liga pro ecuador",
+    "paraguayan primera división", "paraguayan primera division",
+    # 扩充：中北美
+    "major league soccer", "mls",
+    "liga mx", "mexican primera division",
+    # 扩充：欧洲二级
+    "spanish segunda división", "laliga smartbank", "la liga 2",
+    "italian serie b", "serie b",
+    "german 2. bundesliga", "2. bundesliga",
+    "french ligue 2",
+    "dutch eerst divisie", "eerste divisie",
+    "greek super league", "super league greece",
+    "austrian bundesliga",
+    "danish superliga", "superligaen",
+    "norwegian eliteserien",
+    "swedish allsvenskan",
+    "irish premier division", "league of ireland",
+    "israeli premier league",
+    # 扩充：亚洲
+    "indonesian liga 1",
+    "thai league 1", "thai premier league",
+    "indian super league", "isl",
+    "malaysian super league",
+}
+
+# 补充联赛 slug → tier 直接配置（联赛名匹配不稳定时兜底）
+SLUG_TIER_OVERRIDES = {
+    # Tier 1
+    "eng.1": 1, "esp.1": 1, "ita.1": 1, "ger.1": 1, "fra.1": 1,
+    "chn.1": 1, "jpn.1": 1, "aus.1": 1,
+    # Tier 2
+    "arg.1": 2, "bra.1": 2, "chi.1": 2, "uru.1": 2, "ecu.1": 2,
+    "par.1": 2, "per.1": 2, "usa.1": 2,
+    "esp.2": 2, "ita.2": 2, "ger.2": 2, "fra.2": 2, "ned.2": 2,
+    "por.1": 2, "tur.1": 2, "bel.1": 2, "gre.1": 2, "rus.1": 2,
+    "aut.1": 2, "den.1": 2, "nor.1": 2, "swe.1": 2, "irl.1": 2, "isr.1": 2,
+    "idn.1": 2, "tha.1": 2, "ind.1": 2, "mys.1": 2,
 }
 
 
-def classify_league(league_name: str) -> int:
+def classify_league(league_name: str, slug: str = "") -> int:
+    """按联赛名关键词分类；slug 兜底。返回 1=顶级 2=主流 3=一般。"""
+    if slug and slug in SLUG_TIER_OVERRIDES:
+        return SLUG_TIER_OVERRIDES[slug]
     if not league_name:
         return 3
     name_lower = league_name.lower()
@@ -397,11 +487,25 @@ def get_scoreboard() -> dict | None:
             url = f"https://site.web.api.espn.com/apis/site/v2/sports/soccer/{slug}/scoreboard"
             resp = requests.get(url, headers=HEADERS, timeout=15)
             if resp.status_code != 200:
-                print(f"[ESPN] 补充联赛 {slug} 返回 {resp.status_code}，跳过")
                 continue
             data = resp.json()
+            # 从顶层 leagues[0] 提取联赛 ID 和名称，构建映射
+            top_leagues = data.get("leagues") or []
+            if top_leagues:
+                lg = top_leagues[0]
+                lg_id = str(lg.get("id") or "")
+                lg_name = lg.get("name") or lg.get("shortName") or ""
+                if lg_id and lg_name:
+                    _LEAGUE_ID_NAMES[lg_id] = lg_name
             extra = [e for e in data.get("events", []) if e.get("id") not in existing_eids]
             if extra:
+                # 给每个 event 注入 league 字段（ESPN 端点不自带）
+                for e in extra:
+                    if not e.get("league"):
+                        e["league"] = {"name": lg_name, "shortName": lg_name}
+                    # 注入 slug 供 classify_league 使用
+                    if not e.get("_slug"):
+                        e["_slug"] = slug
                 board["events"].extend(extra)
                 existing_eids.update(e.get("id") for e in extra)
                 print(f"[ESPN] 补充联赛 {slug}：+{len(extra)} 场（合计 {len(board['events'])} 场）")
@@ -471,6 +575,11 @@ def parse_game(event: dict) -> dict:
         if isinstance(comp_league, dict):
             league_name = comp_league.get("shortName") or comp_league.get("name") or ""
 
+    # ESPN 端点不自带联赛名时，用 league_id 从运行时映射表查
+    league_id = _extract_league_id(event)
+    if not league_name and league_id and league_id in _LEAGUE_ID_NAMES:
+        league_name = _LEAGUE_ID_NAMES[league_id]
+
     result = {
         "event_id": event.get("id", ""),
         "event_name": event.get("name", ""),
@@ -483,7 +592,7 @@ def parse_game(event: dict) -> dict:
         "away_team": "",
         "league": league_name,
         "league_id": _extract_league_id(event),
-        "tier": classify_league(league_name),
+        "tier": classify_league(league_name, event.get("_slug", "")),
         "start_time_bj": None,
     }
 
