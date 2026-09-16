@@ -2581,5 +2581,14 @@
   "goal_after_70": true,
   "date": "2026-09-15",
   "recorded_at": "2026-09-16T00:40:35.111194+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Brooklyn FC at Indy Eleven",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-09-15",
+  "recorded_at": "2026-09-16T01:10:33.807558+00:00"
  }
 ]
