@@ -292,16 +292,21 @@ TIER_2_LEAGUES = {
 
 # 补充联赛 slug → tier 直接配置（联赛名匹配不稳定时兜底）
 SLUG_TIER_OVERRIDES = {
-    # Tier 1
+    # Tier 1：五大联赛 + 欧冠/欧联/欧协 + 世界杯 + 亚冠 + 中超/J1/K1/澳超
     "eng.1": 1, "esp.1": 1, "ita.1": 1, "ger.1": 1, "fra.1": 1,
+    "uefa.champions": 1, "uefa.europa": 1, "uefa.europa.conf": 1,
+    "fifa.world": 1, "fifa.wwc": 1,
     "chn.1": 1, "jpn.1": 1, "aus.1": 1,
-    # Tier 2
+    # Tier 2：南美/中北美主要联赛 + 欧洲二级 + 亚洲二级 + 大洲杯赛
     "arg.1": 2, "bra.1": 2, "chi.1": 2, "uru.1": 2, "ecu.1": 2,
-    "par.1": 2, "per.1": 2, "usa.1": 2,
+    "par.1": 2, "per.1": 2, "col.1": 2, "mex.1": 2, "usa.1": 2,
+    "conmebol.libertadores": 2, "conmebol.sudamericana": 2,
     "esp.2": 2, "ita.2": 2, "ger.2": 2, "fra.2": 2, "ned.2": 2,
-    "por.1": 2, "tur.1": 2, "bel.1": 2, "gre.1": 2, "rus.1": 2,
-    "aut.1": 2, "den.1": 2, "nor.1": 2, "swe.1": 2, "irl.1": 2, "isr.1": 2,
+    "ned.1": 2, "por.1": 2, "tur.1": 2, "bel.1": 2, "gre.1": 2, "rus.1": 2,
+    "sco.1": 2, "aut.1": 2, "den.1": 2, "nor.1": 2, "swe.1": 2,
+    "irl.1": 2, "isr.1": 2,
     "idn.1": 2, "tha.1": 2, "ind.1": 2, "mys.1": 2,
+    # Tier 3：其他（不在以上列表中的默认 3）
 }
 
 
