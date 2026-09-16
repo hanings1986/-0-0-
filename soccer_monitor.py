@@ -693,11 +693,16 @@ def parse_game(event: dict) -> dict:
 
     result["state"] = status_type.get("state", "")
     result["display_clock"] = status.get("displayClock", "") or ""
-    result["minute"] = _parse_minute(
-        result["display_clock"],
-        status.get("period", 1),
-        result["state"],
-    )
+    # 优先使用 ESPN 的 clock 字段（秒数，权威累计比赛时间），回退到 displayClock 解析
+    clock_sec = status.get("clock")
+    if isinstance(clock_sec, (int, float)) and clock_sec > 0:
+        result["minute"] = int(clock_sec // 60)
+    else:
+        result["minute"] = _parse_minute(
+            result["display_clock"],
+            status.get("period", 1),
+            result["state"],
+        )
 
     for c in comp.get("competitors", []):
         home_away = c.get("homeAway", "")
