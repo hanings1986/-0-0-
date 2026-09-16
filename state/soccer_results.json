@@ -2554,5 +2554,14 @@
   "goal_after_70": true,
   "date": "2026-09-15",
   "recorded_at": "2026-09-16T00:10:39.805765+00:00"
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Ponte Preta at Londrina",
+  "final": "6:0",
+  "goal_after_70": true,
+  "date": "2026-09-15",
+  "recorded_at": "2026-09-16T00:20:40.316694+00:00"
  }
 ]
