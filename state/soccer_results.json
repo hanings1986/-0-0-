@@ -2636,5 +2636,23 @@
   "goal_after_70": true,
   "date": "2026-09-16",
   "recorded_at": "2026-09-16T02:50:40.228112+00:00"
+ },
+ {
+  "league_id": "760",
+  "league_name": "Liga MX",
+  "match": "Toluca at Puebla",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-16T03:10:42.866577+00:00"
+ },
+ {
+  "league_id": "3932",
+  "league_name": "3932",
+  "match": "Cancún FC at Dorados de Sinaloa",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-16T03:10:42.866592+00:00"
  }
 ]
