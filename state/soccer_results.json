@@ -2682,5 +2682,14 @@
   "goal_after_70": true,
   "date": "2026-09-16",
   "recorded_at": "2026-09-16T12:00:55.347566+00:00"
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Melbourne Victory at Viettel",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-16T14:10:39.066388+00:00"
  }
 ]
