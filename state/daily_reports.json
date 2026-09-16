@@ -661,6 +661,18 @@
     "first_goal_minute": 89,
     "first_goal_team": "Toluca",
     "recorded_at": "2026-09-16T03:10:42.866577+00:00"
+   },
+   {
+    "match": "Stade Marocain at Wydad Sportive de Témara",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-16T12:00:53.373703+00:00"
    }
   ],
   "generated_at": null

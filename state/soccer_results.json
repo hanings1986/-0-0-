@@ -2654,5 +2654,33 @@
   "goal_after_70": true,
   "date": "2026-09-16",
   "recorded_at": "2026-09-16T03:10:42.866592+00:00"
+ },
+ {
+  "league_id": "19834",
+  "league_name": "Club Friendly",
+  "match": "Stade Marocain at Wydad Sportive de Témara",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-16T12:00:53.373703+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Kashiwa Reysol at Jeonbuk Motors",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-16T12:00:55.347534+00:00"
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Persib at FC Seoul",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-16T12:00:55.347566+00:00"
  }
 ]
