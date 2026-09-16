@@ -2618,5 +2618,14 @@
   "goal_after_70": true,
   "date": "2026-09-16",
   "recorded_at": "2026-09-16T02:20:48.195156+00:00"
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Alianza FC at Boyacá Chicó FC",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-16T02:40:52.693429+00:00"
  }
 ]
