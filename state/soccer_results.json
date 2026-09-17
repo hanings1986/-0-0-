@@ -2773,5 +2773,41 @@
   "goal_after_70": true,
   "date": "2026-09-16",
   "recorded_at": "2026-09-17T01:00:45.155134+00:00"
+ },
+ {
+  "league_id": "5337",
+  "league_name": "5337",
+  "match": "Orlando City SC at Columbus Crew",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-17T01:20:45.770258+00:00"
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "Forward Madison FC at Chattanooga Red Wolves",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-17T01:20:45.770266+00:00"
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "Richmond Kickers at Westchester SC",
+  "final": "5:2",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-17T01:20:45.770272+00:00"
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Deportes Tolima at Once Caldas",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-17T01:20:45.770277+00:00"
  }
 ]
