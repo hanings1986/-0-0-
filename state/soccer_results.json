@@ -2700,5 +2700,33 @@
   "goal_after_70": true,
   "date": "2026-09-16",
   "recorded_at": "2026-09-16T14:30:43.328959+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Sporting JAX at Hartford Athletic",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-17T00:00:55.799215+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "620",
+  "league_name": "620",
+  "match": "Always Ready at Nacional Potosí",
+  "final": "0:4",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-17T00:00:56.001974+00:00"
+ },
+ {
+  "league_id": "3949",
+  "league_name": "3949",
+  "match": "Zamora FC at Monagas SC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-17T00:00:56.001994+00:00"
  }
 ]
