@@ -2872,5 +2872,15 @@
   "goal_after_70": true,
   "date": "2026-09-17",
   "recorded_at": "2026-09-17T02:40:53.178362+00:00"
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "CD FAS at Internacional Santa Tecla",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-17",
+  "recorded_at": "2026-09-17T03:00:53.547560+00:00",
+  "backstop": true
  }
 ]
