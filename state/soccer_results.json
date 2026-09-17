@@ -2937,5 +2937,15 @@
   "date": "2026-09-17",
   "recorded_at": "2026-09-17T05:10:39.664416+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "US Yacoub El Mansour at Wydad Sportive de Témara",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-17",
+  "recorded_at": "2026-09-17T11:50:36.966653+00:00",
+  "backstop": true
  }
 ]
