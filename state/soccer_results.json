@@ -2836,5 +2836,41 @@
   "goal_after_70": true,
   "date": "2026-09-17",
   "recorded_at": "2026-09-17T02:10:49.529814+00:00"
+ },
+ {
+  "league_id": "783",
+  "league_name": "CONMEBOL Libertadores",
+  "match": "Estudiantes de La Plata at Corinthians",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-17",
+  "recorded_at": "2026-09-17T02:40:53.178340+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "New Mexico United at Birmingham Legion FC",
+  "final": "4:4",
+  "goal_after_70": true,
+  "date": "2026-09-17",
+  "recorded_at": "2026-09-17T02:40:53.178351+00:00"
+ },
+ {
+  "league_id": "620",
+  "league_name": "620",
+  "match": "Universitario de Vinto at Blooming",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-17",
+  "recorded_at": "2026-09-17T02:40:53.178357+00:00"
+ },
+ {
+  "league_id": "22947",
+  "league_name": "22947",
+  "match": "Saprissa at Cartaginés",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-09-17",
+  "recorded_at": "2026-09-17T02:40:53.178362+00:00"
  }
 ]

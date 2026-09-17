@@ -698,6 +698,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-17T02:00:45.147425+00:00"
+   },
+   {
+    "match": "Estudiantes de La Plata at Corinthians",
+    "league": "CONMEBOL Libertadores",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Estudiantes",
+    "recorded_at": "2026-09-17T02:40:53.178340+00:00"
    }
   ],
   "generated_at": null
