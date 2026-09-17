@@ -2746,5 +2746,14 @@
   "goal_after_70": true,
   "date": "2026-09-16",
   "recorded_at": "2026-09-17T00:10:36.628531+00:00"
+ },
+ {
+  "league_id": "5454",
+  "league_name": "5454",
+  "match": "Santos at Atlético-MG",
+  "final": "4:2",
+  "goal_after_70": true,
+  "date": "2026-09-16",
+  "recorded_at": "2026-09-17T00:20:35.366065+00:00"
  }
 ]
