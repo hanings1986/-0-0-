@@ -2947,5 +2947,32 @@
   "date": "2026-09-17",
   "recorded_at": "2026-09-17T11:50:36.966653+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Tai Po FC at Adelaide United",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-17",
+  "recorded_at": "2026-09-17T12:00:40.438177+00:00"
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "BG Pathum United at Lion City Sailors FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-17",
+  "recorded_at": "2026-09-17T12:00:40.438189+00:00"
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Preah Khan Reach Svay Rieng FC at Machida Zelvia",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-17",
+  "recorded_at": "2026-09-17T12:00:40.438216+00:00"
  }
 ]
