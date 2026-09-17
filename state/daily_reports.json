@@ -722,6 +722,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-17T05:10:39.664416+00:00"
+   },
+   {
+    "match": "Gangwon FC at Kitchee",
+    "league": "AFC Champions League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-17T14:20:43.620875+00:00"
    }
   ],
   "generated_at": "2026-09-17T14:00:50.498410+00:00",
