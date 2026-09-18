@@ -3029,5 +3029,41 @@
   "goal_after_70": true,
   "date": "2026-09-18",
   "recorded_at": "2026-09-18T02:00:47.150399+00:00"
+ },
+ {
+  "league_id": "783",
+  "league_name": "783",
+  "match": "Independiente del Valle at Flamengo",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-18",
+  "recorded_at": "2026-09-18T02:40:44.896910+00:00"
+ },
+ {
+  "league_id": "5454",
+  "league_name": "5454",
+  "match": "Cienciano del Cusco at Montevideo City Torque",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-18",
+  "recorded_at": "2026-09-18T02:40:44.896917+00:00"
+ },
+ {
+  "league_id": "620",
+  "league_name": "620",
+  "match": "GV San José at Bolívar",
+  "final": "4:2",
+  "goal_after_70": true,
+  "date": "2026-09-18",
+  "recorded_at": "2026-09-18T02:40:44.896922+00:00"
+ },
+ {
+  "league_id": "22947",
+  "league_name": "22947",
+  "match": "Club Deportivo Marathón at Alajuelense",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-18",
+  "recorded_at": "2026-09-18T02:40:44.896925+00:00"
  }
 ]
