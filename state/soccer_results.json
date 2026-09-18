@@ -3083,5 +3083,15 @@
   "goal_after_70": true,
   "date": "2026-09-18",
   "recorded_at": "2026-09-18T05:20:44.298911+00:00"
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Solomon Islands at Fiji",
+  "final": "3:3",
+  "goal_after_70": true,
+  "date": "2026-09-18",
+  "recorded_at": "2026-09-18T12:40:41.763493+00:00",
+  "backstop": true
  }
 ]
