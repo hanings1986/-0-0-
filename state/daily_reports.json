@@ -783,6 +783,18 @@
     "first_goal_minute": 79,
     "first_goal_team": "Sanfreece",
     "recorded_at": "2026-09-19T11:11:13.772764+00:00"
+   },
+   {
+    "match": "Real Sociedad at FC Badalona",
+    "league": "Liga F",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T12:10:40.976638+00:00"
    }
   ],
   "generated_at": null
