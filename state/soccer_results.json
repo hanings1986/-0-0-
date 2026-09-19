@@ -3587,5 +3587,86 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T14:00:42.118334+00:00"
+ },
+ {
+  "league_id": "730",
+  "league_name": "730",
+  "match": "Torino at Bologna",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:00:40.325124+00:00"
+ },
+ {
+  "league_id": "730",
+  "league_name": "730",
+  "match": "Cagliari at Udinese",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:00:40.325141+00:00"
+ },
+ {
+  "league_id": "22902",
+  "league_name": "22902",
+  "match": "Al Ahli at Mamelodi Sundowns",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:00:40.325150+00:00"
+ },
+ {
+  "league_id": "3931",
+  "league_name": "3931",
+  "match": "Benevento at Carrarese",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:00:40.325157+00:00"
+ },
+ {
+  "league_id": "3931",
+  "league_name": "Italian Serie B",
+  "match": "Virtus Entella at Cremonese",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:00:40.325164+00:00"
+ },
+ {
+  "league_id": "3931",
+  "league_name": "3931",
+  "match": "Padova at Palermo",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:00:40.325171+00:00"
+ },
+ {
+  "league_id": "3945",
+  "league_name": "3945",
+  "match": "IFK Göteborg at IF Brommapojkarna",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:00:40.325178+00:00"
+ },
+ {
+  "league_id": "3945",
+  "league_name": "3945",
+  "match": "Malmö FF at Västerås SK",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:00:40.325184+00:00"
+ },
+ {
+  "league_id": "3937",
+  "league_name": "3937",
+  "match": "Sekhukhune United FC at Richards Bay FC",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:00:40.325190+00:00"
  }
 ]

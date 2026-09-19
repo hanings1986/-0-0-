@@ -819,6 +819,18 @@
     "first_goal_minute": 88,
     "first_goal_team": "Mallorca",
     "recorded_at": "2026-09-19T14:00:42.118314+00:00"
+   },
+   {
+    "match": "Virtus Entella at Cremonese",
+    "league": "Italian Serie B",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T15:00:40.325164+00:00"
    }
   ],
   "generated_at": "2026-09-19T14:00:43.724027+00:00",
