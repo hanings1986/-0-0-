@@ -831,6 +831,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-19T15:00:40.325164+00:00"
+   },
+   {
+    "match": "Raith Rovers at Partick Thistle",
+    "league": "SPFL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T15:51:08.670752+00:00"
    }
   ],
   "generated_at": "2026-09-19T14:00:43.724027+00:00",
