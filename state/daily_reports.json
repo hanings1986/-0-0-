@@ -771,6 +771,18 @@
     "first_goal_minute": 90,
     "first_goal_team": "CD Mineros",
     "recorded_at": "2026-09-19T03:00:43.351192+00:00"
+   },
+   {
+    "match": "Sanfrecce Hiroshima at Avispa Fukuoka",
+    "league": "Japanese J1 League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "Sanfreece",
+    "recorded_at": "2026-09-19T11:11:13.772764+00:00"
    }
   ],
   "generated_at": null

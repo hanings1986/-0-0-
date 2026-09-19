@@ -3295,5 +3295,23 @@
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T11:00:37.572963+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "Japanese J1 League",
+  "match": "Sanfrecce Hiroshima at Avispa Fukuoka",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T11:11:13.772764+00:00"
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Kashima Antlers at Kawasaki Frontale",
+  "final": "3:3",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T11:11:13.772777+00:00"
  }
 ]
