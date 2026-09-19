@@ -3688,5 +3688,32 @@
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T15:20:45.061802+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "720",
+  "league_name": "720",
+  "match": "SC Freiburg at Eintracht Frankfurt",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:41:18.621157+00:00"
+ },
+ {
+  "league_id": "720",
+  "league_name": "720",
+  "match": "FC Cologne at Hamburg SV",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:41:18.621177+00:00"
+ },
+ {
+  "league_id": "720",
+  "league_name": "720",
+  "match": "FC Augsburg at Werder Bremen",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:41:18.621186+00:00"
  }
 ]
