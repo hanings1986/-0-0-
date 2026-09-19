@@ -3249,5 +3249,23 @@
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T04:00:47.556429+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3928",
+  "league_name": "3928",
+  "match": "CD Guastatoya at Comunicaciones",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T04:10:45.530569+00:00"
+ },
+ {
+  "league_id": "8301",
+  "league_name": "8301",
+  "match": "Kansas City Current at San Diego Wave FC",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T04:10:45.530581+00:00"
  }
 ]
