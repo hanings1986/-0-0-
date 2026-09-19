@@ -3121,5 +3121,14 @@
   "date": "2026-09-18",
   "recorded_at": "2026-09-19T01:00:38.516382+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "620",
+  "league_name": "620",
+  "match": "San Antonio Bulo Bulo at Independiente Petrolero",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-09-18",
+  "recorded_at": "2026-09-19T01:30:38.730888+00:00"
  }
 ]
