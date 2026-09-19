@@ -5020,5 +5020,15 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T16:40:41.369236+00:00"
+ },
+ {
+  "league_id": "23480",
+  "league_name": "23480",
+  "match": "Kings Lynn Town at Bedford Town",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T16:50:36.125539+00:00",
+  "backstop": true
  }
 ]
