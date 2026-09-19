@@ -3396,5 +3396,32 @@
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T12:40:45.963338+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3927",
+  "league_name": "3927",
+  "match": "VfL Osnabruck at Holstein Kiel",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:10:46.204423+00:00"
+ },
+ {
+  "league_id": "3927",
+  "league_name": "2. Bundesliga",
+  "match": "TSV Eintracht Braunschweig at Kaiserslautern",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:10:46.204437+00:00"
+ },
+ {
+  "league_id": "3927",
+  "league_name": "3927",
+  "match": "1. FC Nürnberg at Karlsruher SC",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:10:46.204446+00:00"
  }
 ]

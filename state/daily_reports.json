@@ -795,6 +795,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-19T12:10:40.976638+00:00"
+   },
+   {
+    "match": "TSV Eintracht Braunschweig at Kaiserslautern",
+    "league": "2. Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Kaiserslautern",
+    "recorded_at": "2026-09-19T13:10:46.204437+00:00"
    }
   ],
   "generated_at": null
