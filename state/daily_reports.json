@@ -756,5 +756,23 @@
    "early_goal": 0,
    "goal_rate": 33.3
   }
+ },
+ "2026-09-19": {
+  "date": "2026-09-19",
+  "rows": [
+   {
+    "match": "Mineros de Zacatecas at Tepatitlán FC",
+    "league": "3932",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "CD Mineros",
+    "recorded_at": "2026-09-19T03:00:43.351192+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
