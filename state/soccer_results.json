@@ -3202,5 +3202,32 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T03:00:43.351192+00:00"
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Atlante at Puebla",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T03:20:46.856056+00:00"
+ },
+ {
+  "league_id": "3932",
+  "league_name": "3932",
+  "match": "Venados FC at Piratas",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T03:20:46.856068+00:00"
+ },
+ {
+  "league_id": "670",
+  "league_name": "670",
+  "match": "ADT at Alianza Lima",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T03:20:46.856079+00:00"
  }
 ]
