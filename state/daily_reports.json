@@ -853,5 +853,191 @@
    "early_goal": 0,
    "goal_rate": 80.0
   }
+ },
+ "2026-09-20": {
+  "date": "2026-09-20",
+  "rows": [
+   {
+    "match": "Stevenage at Leyton Orient",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Leyton Orient",
+    "recorded_at": "2026-09-19T16:10:52.240566+00:00"
+   },
+   {
+    "match": "Stockport County at Sheffield Wednesday",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T16:10:52.240599+00:00"
+   },
+   {
+    "match": "Newport County at Accrington Stanley",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T16:10:52.240613+00:00"
+   },
+   {
+    "match": "Tranmere Rovers at Exeter City",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T16:10:52.240650+00:00"
+   },
+   {
+    "match": "Rotherham United at Northampton Town",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Rotherham",
+    "recorded_at": "2026-09-19T16:10:52.240671+00:00"
+   },
+   {
+    "match": "Swindon Town at Salford City",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Salford City",
+    "recorded_at": "2026-09-19T16:10:52.240678+00:00"
+   },
+   {
+    "match": "Sutton United at FC Halifax Town",
+    "league": "National League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 94,
+    "first_goal_team": "FC Halifax Town",
+    "recorded_at": "2026-09-19T16:10:52.240710+00:00"
+   },
+   {
+    "match": "Kidderminster Harriers at Woking",
+    "league": "National League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T16:10:52.240730+00:00"
+   },
+   {
+    "match": "Alavés at Athletic Club",
+    "league": "LALIGA",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T16:10:38.312494+00:00"
+   },
+   {
+    "match": "Scarborough Athletic at Dunston",
+    "league": "English FA Cup Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T16:10:38.312494+00:00"
+   },
+   {
+    "match": "Ossett United at FC United of Manchester",
+    "league": "English FA Cup Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T16:10:38.312494+00:00"
+   },
+   {
+    "match": "Gainsborough Trinity at Leamington",
+    "league": "English FA Cup Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T16:10:38.312494+00:00"
+   },
+   {
+    "match": "Witton Albion at South Shields",
+    "league": "English FA Cup Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T16:10:38.312494+00:00"
+   },
+   {
+    "match": "Exmouth Town at Thame United",
+    "league": "English FA Cup Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T16:10:38.312494+00:00"
+   },
+   {
+    "match": "South Liverpool at Warrington Town",
+    "league": "English FA Cup Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-19T16:10:38.312494+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
