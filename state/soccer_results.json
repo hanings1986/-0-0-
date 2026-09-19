@@ -3368,5 +3368,23 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T12:10:40.976665+00:00"
+ },
+ {
+  "league_id": "22781",
+  "league_name": "22781",
+  "match": "Santiago Wanderers U20 at Real Madrid U19",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T12:30:46.099880+00:00"
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Mito Hollyhock at Yokohama F. Marinos",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T12:30:46.099901+00:00"
  }
 ]
