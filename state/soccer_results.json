@@ -3111,5 +3111,15 @@
   "goal_after_70": true,
   "date": "2026-09-18",
   "recorded_at": "2026-09-19T00:30:43.521017+00:00"
+ },
+ {
+  "league_id": "23633",
+  "league_name": "23633",
+  "match": "Tampa Bay Sun FC at DC Power FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-18",
+  "recorded_at": "2026-09-19T01:00:38.516382+00:00",
+  "backstop": true
  }
 ]
