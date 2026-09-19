@@ -3313,5 +3313,33 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T11:11:13.772777+00:00"
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Cerezo Osaka at V-Varen Nagasaki",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T11:30:42.267498+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "JEF United Ichihara-Chiba at Shimizu S-Pulse",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T11:30:42.313442+00:00"
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Tokyo Verdy 1969 at Urawa Red Diamonds",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T11:30:42.313458+00:00"
  }
 ]
