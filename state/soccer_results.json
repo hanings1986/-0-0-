@@ -3239,5 +3239,15 @@
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T03:30:43.208175+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "4005",
+  "league_name": "4005",
+  "match": "Sporting San José at Pérez Zeledón",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T04:00:47.556429+00:00",
+  "backstop": true
  }
 ]
