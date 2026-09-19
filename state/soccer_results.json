@@ -3130,5 +3130,32 @@
   "goal_after_70": true,
   "date": "2026-09-18",
   "recorded_at": "2026-09-19T01:30:38.730888+00:00"
+ },
+ {
+  "league_id": "23633",
+  "league_name": "23633",
+  "match": "Dallas Trinity FC at Fort Lauderdale United FC",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-18",
+  "recorded_at": "2026-09-19T01:50:50.214841+00:00"
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Novorizontino at Ceará",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-18",
+  "recorded_at": "2026-09-19T01:50:50.214853+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Red Bull New York at New York City FC",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T01:50:50.214862+00:00"
  }
 ]
