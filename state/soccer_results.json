@@ -3423,5 +3423,124 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T13:10:46.204446+00:00"
+ },
+ {
+  "league_id": "8097",
+  "league_name": "8097",
+  "match": "Birmingham City at Chelsea",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:56.947128+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23480",
+  "league_name": "23480",
+  "match": "Darlington at Redcar Town",
+  "final": "2:4",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:56.947128+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "700",
+  "league_name": "700",
+  "match": "Aston Villa at Tottenham Hotspur",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:57.263589+00:00"
+ },
+ {
+  "league_id": "8097",
+  "league_name": "8097",
+  "match": "London City Lionesses at Charlton Athletic",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:57.263606+00:00"
+ },
+ {
+  "league_id": "3914",
+  "league_name": "3914",
+  "match": "Charlton Athletic at Cardiff City",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:57.263617+00:00"
+ },
+ {
+  "league_id": "3914",
+  "league_name": "3914",
+  "match": "West Ham United at Millwall",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:57.263625+00:00"
+ },
+ {
+  "league_id": "3914",
+  "league_name": "3914",
+  "match": "Sheffield United at Stoke City",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:57.263634+00:00"
+ },
+ {
+  "league_id": "3915",
+  "league_name": "3915",
+  "match": "Leicester City at Barnsley",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:57.263642+00:00"
+ },
+ {
+  "league_id": "3915",
+  "league_name": "3915",
+  "match": "Mansfield Town at Burton Albion",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:57.263651+00:00"
+ },
+ {
+  "league_id": "3916",
+  "league_name": "3916",
+  "match": "Oldham Athletic at Rochdale",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:57.263658+00:00"
+ },
+ {
+  "league_id": "3916",
+  "league_name": "3916",
+  "match": "Port Vale at Walsall",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:57.263667+00:00"
+ },
+ {
+  "league_id": "3917",
+  "league_name": "3917",
+  "match": "Worthing at Hartlepool United",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:57.263675+00:00"
+ },
+ {
+  "league_id": "3917",
+  "league_name": "3917",
+  "match": "Wealdstone at Tamworth",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T13:40:57.263683+00:00"
  }
 ]
