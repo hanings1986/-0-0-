@@ -3267,5 +3267,14 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T04:10:45.530581+00:00"
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Tigres UANL at FC Juarez",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T05:10:45.799981+00:00"
  }
 ]
