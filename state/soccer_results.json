@@ -3386,5 +3386,15 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T12:30:46.099901+00:00"
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Tondela at Imortal",
+  "final": "1:5",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T12:40:45.963338+00:00",
+  "backstop": true
  }
 ]
