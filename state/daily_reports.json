@@ -807,8 +807,27 @@
     "first_goal_minute": 80,
     "first_goal_team": "Kaiserslautern",
     "recorded_at": "2026-09-19T13:10:46.204437+00:00"
+   },
+   {
+    "match": "Mallorca at Real Sociedad II",
+    "league": "LALIGA 2",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 88,
+    "first_goal_team": "Mallorca",
+    "recorded_at": "2026-09-19T14:00:42.118314+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-09-19T14:00:43.724027+00:00",
+  "summary": {
+   "total": 5,
+   "goal_after_70": 4,
+   "clean_00": 1,
+   "early_goal": 0,
+   "goal_rate": 80.0
+  }
  }
 }

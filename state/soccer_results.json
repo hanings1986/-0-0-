@@ -3542,5 +3542,50 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T13:40:57.263683+00:00"
+ },
+ {
+  "league_id": "740",
+  "league_name": "740",
+  "match": "Rayo Vallecano at Osasuna",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T14:00:42.118298+00:00"
+ },
+ {
+  "league_id": "3921",
+  "league_name": "LALIGA 2",
+  "match": "Mallorca at Real Sociedad II",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T14:00:42.118314+00:00"
+ },
+ {
+  "league_id": "3926",
+  "league_name": "3926",
+  "match": "Nantes at Boulogne",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T14:00:42.118321+00:00"
+ },
+ {
+  "league_id": "3926",
+  "league_name": "3926",
+  "match": "Red Star FC 93 at Guingamp",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T14:00:42.118328+00:00"
+ },
+ {
+  "league_id": "19945",
+  "league_name": "19945",
+  "match": "FC Twente at PSV Eindhoven",
+  "final": "0:4",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T14:00:42.118334+00:00"
  }
 ]
