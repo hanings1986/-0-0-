@@ -3668,5 +3668,25 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T15:00:40.325190+00:00"
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Felgueiras 1932 at Associacao Naval 1893",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:20:45.061802+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Portimonense at Castro Daire",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T15:20:45.061802+00:00",
+  "backstop": true
  }
 ]
