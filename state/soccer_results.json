@@ -3166,5 +3166,23 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-19T02:00:38.558359+00:00"
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "Fuerte San Francisco at Inca Aruba",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T02:10:36.744360+00:00"
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Sarmiento (Junín) at Racing Club",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-19T02:10:36.744372+00:00"
  }
 ]
