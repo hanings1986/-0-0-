@@ -5947,5 +5947,23 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T15:00:45.705013+00:00"
+ },
+ {
+  "league_id": "730",
+  "league_name": "730",
+  "match": "Como at Frosinone",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:10:42.767851+00:00"
+ },
+ {
+  "league_id": "3931",
+  "league_name": "3931",
+  "match": "Sudtirol at Arezzo",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:10:42.767865+00:00"
  }
 ]
