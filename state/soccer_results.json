@@ -5341,5 +5341,23 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T02:20:45.999505+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "LA Galaxy at Minnesota United FC",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T02:40:43.546299+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Toronto FC at St. Louis CITY SC",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T02:40:43.546320+00:00"
  }
 ]
