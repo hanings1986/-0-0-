@@ -6299,5 +6299,15 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T16:50:43.728406+00:00"
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Juventude de Evora at Oliveira Hospital",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T17:00:38.549849+00:00",
+  "backstop": true
  }
 ]
