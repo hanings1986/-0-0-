@@ -1180,6 +1180,18 @@
     "first_goal_minute": 80,
     "first_goal_team": "Machida Zelvia",
     "recorded_at": "2026-09-20T10:00:46.598641+00:00"
+   },
+   {
+    "match": "West Bromwich Albion at Wolverhampton Wanderers",
+    "league": "3914",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Wolves",
+    "recorded_at": "2026-09-20T13:00:37.302346+00:00"
    }
   ],
   "generated_at": null

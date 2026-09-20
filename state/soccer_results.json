@@ -5634,5 +5634,23 @@
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T12:50:41.805019+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3914",
+  "league_name": "3914",
+  "match": "West Bromwich Albion at Wolverhampton Wanderers",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T13:00:37.302346+00:00"
+ },
+ {
+  "league_id": "735",
+  "league_name": "735",
+  "match": "Rangers at Celtic",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T13:00:37.302359+00:00"
  }
 ]
