@@ -5698,5 +5698,61 @@
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T13:40:49.984394+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3921",
+  "league_name": "3921",
+  "match": "Real Oviedo at CD Sabadell",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T14:01:15.533125+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3913",
+  "league_name": "Danish Superliga",
+  "match": "F.C. København at Brøndby IF",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T14:01:15.533125+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3945",
+  "league_name": "3945",
+  "match": "IF Elfsborg at Djurgården",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T14:01:15.657393+00:00"
+ },
+ {
+  "league_id": "3945",
+  "league_name": "3945",
+  "match": "AIK at Halmstads BK",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T14:01:15.657412+00:00"
+ },
+ {
+  "league_id": "3945",
+  "league_name": "3945",
+  "match": "BK Häcken at Kalmar FF",
+  "final": "0:5",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T14:01:15.657421+00:00"
+ },
+ {
+  "league_id": "3913",
+  "league_name": "3913",
+  "match": "Randers FC at Sønderjyske Fodbold",
+  "final": "4:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T14:01:15.657429+00:00"
  }
 ]

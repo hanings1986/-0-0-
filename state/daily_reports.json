@@ -1192,8 +1192,27 @@
     "first_goal_minute": 90,
     "first_goal_team": "Wolves",
     "recorded_at": "2026-09-20T13:00:37.302346+00:00"
+   },
+   {
+    "match": "F.C. København at Brøndby IF",
+    "league": "Danish Superliga",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "F.C. København",
+    "recorded_at": "2026-09-20T14:01:15.533125+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-09-20T14:01:16.456799+00:00",
+  "summary": {
+   "total": 29,
+   "goal_after_70": 15,
+   "clean_00": 14,
+   "early_goal": 0,
+   "goal_rate": 51.7
+  }
  }
 }
