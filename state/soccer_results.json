@@ -5615,5 +5615,14 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T12:20:50.043963+00:00"
+ },
+ {
+  "league_id": "730",
+  "league_name": "730",
+  "match": "Napoli at Fiorentina",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T12:30:38.657583+00:00"
  }
 ]
