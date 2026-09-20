@@ -1301,6 +1301,18 @@
     "first_goal_minute": 92,
     "first_goal_team": "Olympiacos",
     "recorded_at": "2026-09-20T16:00:47.473720+00:00"
+   },
+   {
+    "match": "Palmeiras at Grêmio",
+    "league": "Brazil Serie A",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-20T16:20:46.071655+00:00"
    }
   ],
   "generated_at": null
