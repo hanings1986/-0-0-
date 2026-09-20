@@ -5624,5 +5624,15 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T12:30:38.657583+00:00"
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "SC Farense at Sacavenense",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T12:50:41.805019+00:00",
+  "backstop": true
  }
 ]
