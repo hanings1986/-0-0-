@@ -1144,6 +1144,18 @@
     "first_goal_minute": 90,
     "first_goal_team": "Pasto",
     "recorded_at": "2026-09-20T03:20:38.801779+00:00"
+   },
+   {
+    "match": "FC Motagua at Real España",
+    "league": "Honduran Liga Nacional",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Real España",
+    "recorded_at": "2026-09-20T03:40:43.206806+00:00"
    }
   ],
   "generated_at": null
