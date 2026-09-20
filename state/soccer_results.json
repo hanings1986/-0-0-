@@ -6187,5 +6187,61 @@
   "goal_after_70": false,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T16:20:46.071655+00:00"
+ },
+ {
+  "league_id": "23480",
+  "league_name": "23480",
+  "match": "Dorking Wanderers at Southall",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:30:40.863444+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3945",
+  "league_name": "3945",
+  "match": "Hammarby IF at Degerfors IF",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:30:40.863444+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "740",
+  "league_name": "740",
+  "match": "Real Madrid at Atlético Madrid",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:30:40.939640+00:00"
+ },
+ {
+  "league_id": "3921",
+  "league_name": "3921",
+  "match": "Real Valladolid at Ceuta",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:30:40.939654+00:00"
+ },
+ {
+  "league_id": "715",
+  "league_name": "715",
+  "match": "Académico de Viseu at Estrela",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:30:40.939663+00:00"
+ },
+ {
+  "league_id": "3945",
+  "league_name": "3945",
+  "match": "GAIS at Mjällby AIF",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:30:40.939672+00:00"
  }
 ]
