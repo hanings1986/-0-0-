@@ -5503,5 +5503,14 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T04:10:37.441567+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Seattle Sounders FC at Colorado Rapids",
+  "final": "3:3",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T04:30:47.629939+00:00"
  }
 ]
