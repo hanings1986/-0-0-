@@ -6243,5 +6243,61 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T16:30:40.939672+00:00"
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Portel at Olhanense",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:50:43.419475+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Louletano at Serpa",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:50:43.419475+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "715",
+  "league_name": "715",
+  "match": "Moreirense at Vitória de Guimaraes",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:50:43.728373+00:00"
+ },
+ {
+  "league_id": "725",
+  "league_name": "725",
+  "match": "Go Ahead Eagles at NEC Nijmegen",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:50:43.728389+00:00"
+ },
+ {
+  "league_id": "3933",
+  "league_name": "3933",
+  "match": "NAC Breda at De Graafschap",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:50:43.728399+00:00"
+ },
+ {
+  "league_id": "19945",
+  "league_name": "19945",
+  "match": "Heerenveen at ADO Den Haag",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:50:43.728406+00:00"
  }
 ]
