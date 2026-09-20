@@ -1286,5 +1286,23 @@
    "early_goal": 0,
    "goal_rate": 51.7
   }
+ },
+ "2026-09-21": {
+  "date": "2026-09-21",
+  "rows": [
+   {
+    "match": "Olympiacos at Levadiakos",
+    "league": "Greek Super League",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 92,
+    "first_goal_team": "Olympiacos",
+    "recorded_at": "2026-09-20T16:00:47.473720+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }

@@ -5974,5 +5974,140 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T15:40:57.200182+00:00"
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Ginásio Figueirense at AD Fazendense",
+  "final": "6:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "CF Benfica at Alcochetense",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "AD Macao at Alpendorada",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Sanjoanense at Ançã",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Vinhais at Fatima",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Aljustrelense at Limianos",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Amarante at Ponte Barca",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "AVS at Sintrense",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Merelinense at União Santarém",
+  "final": "5:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3946",
+  "league_name": "3946",
+  "match": "Samsunspor at Erzurum BB",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:47.473684+00:00"
+ },
+ {
+  "league_id": "3946",
+  "league_name": "3946",
+  "match": "Eyupspor at Fenerbahce",
+  "final": "8:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:47.473699+00:00"
+ },
+ {
+  "league_id": "3901",
+  "league_name": "3901",
+  "match": "KVC Westerlo at Sint-Truidense",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:47.473712+00:00"
+ },
+ {
+  "league_id": "3955",
+  "league_name": "Greek Super League",
+  "match": "Olympiacos at Levadiakos",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:47.473720+00:00"
+ },
+ {
+  "league_id": "3913",
+  "league_name": "3913",
+  "match": "AGF at AC Horsens",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T16:00:47.473730+00:00"
  }
 ]
