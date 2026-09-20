@@ -5124,5 +5124,86 @@
   "goal_after_70": false,
   "date": "2026-09-19",
   "recorded_at": "2026-09-20T01:00:42.048725+00:00"
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Pumas UNAM at Atlas",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:10:37.313699+00:00"
+ },
+ {
+  "league_id": "23633",
+  "league_name": "USL Super League",
+  "match": "Brooklyn FC at Carolina Ascent FC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:10:37.313711+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "FC Tulsa at Brooklyn FC",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:10:37.313719+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Loudoun United FC at Louisville City FC",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:10:37.313726+00:00"
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "Portland Hearts of Pine at Chattanooga Red Wolves",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:10:37.313732+00:00"
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "AV Alta FC at Forward Madison FC",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:10:37.313737+00:00"
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "Westchester SC at New York Cosmos",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:10:37.313742+00:00"
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Cúcuta Deportivo at Deportivo Cali",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:10:37.313747+00:00"
+ },
+ {
+  "league_id": "4005",
+  "league_name": "4005",
+  "match": "Escorpiones Belén at Puntarenas FC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:10:37.313753+00:00"
  }
 ]

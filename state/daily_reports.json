@@ -1072,6 +1072,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-20T01:00:42.048725+00:00"
+   },
+   {
+    "match": "Brooklyn FC at Carolina Ascent FC",
+    "league": "USL Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Carolina",
+    "recorded_at": "2026-09-20T01:10:37.313711+00:00"
    }
   ],
   "generated_at": null
