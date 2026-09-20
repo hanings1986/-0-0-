@@ -1096,6 +1096,18 @@
     "first_goal_minute": 84,
     "first_goal_team": "Columbus",
     "recorded_at": "2026-09-20T01:40:43.345964+00:00"
+   },
+   {
+    "match": "Austin FC at FC Dallas",
+    "league": "MLS",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-20T02:50:45.995999+00:00"
    }
   ],
   "generated_at": null
