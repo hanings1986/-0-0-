@@ -5652,5 +5652,41 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T13:00:37.302359+00:00"
+ },
+ {
+  "league_id": "3901",
+  "league_name": "3901",
+  "match": "Union St.-Gilloise at Antwerp",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T13:30:38.258840+00:00"
+ },
+ {
+  "league_id": "3927",
+  "league_name": "3927",
+  "match": "1. FC Heidenheim 1846 at Arminia Bielefeld",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T13:30:38.258877+00:00"
+ },
+ {
+  "league_id": "3927",
+  "league_name": "3927",
+  "match": "St. Pauli at Energie Cottbus",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T13:30:38.258887+00:00"
+ },
+ {
+  "league_id": "3927",
+  "league_name": "3927",
+  "match": "VfL Bochum at Hannover 96",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T13:30:38.258895+00:00"
  }
 ]
