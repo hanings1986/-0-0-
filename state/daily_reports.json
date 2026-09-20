@@ -1084,6 +1084,18 @@
     "first_goal_minute": 76,
     "first_goal_team": "Carolina",
     "recorded_at": "2026-09-20T01:10:37.313711+00:00"
+   },
+   {
+    "match": "Columbus Crew at CF Montréal",
+    "league": "770",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 84,
+    "first_goal_team": "Columbus",
+    "recorded_at": "2026-09-20T01:40:43.345964+00:00"
    }
   ],
   "generated_at": null

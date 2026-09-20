@@ -5205,5 +5205,68 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-20T01:10:37.313753+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Miami FC at Rhode Island FC",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:40:43.345931+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Birmingham Legion FC at Tampa Bay Rowdies",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:40:43.345944+00:00"
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "FC Naples at Fort Wayne",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:40:43.345951+00:00"
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Coritiba at Vasco da Gama",
+  "final": "5:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:40:43.345958+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Columbus Crew at CF Montréal",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T01:40:43.345964+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Charlotte FC at D.C. United",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T01:40:43.345970+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "LAFC at San Jose Earthquakes",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T01:40:43.345976+00:00"
  }
 ]
