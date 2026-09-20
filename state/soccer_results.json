@@ -5579,5 +5579,32 @@
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T11:20:40.650044+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "725",
+  "league_name": "725",
+  "match": "FC Utrecht at Feyenoord Rotterdam",
+  "final": "5:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T12:10:38.165211+00:00"
+ },
+ {
+  "league_id": "20956",
+  "league_name": "20956",
+  "match": "Sevilla at CD Tenerife",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T12:10:38.165224+00:00"
+ },
+ {
+  "league_id": "20956",
+  "league_name": "20956",
+  "match": "Deportivo at Granada",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T12:10:38.165233+00:00"
  }
 ]
