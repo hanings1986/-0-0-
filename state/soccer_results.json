@@ -5530,5 +5530,15 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T04:40:35.778635+00:00"
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Papua New Guinea at New Caledonia",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T07:20:36.074110+00:00",
+  "backstop": true
  }
 ]
