@@ -5754,5 +5754,14 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T14:01:15.657429+00:00"
+ },
+ {
+  "league_id": "740",
+  "league_name": "LALIGA",
+  "match": "Málaga at Getafe",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T14:10:46.781794+00:00"
  }
 ]

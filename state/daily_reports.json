@@ -1204,6 +1204,18 @@
     "first_goal_minute": 79,
     "first_goal_team": "F.C. København",
     "recorded_at": "2026-09-20T14:01:15.533125+00:00"
+   },
+   {
+    "match": "Málaga at Getafe",
+    "league": "LALIGA",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Getafe",
+    "recorded_at": "2026-09-20T14:10:46.781794+00:00"
    }
   ],
   "generated_at": "2026-09-20T14:01:16.456799+00:00",
