@@ -5467,5 +5467,23 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T03:40:43.206816+00:00"
+ },
+ {
+  "league_id": "8301",
+  "league_name": "8301",
+  "match": "Seattle Reign FC at Denver Summit FC",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T03:50:41.876203+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Vancouver Whitecaps at Real Salt Lake",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T03:50:41.876216+00:00"
  }
 ]
