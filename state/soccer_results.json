@@ -5386,5 +5386,41 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T02:50:45.996030+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "USL Championship",
+  "match": "New Mexico United at Colorado Springs Switchbacks FC",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T03:10:50.748564+00:00"
+ },
+ {
+  "league_id": "3932",
+  "league_name": "Liga de Expansión MX",
+  "match": "Alebrijes de Oaxaca at Cancún FC",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T03:10:50.748586+00:00"
+ },
+ {
+  "league_id": "3932",
+  "league_name": "3932",
+  "match": "Leones Negros at Club Atlético Morelia",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T03:10:50.748596+00:00"
+ },
+ {
+  "league_id": "3932",
+  "league_name": "3932",
+  "match": "Dorados de Sinaloa at Club Jaiba Brava",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T03:10:50.748604+00:00"
  }
 ]

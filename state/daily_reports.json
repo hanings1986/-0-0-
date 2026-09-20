@@ -1108,6 +1108,30 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-20T02:50:45.995999+00:00"
+   },
+   {
+    "match": "New Mexico United at Colorado Springs Switchbacks FC",
+    "league": "USL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-20T03:10:50.748564+00:00"
+   },
+   {
+    "match": "Alebrijes de Oaxaca at Cancún FC",
+    "league": "Liga de Expansión MX",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "3:0",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "Cancún",
+    "recorded_at": "2026-09-20T03:10:50.748586+00:00"
    }
   ],
   "generated_at": null
