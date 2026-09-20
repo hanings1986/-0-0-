@@ -5512,5 +5512,23 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T04:30:47.629939+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Hartford Athletic at Las Vegas Lights FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T04:40:35.778614+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Atlanta United FC at Portland Timbers",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T04:40:35.778635+00:00"
  }
 ]
