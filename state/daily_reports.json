@@ -1156,6 +1156,30 @@
     "first_goal_minute": 90,
     "first_goal_team": "Real España",
     "recorded_at": "2026-09-20T03:40:43.206806+00:00"
+   },
+   {
+    "match": "Vissel Kobe at Gamba Osaka",
+    "league": "Japanese J1 League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Vissel Kobe",
+    "recorded_at": "2026-09-20T10:00:43.826046+00:00"
+   },
+   {
+    "match": "Kashiwa Reysol at Machida Zelvia",
+    "league": "750",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:4",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Machida Zelvia",
+    "recorded_at": "2026-09-20T10:00:46.598641+00:00"
    }
   ],
   "generated_at": null

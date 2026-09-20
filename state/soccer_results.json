@@ -5540,5 +5540,24 @@
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T07:20:36.074110+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "Japanese J1 League",
+  "match": "Vissel Kobe at Gamba Osaka",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T10:00:43.826046+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Kashiwa Reysol at Machida Zelvia",
+  "final": "2:4",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T10:00:46.598641+00:00"
  }
 ]
