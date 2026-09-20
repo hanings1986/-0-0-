@@ -5688,5 +5688,15 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T13:30:38.258895+00:00"
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Vianense at Académica Calheta",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T13:40:49.984394+00:00",
+  "backstop": true
  }
 ]
