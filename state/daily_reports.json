@@ -1036,6 +1036,42 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-19T16:10:38.312494+00:00"
+   },
+   {
+    "match": "Monterey Bay at Charleston Battery",
+    "league": "USL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "Charleston Battery",
+    "recorded_at": "2026-09-20T01:00:41.699391+00:00"
+   },
+   {
+    "match": "Pittsburgh Riverhounds at Detroit City FC",
+    "league": "USL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 73,
+    "first_goal_team": "Detroit City FC",
+    "recorded_at": "2026-09-20T01:00:41.699391+00:00"
+   },
+   {
+    "match": "Isidro Metapán at Internacional Santa Tecla",
+    "league": "Salvadoran Primera",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-20T01:00:42.048725+00:00"
    }
   ],
   "generated_at": null

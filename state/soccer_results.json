@@ -5067,5 +5067,62 @@
   "goal_after_70": true,
   "date": "2026-09-19",
   "recorded_at": "2026-09-20T00:30:57.503646+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "USL Championship",
+  "match": "Monterey Bay at Charleston Battery",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:00:41.699391+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4002",
+  "league_name": "USL Championship",
+  "match": "Pittsburgh Riverhounds at Detroit City FC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:00:41.699391+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Orange County SC at Lexington",
+  "final": "6:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:00:41.699391+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Necaxa at Atlético de San Luis",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:00:42.048680+00:00"
+ },
+ {
+  "league_id": "670",
+  "league_name": "670",
+  "match": "Universitario at Deportivo Garcilaso",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:00:42.048713+00:00"
+ },
+ {
+  "league_id": "3943",
+  "league_name": "Salvadoran Primera",
+  "match": "Isidro Metapán at Internacional Santa Tecla",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-19",
+  "recorded_at": "2026-09-20T01:00:42.048725+00:00"
  }
 ]
