@@ -5817,5 +5817,135 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T14:30:51.250696+00:00"
+ },
+ {
+  "league_id": "700",
+  "league_name": "700",
+  "match": "Sunderland at Manchester City",
+  "final": "5:3",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:44.985421+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Leixoes at CD Cinfães",
+  "final": "0:4",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:44.985421+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3931",
+  "league_name": "3931",
+  "match": "Vicenza at Hellas Verona",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:44.985421+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3937",
+  "league_name": "3937",
+  "match": "Orlando Pirates at Marumo Gallants",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:44.985421+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "700",
+  "league_name": "700",
+  "match": "Liverpool at AFC Bournemouth",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:45.704729+00:00"
+ },
+ {
+  "league_id": "700",
+  "league_name": "Premier League",
+  "match": "Crystal Palace at Leeds United",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:45.704745+00:00"
+ },
+ {
+  "league_id": "730",
+  "league_name": "730",
+  "match": "Genoa at Parma",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:45.704759+00:00"
+ },
+ {
+  "league_id": "710",
+  "league_name": "710",
+  "match": "Brest at AJ Auxerre",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:45.704767+00:00"
+ },
+ {
+  "league_id": "8097",
+  "league_name": "8097",
+  "match": "Aston Villa at Brighton & Hove Albion",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:45.704774+00:00"
+ },
+ {
+  "league_id": "8097",
+  "league_name": "8097",
+  "match": "Tottenham Hotspur at Crystal Palace",
+  "final": "0:7",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:45.704780+00:00"
+ },
+ {
+  "league_id": "8097",
+  "league_name": "Women's Super League",
+  "match": "Everton at West Ham United",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:45.704787+00:00"
+ },
+ {
+  "league_id": "680",
+  "league_name": "680",
+  "match": "Juventud at Albion FC",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:45.704798+00:00"
+ },
+ {
+  "league_id": "3937",
+  "league_name": "South African Premier",
+  "match": "Kaizer Chiefs at Golden Arrows",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:45.705005+00:00"
+ },
+ {
+  "league_id": "3937",
+  "league_name": "3937",
+  "match": "Durban City at Milford FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:00:45.705013+00:00"
  }
 ]

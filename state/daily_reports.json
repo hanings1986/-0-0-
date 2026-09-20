@@ -1216,6 +1216,66 @@
     "first_goal_minute": 90,
     "first_goal_team": "Getafe",
     "recorded_at": "2026-09-20T14:10:46.781794+00:00"
+   },
+   {
+    "match": "Liverpool at AFC Bournemouth",
+    "league": "700",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 85,
+    "first_goal_team": "Liverpool",
+    "recorded_at": "2026-09-20T15:00:45.704729+00:00"
+   },
+   {
+    "match": "Crystal Palace at Leeds United",
+    "league": "Premier League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-20T15:00:45.704745+00:00"
+   },
+   {
+    "match": "Tottenham Hotspur at Crystal Palace",
+    "league": "8097",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:7",
+    "goal_after_70": true,
+    "first_goal_minute": 81,
+    "first_goal_team": "Spurs",
+    "recorded_at": "2026-09-20T15:00:45.704780+00:00"
+   },
+   {
+    "match": "Everton at West Ham United",
+    "league": "Women's Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 94,
+    "first_goal_team": "Everton",
+    "recorded_at": "2026-09-20T15:00:45.704787+00:00"
+   },
+   {
+    "match": "Kaizer Chiefs at Golden Arrows",
+    "league": "South African Premier",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-20T15:00:45.705005+00:00"
    }
   ],
   "generated_at": "2026-09-20T14:01:16.456799+00:00",
