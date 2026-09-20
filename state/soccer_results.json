@@ -5422,5 +5422,23 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T03:10:50.748604+00:00"
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Cruz Azul at Monterrey",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T03:20:38.801758+00:00"
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Once Caldas at Deportivo Pasto",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T03:20:38.801779+00:00"
  }
 ]

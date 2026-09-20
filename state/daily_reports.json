@@ -1132,6 +1132,18 @@
     "first_goal_minute": 77,
     "first_goal_team": "Cancún",
     "recorded_at": "2026-09-20T03:10:50.748586+00:00"
+   },
+   {
+    "match": "Once Caldas at Deportivo Pasto",
+    "league": "650",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Pasto",
+    "recorded_at": "2026-09-20T03:20:38.801779+00:00"
    }
   ],
   "generated_at": null
