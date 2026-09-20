@@ -5965,5 +5965,14 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T15:10:42.767865+00:00"
+ },
+ {
+  "league_id": "720",
+  "league_name": "720",
+  "match": "RB Leipzig at Bayer Leverkusen",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T15:40:57.200182+00:00"
  }
 ]
