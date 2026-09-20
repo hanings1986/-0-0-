@@ -6309,5 +6309,15 @@
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T17:00:38.549849+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "20922",
+  "league_name": "20922",
+  "match": "Vitoria Setubal at Alcains",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-20T17:20:44.840841+00:00",
+  "backstop": true
  }
 ]
