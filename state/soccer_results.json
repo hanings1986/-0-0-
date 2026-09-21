@@ -6512,5 +6512,32 @@
   "goal_after_70": true,
   "date": "2026-09-21",
   "recorded_at": "2026-09-21T03:10:47.117377+00:00"
+ },
+ {
+  "league_id": "4005",
+  "league_name": "4005",
+  "match": "Cartaginés at AD San Carlos",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-21",
+  "recorded_at": "2026-09-21T03:20:37.526013+00:00"
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Atlético Nacional at Llaneros FC",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-21",
+  "recorded_at": "2026-09-21T03:20:37.526027+00:00"
+ },
+ {
+  "league_id": "3928",
+  "league_name": "3928",
+  "match": "Xelajú MC at Suchitepequez",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-21",
+  "recorded_at": "2026-09-21T03:20:37.526037+00:00"
  }
 ]
