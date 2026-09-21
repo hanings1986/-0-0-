@@ -6448,5 +6448,23 @@
   "goal_after_70": true,
   "date": "2026-09-20",
   "recorded_at": "2026-09-21T01:20:39.846760+00:00"
+ },
+ {
+  "league_id": "660",
+  "league_name": "660",
+  "match": "Universidad Católica (Quito) at Liga de Quito",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-21T01:40:44.671414+00:00"
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "Atletico Balboa at Luis Ángel Firpo",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-21T01:40:44.671427+00:00"
  }
 ]
