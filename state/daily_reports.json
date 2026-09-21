@@ -1337,6 +1337,30 @@
     "first_goal_minute": 77,
     "first_goal_team": "Estudiantes RC",
     "recorded_at": "2026-09-21T00:20:45.697179+00:00"
+   },
+   {
+    "match": "Racing (Montevideo) at Liverpool",
+    "league": "Liga AUF Uruguaya",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-21T01:10:40.555394+00:00"
+   },
+   {
+    "match": "San Antonio FC at Sacramento Republic FC",
+    "league": "USL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-21T01:10:40.555414+00:00"
    }
   ],
   "generated_at": null
