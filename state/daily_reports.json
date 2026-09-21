@@ -1383,5 +1383,23 @@
    "early_goal": 0,
    "goal_rate": 42.9
   }
+ },
+ "2026-09-22": {
+  "date": "2026-09-22",
+  "rows": [
+   {
+    "match": "Independiente del Valle at Barcelona SC",
+    "league": "LigaPro Ecuador",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-21T16:20:43.318330+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
