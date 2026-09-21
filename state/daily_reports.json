@@ -1325,6 +1325,18 @@
     "first_goal_minute": 90,
     "first_goal_team": "Atlético",
     "recorded_at": "2026-09-20T16:30:40.939640+00:00"
+   },
+   {
+    "match": "Estudiantes de Río Cuarto at Belgrano (Córdoba)",
+    "league": "Argentine LPF",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:1",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "Estudiantes RC",
+    "recorded_at": "2026-09-21T00:20:45.697179+00:00"
    }
   ],
   "generated_at": null

@@ -6329,5 +6329,14 @@
   "date": "2026-09-20",
   "recorded_at": "2026-09-20T17:30:44.868354+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "Argentine LPF",
+  "match": "Estudiantes de Río Cuarto at Belgrano (Córdoba)",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-20",
+  "recorded_at": "2026-09-21T00:20:45.697179+00:00"
  }
 ]
