@@ -6632,5 +6632,15 @@
   "goal_after_70": true,
   "date": "2026-09-22",
   "recorded_at": "2026-09-22T02:41:11.427441+00:00"
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "Real Tomayapo at Independiente Petrolero",
+  "final": "5:1",
+  "goal_after_70": true,
+  "date": "2026-09-22",
+  "recorded_at": "2026-09-22T02:50:49.421014+00:00",
+  "backstop": true
  }
 ]
