@@ -6577,5 +6577,24 @@
   "date": "2026-09-21",
   "recorded_at": "2026-09-21T06:10:37.432691+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "San Antonio Bulo Bulo at Guabirá",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-22",
+  "recorded_at": "2026-09-22T00:00:43.971396+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Independiente Rivadavia at Barracas Central",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-21",
+  "recorded_at": "2026-09-22T00:00:44.025932+00:00"
  }
 ]
