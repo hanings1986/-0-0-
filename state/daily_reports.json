@@ -1485,6 +1485,13 @@
     "recorded_at": "2026-09-23T04:10:40.308509+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-09-23T14:00:46.177720+00:00",
+  "summary": {
+   "total": 6,
+   "goal_after_70": 0,
+   "clean_00": 6,
+   "early_goal": 0,
+   "goal_rate": 0.0
+  }
  }
 }
