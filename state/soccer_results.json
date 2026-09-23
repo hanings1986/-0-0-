@@ -6651,5 +6651,24 @@
   "goal_after_70": true,
   "date": "2026-09-22",
   "recorded_at": "2026-09-23T00:50:48.577781+00:00"
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "Real Potosí at Nacional Potosí",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-23",
+  "recorded_at": "2026-09-23T01:10:43.489435+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Jaguares de Córdoba at Independiente Medellín",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-22",
+  "recorded_at": "2026-09-23T01:10:43.526938+00:00"
  }
 ]
