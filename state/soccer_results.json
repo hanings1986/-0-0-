@@ -6964,5 +6964,15 @@
   "goal_after_70": true,
   "date": "2026-09-24",
   "recorded_at": "2026-09-24T13:40:50.392064+00:00"
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "WSG Swarovski Tirol at FC Liefering",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-24",
+  "recorded_at": "2026-09-24T14:40:48.448101+00:00",
+  "backstop": true
  }
 ]
