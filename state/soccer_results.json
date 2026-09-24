@@ -6926,5 +6926,14 @@
   "date": "2026-09-24",
   "recorded_at": "2026-09-24T12:40:48.021065+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Ecuador at South Korea",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-24",
+  "recorded_at": "2026-09-24T13:00:39.251361+00:00"
  }
 ]
