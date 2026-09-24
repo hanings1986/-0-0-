@@ -1556,6 +1556,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-23T16:10:46.451219+00:00"
+   },
+   {
+    "match": "Antigua and Barbuda at Aruba",
+    "league": "Concacaf Nations League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 93,
+    "first_goal_team": "Aruba",
+    "recorded_at": "2026-09-24T01:10:42.694509+00:00"
    }
   ],
   "generated_at": null
