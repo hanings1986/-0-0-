@@ -6831,5 +6831,23 @@
   "goal_after_70": true,
   "date": "2026-09-24",
   "recorded_at": "2026-09-24T02:40:52.045463+00:00"
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "Fuerte San Francisco at Alianza FC",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-24",
+  "recorded_at": "2026-09-24T03:20:48.495277+00:00"
+ },
+ {
+  "league_id": "3943",
+  "league_name": "Salvadoran Primera",
+  "match": "Cacahuatique at Luis Ángel Firpo",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-24",
+  "recorded_at": "2026-09-24T03:20:48.495286+00:00"
  }
 ]

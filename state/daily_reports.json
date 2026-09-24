@@ -1568,6 +1568,18 @@
     "first_goal_minute": 93,
     "first_goal_team": "Aruba",
     "recorded_at": "2026-09-24T01:10:42.694509+00:00"
+   },
+   {
+    "match": "Cacahuatique at Luis Ángel Firpo",
+    "league": "Salvadoran Primera",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-24T03:20:48.495286+00:00"
    }
   ],
   "generated_at": null
