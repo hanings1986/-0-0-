@@ -6867,5 +6867,15 @@
   "goal_after_70": true,
   "date": "2026-09-24",
   "recorded_at": "2026-09-24T04:10:40.954376+00:00"
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Vanuatu at Solomon Islands",
+  "final": "3:3",
+  "goal_after_70": true,
+  "date": "2026-09-24",
+  "recorded_at": "2026-09-24T06:20:41.317107+00:00",
+  "backstop": true
  }
 ]
