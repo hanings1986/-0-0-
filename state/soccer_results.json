@@ -6849,5 +6849,14 @@
   "goal_after_70": false,
   "date": "2026-09-24",
   "recorded_at": "2026-09-24T03:20:48.495286+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Real Salt Lake at Seattle Sounders FC",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-24",
+  "recorded_at": "2026-09-24T03:40:43.294647+00:00"
  }
 ]
