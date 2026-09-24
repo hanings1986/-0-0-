@@ -1590,5 +1590,71 @@
    "early_goal": 0,
    "goal_rate": 14.3
   }
+ },
+ "2026-09-25": {
+  "date": "2026-09-25",
+  "rows": [
+   {
+    "match": "Barnsley at Bradford City",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-24T16:20:41.875295+00:00"
+   },
+   {
+    "match": "Leyton Orient at Mansfield Town",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-24T16:20:41.875295+00:00"
+   },
+   {
+    "match": "Bromley at Milton Keynes Dons",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-24T16:20:41.875295+00:00"
+   },
+   {
+    "match": "Blackpool at Notts County",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-24T16:20:41.875295+00:00"
+   },
+   {
+    "match": "Sheffield Wednesday at Stevenage",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-24T16:20:41.875295+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
