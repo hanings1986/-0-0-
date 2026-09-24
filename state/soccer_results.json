@@ -6974,5 +6974,24 @@
   "date": "2026-09-24",
   "recorded_at": "2026-09-24T14:40:48.448101+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "SV Kapfenberg at TSV Hartberg",
+  "final": "5:0",
+  "goal_after_70": true,
+  "date": "2026-09-24",
+  "recorded_at": "2026-09-24T15:20:49.022547+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8315",
+  "league_name": "8315",
+  "match": "Congo at Namibia",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-24",
+  "recorded_at": "2026-09-24T15:20:49.127999+00:00"
  }
 ]
