@@ -6955,5 +6955,14 @@
   "date": "2026-09-24",
   "recorded_at": "2026-09-24T13:30:45.225042+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Maldives at China",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-24",
+  "recorded_at": "2026-09-24T13:40:50.392064+00:00"
  }
 ]
