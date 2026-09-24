@@ -6906,5 +6906,25 @@
   "goal_after_70": true,
   "date": "2026-09-24",
   "recorded_at": "2026-09-24T12:20:46.377464+00:00"
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Schwarz-Weiß Bregenz at Austria Lustenau",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-24",
+  "recorded_at": "2026-09-24T12:40:48.021065+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "FC Aarau at Grasshoppers",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-09-24",
+  "recorded_at": "2026-09-24T12:40:48.021065+00:00",
+  "backstop": true
  }
 ]
