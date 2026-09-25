@@ -7143,5 +7143,14 @@
   "date": "2026-09-25",
   "recorded_at": "2026-09-25T15:10:43.533359+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "20114",
+  "league_name": "20114",
+  "match": "Czechia U21 at Azerbaijan U21",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-25",
+  "recorded_at": "2026-09-25T15:40:38.157706+00:00"
  }
 ]
