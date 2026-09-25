@@ -7094,5 +7094,25 @@
   "goal_after_70": true,
   "date": "2026-09-25",
   "recorded_at": "2026-09-25T12:10:49.700352+00:00"
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Melbourne City FC at Oakleigh Cannons FC",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-25",
+  "recorded_at": "2026-09-25T13:20:43.855406+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Neuchatel Xamax at FC Zürich",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-25",
+  "recorded_at": "2026-09-25T13:20:43.855406+00:00",
+  "backstop": true
  }
 ]
