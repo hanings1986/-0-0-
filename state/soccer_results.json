@@ -7030,5 +7030,24 @@
   "goal_after_70": false,
   "date": "2026-09-25",
   "recorded_at": "2026-09-25T02:20:46.888732+00:00"
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Millonarios at Atlético Nacional",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-25",
+  "recorded_at": "2026-09-25T02:30:43.571826+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Trinidad and Tobago at Haiti",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-09-25",
+  "recorded_at": "2026-09-25T02:30:43.635809+00:00"
  }
 ]
