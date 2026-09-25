@@ -1653,6 +1653,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-24T16:20:41.875295+00:00"
+   },
+   {
+    "match": "Dominica at Cayman Islands",
+    "league": "Concacaf Nations League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-25T02:20:46.888732+00:00"
    }
   ],
   "generated_at": null
