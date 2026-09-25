@@ -1665,6 +1665,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-25T02:20:46.888732+00:00"
+   },
+   {
+    "match": "Brazil at Australia",
+    "league": "Men's International Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "Australia",
+    "recorded_at": "2026-09-25T12:10:49.700352+00:00"
    }
   ],
   "generated_at": null
