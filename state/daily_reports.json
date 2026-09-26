@@ -1810,6 +1810,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-26T11:00:44.076764+00:00"
+   },
+   {
+    "match": "Granada at FC Badalona",
+    "league": "Liga F",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 96,
+    "first_goal_team": "Granada",
+    "recorded_at": "2026-09-26T12:00:42.786089+00:00"
    }
   ],
   "generated_at": null

@@ -7461,5 +7461,34 @@
   "date": "2026-09-26",
   "recorded_at": "2026-09-26T11:10:45.593213+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "SC Popesti-Leordei at FC Farul Constanta",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T12:00:42.521873+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "HUTNIK KRAKÓW at WIECZYSTA KRAKÓW",
+  "final": "5:4",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T12:00:42.521873+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20956",
+  "league_name": "Liga F",
+  "match": "Granada at FC Badalona",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T12:00:42.786089+00:00"
  }
 ]
