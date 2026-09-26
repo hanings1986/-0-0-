@@ -1,46 +1,5 @@
 [
  {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Austin FC at Portland Timbers",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T08:50:38.289646+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "LA Galaxy at San Diego FC",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T08:50:38.289646+00:00",
-  "backstop": true
- },
- {
-  "league_id": "760",
-  "league_name": "760",
-  "match": "Tigres UANL at Santos",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T08:50:38.289646+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "4002",
-  "league_name": "4002",
-  "match": "San Antonio FC at New Mexico United",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T08:50:38.289646+00:00",
-  "backstop": true
- },
- {
   "league_id": "4002",
   "league_name": "4002",
   "match": "Sacramento Republic FC at Monterey Bay",
@@ -7480,5 +7439,41 @@
   "goal_after_70": true,
   "date": "2026-09-26",
   "recorded_at": "2026-09-26T16:20:47.784588+00:00"
+ },
+ {
+  "league_id": "20956",
+  "league_name": "20956",
+  "match": "Barcelona at Dux Logroño",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T16:30:38.175894+00:00"
+ },
+ {
+  "league_id": "3933",
+  "league_name": "3933",
+  "match": "Vitesse at Heracles Almelo",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T16:30:38.175913+00:00"
+ },
+ {
+  "league_id": "19945",
+  "league_name": "19945",
+  "match": "ADO Den Haag at Ajax Amsterdam",
+  "final": "7:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T16:30:38.175922+00:00"
+ },
+ {
+  "league_id": "19945",
+  "league_name": "19945",
+  "match": "PEC Zwolle at Feyenoord Rotterdam",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T16:30:38.175929+00:00"
  }
 ]
