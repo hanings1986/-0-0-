@@ -2,15 +2,6 @@
  {
   "league_id": "",
   "league_name": "?",
-  "match": "ABB at Bolívar",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-08-28",
-  "recorded_at": "2026-08-28T03:31:27.966820+00:00"
- },
- {
-  "league_id": "",
-  "league_name": "?",
   "match": "William & Mary at George Mason",
   "final": "3:1",
   "goal_after_70": true,
@@ -7502,5 +7493,14 @@
   "goal_after_70": true,
   "date": "2026-09-26",
   "recorded_at": "2026-09-26T14:00:37.141450+00:00"
+ },
+ {
+  "league_id": "3921",
+  "league_name": "3921",
+  "match": "Real Sociedad II at Ceuta",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T14:10:38.875480+00:00"
  }
 ]
