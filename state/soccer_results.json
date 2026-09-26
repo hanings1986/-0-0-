@@ -7181,5 +7181,23 @@
   "date": "2026-09-25",
   "recorded_at": "2026-09-25T16:30:37.190385+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3904",
+  "league_name": "Argentine Primera B",
+  "match": "Defensores Unidos at Ituzaingó",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-25",
+  "recorded_at": "2026-09-26T00:00:46.927680+00:00"
+ },
+ {
+  "league_id": "3934",
+  "league_name": "3934",
+  "match": "Sportivo Ameliano at Nacional Asunción",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-25",
+  "recorded_at": "2026-09-26T00:00:46.927708+00:00"
  }
 ]
