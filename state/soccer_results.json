@@ -7199,5 +7199,14 @@
   "goal_after_70": true,
   "date": "2026-09-25",
   "recorded_at": "2026-09-26T00:00:46.927708+00:00"
+ },
+ {
+  "league_id": "4007",
+  "league_name": "Brazil Serie B",
+  "match": "São Bernardo at Novorizontino",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-25",
+  "recorded_at": "2026-09-26T00:30:37.763384+00:00"
  }
 ]

@@ -1750,6 +1750,18 @@
     "first_goal_minute": 90,
     "first_goal_team": "Def. Unidos",
     "recorded_at": "2026-09-26T00:00:46.927680+00:00"
+   },
+   {
+    "match": "São Bernardo at Novorizontino",
+    "league": "Brazil Serie B",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-26T00:30:37.763384+00:00"
    }
   ],
   "generated_at": null
