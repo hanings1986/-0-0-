@@ -2,16 +2,6 @@
  {
   "league_id": "4002",
   "league_name": "4002",
-  "match": "Sacramento Republic FC at Monterey Bay",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T08:50:38.289646+00:00",
-  "backstop": true
- },
- {
-  "league_id": "4002",
-  "league_name": "4002",
   "match": "Charleston Battery at Las Vegas Lights FC",
   "final": "0:2",
   "goal_after_70": true,
@@ -7475,5 +7465,15 @@
   "goal_after_70": true,
   "date": "2026-09-26",
   "recorded_at": "2026-09-26T16:30:38.175929+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "MLS",
+  "match": "St. Louis CITY SC at Red Bull New York",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T20:40:56.344856+00:00",
+  "backstop": true
  }
 ]
