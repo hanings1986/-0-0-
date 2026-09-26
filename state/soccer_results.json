@@ -7421,5 +7421,25 @@
   "date": "2026-09-26",
   "recorded_at": "2026-09-26T06:30:48.180020+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "CSL Stefanesti at FCSB",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T10:50:47.494606+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "CS Gloria Bistrita at Sepsi Sfantu Gheorghe",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T10:50:47.494606+00:00",
+  "backstop": true
  }
 ]
