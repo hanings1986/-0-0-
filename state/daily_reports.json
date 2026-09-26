@@ -1844,5 +1844,167 @@
    "early_goal": 0,
    "goal_rate": 27.3
   }
+ },
+ "2026-09-27": {
+  "date": "2026-09-27",
+  "rows": [
+   {
+    "match": "Exeter City at Bristol Rovers",
+    "league": "3916",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 84,
+    "first_goal_team": "Bristol Rovers",
+    "recorded_at": "2026-09-26T16:00:49.072594+00:00"
+   },
+   {
+    "match": "Burton Albion at Plymouth Argyle",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 81,
+    "first_goal_team": "Burton Albion",
+    "recorded_at": "2026-09-26T16:00:49.072664+00:00"
+   },
+   {
+    "match": "Peterborough United at Stockport County",
+    "league": "3915",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 84,
+    "first_goal_team": "Stockport",
+    "recorded_at": "2026-09-26T16:00:49.072672+00:00"
+   },
+   {
+    "match": "Reading at Wycombe Wanderers",
+    "league": "3915",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:2",
+    "goal_after_70": true,
+    "first_goal_minute": 83,
+    "first_goal_team": "Wycombe",
+    "recorded_at": "2026-09-26T16:00:49.072679+00:00"
+   },
+   {
+    "match": "Grimsby Town at Newport County",
+    "league": "3916",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:1",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Newport",
+    "recorded_at": "2026-09-26T16:00:49.072687+00:00"
+   },
+   {
+    "match": "Walsall at Tranmere Rovers",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 81,
+    "first_goal_team": "Tranmere",
+    "recorded_at": "2026-09-26T16:00:49.072703+00:00"
+   },
+   {
+    "match": "AFC Fylde at Boston United",
+    "league": "3917",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "AFC Fylde",
+    "recorded_at": "2026-09-26T16:00:49.072714+00:00"
+   },
+   {
+    "match": "Yeovil Town at Kidderminster Harriers",
+    "league": "National League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "Yeovil",
+    "recorded_at": "2026-09-26T16:00:49.072736+00:00"
+   },
+   {
+    "match": "Boreham Wood at Solihull Moors",
+    "league": "3917",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:3",
+    "goal_after_70": true,
+    "first_goal_minute": 84,
+    "first_goal_team": "Boreham Wood",
+    "recorded_at": "2026-09-26T16:00:49.072747+00:00"
+   },
+   {
+    "match": "Barrow at Southend United",
+    "league": "3917",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:4",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Southend Utd",
+    "recorded_at": "2026-09-26T16:00:49.072754+00:00"
+   },
+   {
+    "match": "Aberdeen B at Cove Rangers",
+    "league": "5331",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:1",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "Cove Rangers",
+    "recorded_at": "2026-09-26T16:00:49.072788+00:00"
+   },
+   {
+    "match": "Edinburgh City at Formartine United",
+    "league": "5331",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 84,
+    "first_goal_team": "Formartine",
+    "recorded_at": "2026-09-26T16:00:49.072823+00:00"
+   },
+   {
+    "match": "Bohemians 1905 at Bohemians",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-26T16:00:45.457841+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
