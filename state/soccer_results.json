@@ -1,51 +1,6 @@
 [
  {
   "league_id": "",
-  "league_name": "?",
-  "match": "Le Moyne at Colgate",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-08-28",
-  "recorded_at": "2026-08-28T03:31:31.136855+00:00"
- },
- {
-  "league_id": "",
-  "league_name": "?",
-  "match": "San Francisco at Creighton",
-  "final": "4:2",
-  "goal_after_70": true,
-  "date": "2026-08-28",
-  "recorded_at": "2026-08-28T03:31:31.765699+00:00"
- },
- {
-  "league_id": "",
-  "league_name": "?",
-  "match": "Life Pacific University at San Diego State",
-  "final": "7:1",
-  "goal_after_70": true,
-  "date": "2026-08-28",
-  "recorded_at": "2026-08-28T03:31:32.622923+00:00"
- },
- {
-  "league_id": "",
-  "league_name": "?",
-  "match": "Holy Cross at Marist",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-08-28",
-  "recorded_at": "2026-08-28T03:31:33.209072+00:00"
- },
- {
-  "league_id": "",
-  "league_name": "?",
-  "match": "Pepperdine at Texas Tech",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-08-28",
-  "recorded_at": "2026-08-28T03:31:33.818199+00:00"
- },
- {
-  "league_id": "",
   "league_name": "NCAAW Soccer",
   "match": "Houston at Abilene Christian",
   "final": "0:0",
@@ -7505,5 +7460,52 @@
   "date": "2026-09-26",
   "recorded_at": "2026-09-26T14:50:48.906241+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Radnik Bijeljina at Borac Banja Luka",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T15:00:41.945241+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "FC Arsenal Tula at Lokomotiv Moscow",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T15:00:41.945241+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2395",
+  "league_name": "UEFA Nations League",
+  "match": "Scotland at Slovenia",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T15:00:42.432997+00:00"
+ },
+ {
+  "league_id": "8315",
+  "league_name": "8315",
+  "match": "Eritrea at Kenya",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T15:00:42.433006+00:00"
+ },
+ {
+  "league_id": "8315",
+  "league_name": "8315",
+  "match": "Guinea at South Africa",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T15:00:42.433012+00:00"
  }
 ]
