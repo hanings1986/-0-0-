@@ -1798,6 +1798,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-26T04:20:39.520847+00:00"
+   },
+   {
+    "match": "FC VAN at Alashkert FC",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-26T11:00:44.076764+00:00"
    }
   ],
   "generated_at": null
