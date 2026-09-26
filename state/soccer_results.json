@@ -7411,5 +7411,15 @@
   "date": "2026-09-26",
   "recorded_at": "2026-09-26T04:20:39.520847+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Solomon Islands at New Caledonia",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T06:30:48.180020+00:00",
+  "backstop": true
  }
 ]
