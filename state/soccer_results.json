@@ -2,24 +2,6 @@
  {
   "league_id": "",
   "league_name": "?",
-  "match": "Tapatío at Alebrijes de Oaxaca",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-08-28",
-  "recorded_at": "2026-08-28T03:31:24.704676+00:00"
- },
- {
-  "league_id": "",
-  "league_name": "?",
-  "match": "Club Atlético La Paz at Cancún FC",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-08-28",
-  "recorded_at": "2026-08-28T03:31:25.933954+00:00"
- },
- {
-  "league_id": "",
-  "league_name": "?",
   "match": "Instituto (Córdoba) at Platense",
   "final": "1:1",
   "goal_after_70": true,
@@ -7499,5 +7481,25 @@
   "goal_after_70": true,
   "date": "2026-09-26",
   "recorded_at": "2026-09-26T12:10:49.495915+00:00"
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Central Coast Mariners at Western Sydney Wanderers",
+  "final": "5:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T12:40:45.054096+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Dunav Ruse at Cherno More",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T12:40:45.054096+00:00",
+  "backstop": true
  }
 ]
