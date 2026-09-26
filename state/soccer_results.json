@@ -2,15 +2,6 @@
  {
   "league_id": "",
   "league_name": "?",
-  "match": "Instituto (Córdoba) at Platense",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-08-28",
-  "recorded_at": "2026-08-28T03:31:26.712527+00:00"
- },
- {
-  "league_id": "",
-  "league_name": "?",
   "match": "Deportivo Pasto at Internacional de Bogotá",
   "final": "1:1",
   "goal_after_70": true,
@@ -7500,6 +7491,16 @@
   "goal_after_70": true,
   "date": "2026-09-26",
   "recorded_at": "2026-09-26T12:40:45.054096+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Cremonese at Monza",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T13:20:39.170065+00:00",
   "backstop": true
  }
 ]
