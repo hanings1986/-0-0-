@@ -7346,5 +7346,23 @@
   "goal_after_70": true,
   "date": "2026-09-26",
   "recorded_at": "2026-09-26T02:40:43.864635+00:00"
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Monterrey at Atlante",
+  "final": "4:2",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T03:00:41.330237+00:00"
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Suriname at Honduras",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T03:00:41.330247+00:00"
  }
 ]
