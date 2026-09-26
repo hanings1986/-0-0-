@@ -7364,5 +7364,23 @@
   "goal_after_70": true,
   "date": "2026-09-26",
   "recorded_at": "2026-09-26T03:00:41.330247+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "FC Tulsa at El Paso Locomotive FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T03:10:48.718605+00:00"
+ },
+ {
+  "league_id": "3932",
+  "league_name": "3932",
+  "match": "Club Jaiba Brava at Correcaminos UAT",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-26T03:10:48.718616+00:00"
  }
 ]
