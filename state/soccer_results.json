@@ -1,34 +1,5 @@
 [
  {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Camacha at Machico",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T14:31:06.316092+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "725",
-  "league_name": "725",
-  "match": "ADO Den Haag at Feyenoord Rotterdam",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T14:31:06.395273+00:00"
- },
- {
-  "league_id": "3960",
-  "league_name": "3960",
-  "match": "Rosenborg at Bodo/Glimt",
-  "final": "4:2",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T14:31:06.955332+00:00"
- },
- {
   "league_id": "720",
   "league_name": "720",
   "match": "Werder Bremen at SC Freiburg",
@@ -7468,5 +7439,32 @@
   "goal_after_70": true,
   "date": "2026-09-26",
   "recorded_at": "2026-09-27T01:20:45.150973+00:00"
+ },
+ {
+  "league_id": "8312",
+  "league_name": "Copa Chile",
+  "match": "Unión La Calera at Universidad Católica",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:30:43.100997+00:00"
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Llaneros FC at Cúcuta Deportivo",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:30:43.101006+00:00"
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Chile at Canada",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:30:43.101011+00:00"
  }
 ]
