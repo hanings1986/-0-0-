@@ -2162,5 +2162,35 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-09-28": {
+  "date": "2026-09-28",
+  "rows": [
+   {
+    "match": "Eibar at Sevilla",
+    "league": "Liga F",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "Eibar",
+    "recorded_at": "2026-09-27T17:17:21.429427+00:00"
+   },
+   {
+    "match": "Zenit St Petersburg at Shanghai Shenhua",
+    "league": "19834",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-27T17:17:21.429427+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
