@@ -1,130 +1,5 @@
 [
  {
-  "league_id": "3901",
-  "league_name": "3901",
-  "match": "Sint-Truidense at Antwerp",
-  "final": "1:4",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:35.364731+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3915",
-  "league_name": "3915",
-  "match": "Luton Town at Mansfield Town",
-  "final": "5:2",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:35.364731+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3933",
-  "league_name": "3933",
-  "match": "FC Emmen at VVV-Venlo",
-  "final": "4:0",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:35.364731+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3945",
-  "league_name": "3945",
-  "match": "Örgryte IS at IFK Göteborg",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:35.364731+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3913",
-  "league_name": "3913",
-  "match": "AGF at Randers FC",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:35.364731+00:00",
-  "backstop": true
- },
- {
-  "league_id": "630",
-  "league_name": "630",
-  "match": "Fluminense at Athletico Paranaense",
-  "final": "3:3",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:35.364731+00:00",
-  "backstop": true
- },
- {
-  "league_id": "700",
-  "league_name": "700",
-  "match": "Brighton & Hove Albion at Chelsea",
-  "final": "4:3",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:37.964566+00:00"
- },
- {
-  "league_id": "700",
-  "league_name": "700",
-  "match": "Brentford at Leeds United",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:39.414132+00:00"
- },
- {
-  "league_id": "700",
-  "league_name": "Premier League",
-  "match": "Fulham at Sunderland",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:40.175849+00:00"
- },
- {
-  "league_id": "710",
-  "league_name": "710",
-  "match": "Nice at Paris FC",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:40.977212+00:00"
- },
- {
-  "league_id": "3915",
-  "league_name": "EFL League One",
-  "match": "Wigan Athletic at AFC Wimbledon",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:41.765678+00:00"
- },
- {
-  "league_id": "8301",
-  "league_name": "8301",
-  "match": "Houston Dash at Seattle Reign FC",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-08-31",
-  "recorded_at": "2026-08-31T01:09:21.389014+00:00",
-  "backstop": true
- },
- {
-  "league_id": "745",
-  "league_name": "745",
-  "match": "Gimnasia (Mendoza) at Independiente",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-31T01:09:21.389014+00:00",
-  "backstop": true
- },
- {
   "league_id": "3903",
   "league_name": "Argentine Nacional B",
   "match": "Temperley at Quilmes",
@@ -7460,5 +7335,133 @@
   "goal_after_70": true,
   "date": "2026-09-27",
   "recorded_at": "2026-09-27T02:00:52.291902+00:00"
+ },
+ {
+  "league_id": "680",
+  "league_name": "680",
+  "match": "Deportivo Maldonado at Montevideo City Torque",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "San Diego FC at Austin FC",
+  "final": "3:3",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "LAFC at FC Dallas",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Sporting Kansas City at Houston Dynamo FC",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Toronto FC at Nashville SC",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Minnesota United FC at Seattle Sounders FC",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "New England Revolution at Real Salt Lake",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Colorado Rapids at LA Galaxy",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Portland Timbers at San Jose Earthquakes",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "D.C. United at Vancouver Whitecaps",
+  "final": "3:3",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "Cacahuatique at Isidro Metapán",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "Oriente Petrolero at Universitario de Vinto",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:59.695526+00:00"
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "Atletico Balboa at Internacional Santa Tecla",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T06:46:59.695551+00:00"
  }
 ]
