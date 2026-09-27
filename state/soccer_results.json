@@ -1,55 +1,5 @@
 [
  {
-  "league_id": "4002",
-  "league_name": "4002",
-  "match": "Charleston Battery at Las Vegas Lights FC",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T08:50:38.289646+00:00",
-  "backstop": true
- },
- {
-  "league_id": "4002",
-  "league_name": "4002",
-  "match": "Indy Eleven at Phoenix Rising FC",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T08:50:38.289646+00:00",
-  "backstop": true
- },
- {
-  "league_id": "4005",
-  "league_name": "4005",
-  "match": "Alajuelense at Pérez Zeledón",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T08:50:38.289646+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "Club Friendly",
-  "match": "AD Union Adarve at Marchamalo",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T11:20:36.178211+00:00",
-  "backstop": true
- },
- {
-  "league_id": "725",
-  "league_name": "725",
-  "match": "PSV Eindhoven at FC Utrecht",
-  "final": "1:6",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T12:10:31.298713+00:00",
-  "backstop": true
- },
- {
   "league_id": "3933",
   "league_name": "3933",
   "match": "Heracles Almelo at FC Eindhoven",
@@ -7475,5 +7425,50 @@
   "date": "2026-09-26",
   "recorded_at": "2026-09-26T20:40:56.344856+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "19915",
+  "league_name": "USL League One",
+  "match": "Spokane Velocity FC at Forward Madison FC",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T00:10:54.619460+00:00"
+ },
+ {
+  "league_id": "3932",
+  "league_name": "3932",
+  "match": "Cancún FC at Tlaxcala FC",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T00:10:54.619481+00:00"
+ },
+ {
+  "league_id": "3903",
+  "league_name": "Argentine Nacional B",
+  "match": "Central Norte at Deportivo Madryn",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T00:10:54.619493+00:00"
+ },
+ {
+  "league_id": "3904",
+  "league_name": "3904",
+  "match": "Sportivo Italiano at Deportivo Laferrere",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T00:10:54.619501+00:00"
+ },
+ {
+  "league_id": "3934",
+  "league_name": "3934",
+  "match": "Cerro Porteño at Sportivo Trinidense",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T00:10:54.619509+00:00"
  }
 ]
