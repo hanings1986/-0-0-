@@ -2111,6 +2111,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-27T00:10:54.619493+00:00"
+   },
+   {
+    "match": "Angel City FC at Washington Spirit",
+    "league": "NWSL",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Angel City",
+    "recorded_at": "2026-09-27T00:40:52.360640+00:00"
    }
   ],
   "generated_at": null

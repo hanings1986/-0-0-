@@ -1,15 +1,5 @@
 [
  {
-  "league_id": "3933",
-  "league_name": "3933",
-  "match": "Heracles Almelo at FC Eindhoven",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T12:10:31.298713+00:00",
-  "backstop": true
- },
- {
   "league_id": "20956",
   "league_name": "20956",
   "match": "FC Badalona at Athletic Club",
@@ -7470,5 +7460,14 @@
   "goal_after_70": true,
   "date": "2026-09-26",
   "recorded_at": "2026-09-27T00:10:54.619509+00:00"
+ },
+ {
+  "league_id": "8301",
+  "league_name": "NWSL",
+  "match": "Angel City FC at Washington Spirit",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T00:40:52.360640+00:00"
  }
 ]
