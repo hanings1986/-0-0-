@@ -1,51 +1,5 @@
 [
  {
-  "league_id": "3939",
-  "league_name": "3939",
-  "match": "FC Baltika Kaliningrad at Rodina Moscow",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T14:00:33.390753+00:00"
- },
- {
-  "league_id": "3945",
-  "league_name": "3945",
-  "match": "Hammarby IF at AIK",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T14:00:34.534422+00:00"
- },
- {
-  "league_id": "3913",
-  "league_name": "3913",
-  "match": "Odense Boldklub at Lyngby Boldklub",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T14:00:35.239792+00:00"
- },
- {
-  "league_id": "3913",
-  "league_name": "3913",
-  "match": "FC Midtjylland at Silkeborg IF",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T14:00:35.963519+00:00"
- },
- {
-  "league_id": "725",
-  "league_name": "725",
-  "match": "Heerenveen at Willem II",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T14:31:06.316092+00:00",
-  "backstop": true
- },
- {
   "league_id": "20922",
   "league_name": "20922",
   "match": "Camacha at Machico",
@@ -7469,5 +7423,50 @@
   "goal_after_70": true,
   "date": "2026-09-26",
   "recorded_at": "2026-09-27T01:11:22.917363+00:00"
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Querétaro at Guadalajara",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:20:45.150942+00:00"
+ },
+ {
+  "league_id": "23633",
+  "league_name": "23633",
+  "match": "Sporting Jax at Carolina Ascent FC",
+  "final": "3:3",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:20:45.150954+00:00"
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "Chattanooga Red Wolves at FC Naples",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:20:45.150962+00:00"
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "Union Omaha at Greenville Triumph",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:20:45.150968+00:00"
+ },
+ {
+  "league_id": "3932",
+  "league_name": "3932",
+  "match": "Club Atlético Morelia at Venados FC",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:20:45.150973+00:00"
  }
 ]
