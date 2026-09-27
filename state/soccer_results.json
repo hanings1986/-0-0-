@@ -1,55 +1,5 @@
 [
  {
-  "league_id": "3903",
-  "league_name": "Argentine Nacional B",
-  "match": "Temperley at Quilmes",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-31T01:09:21.389014+00:00",
-  "backstop": true
- },
- {
-  "league_id": "630",
-  "league_name": "630",
-  "match": "Internacional at Bahia",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-31T01:09:21.389014+00:00",
-  "backstop": true
- },
- {
-  "league_id": "680",
-  "league_name": "680",
-  "match": "Liverpool at Cerro Largo",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-31T01:09:21.389014+00:00",
-  "backstop": true
- },
- {
-  "league_id": "650",
-  "league_name": "Colombian Primera A",
-  "match": "Internacional de Bogotá at Millonarios",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-08-31",
-  "recorded_at": "2026-08-31T01:09:21.389014+00:00",
-  "backstop": true
- },
- {
-  "league_id": "660",
-  "league_name": "660",
-  "match": "Leones at Emelec",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-08-31",
-  "recorded_at": "2026-08-31T01:09:21.389014+00:00",
-  "backstop": true
- },
- {
   "league_id": "3949",
   "league_name": "3949",
   "match": "Metropolitanos at Portuguesa",
@@ -7463,5 +7413,55 @@
   "goal_after_70": true,
   "date": "2026-09-27",
   "recorded_at": "2026-09-27T06:46:59.695551+00:00"
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Papua New Guinea at Fiji",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T12:31:58.882103+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "3951",
+  "match": "Atlético Unión Güímar at Sporting Hortaleza",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T12:31:58.882103+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20956",
+  "league_name": "20956",
+  "match": "Atlético Madrid at Athletic Club",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T12:31:58.882103+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20956",
+  "league_name": "20956",
+  "match": "CD Tenerife at Valencia",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T12:31:58.882103+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19945",
+  "league_name": "19945",
+  "match": "FC Twente at AZ Alkmaar",
+  "final": "0:5",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T12:31:58.882103+00:00",
+  "backstop": true
  }
 ]
