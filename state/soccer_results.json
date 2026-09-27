@@ -1,45 +1,5 @@
 [
  {
-  "league_id": "720",
-  "league_name": "720",
-  "match": "Werder Bremen at SC Freiburg",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:35.364731+00:00",
-  "backstop": true
- },
- {
-  "league_id": "725",
-  "league_name": "725",
-  "match": "Ajax Amsterdam at Telstar",
-  "final": "0:4",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:35.364731+00:00",
-  "backstop": true
- },
- {
-  "league_id": "715",
-  "league_name": "715",
-  "match": "Estrela at C.D. Nacional",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:35.364731+00:00",
-  "backstop": true
- },
- {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Hibernian at Dundee",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T22:00:35.364731+00:00",
-  "backstop": true
- },
- {
   "league_id": "735",
   "league_name": "735",
   "match": "Motherwell at St Mirren",
@@ -7466,5 +7426,41 @@
   "goal_after_70": true,
   "date": "2026-09-26",
   "recorded_at": "2026-09-27T01:30:43.101011+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "New York City FC at Atlanta United FC",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T01:50:41.940320+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "FC Cincinnati at CF Montréal",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T01:50:41.940333+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Chicago Fire FC at Charlotte FC",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T01:50:41.940348+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Orlando City SC at Philadelphia Union",
+  "final": "4:2",
+  "goal_after_70": true,
+  "date": "2026-09-27",
+  "recorded_at": "2026-09-27T01:50:41.940356+00:00"
  }
 ]
