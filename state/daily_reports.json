@@ -2123,6 +2123,30 @@
     "first_goal_minute": 90,
     "first_goal_team": "Angel City",
     "recorded_at": "2026-09-27T00:40:52.360640+00:00"
+   },
+   {
+    "match": "Rhode Island FC at Charleston Battery",
+    "league": "USL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "Charleston",
+    "recorded_at": "2026-09-27T01:11:22.917342+00:00"
+   },
+   {
+    "match": "Colorado Springs Switchbacks FC at Detroit City FC",
+    "league": "USL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-27T01:11:22.917349+00:00"
    }
   ],
   "generated_at": null

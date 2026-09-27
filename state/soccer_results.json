@@ -1,59 +1,5 @@
 [
  {
-  "league_id": "20956",
-  "league_name": "20956",
-  "match": "FC Badalona at Athletic Club",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T12:10:31.529816+00:00"
- },
- {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Rangers at Aberdeen",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T13:00:54.803250+00:00"
- },
- {
-  "league_id": "3901",
-  "league_name": "3901",
-  "match": "Club Brugge at KAA Gent",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T13:40:46.697282+00:00"
- },
- {
-  "league_id": "3927",
-  "league_name": "2. Bundesliga",
-  "match": "Holstein Kiel at 1. FC Magdeburg",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T13:40:48.605449+00:00"
- },
- {
-  "league_id": "3927",
-  "league_name": "3927",
-  "match": "Kaiserslautern at St. Pauli",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T13:40:49.436899+00:00"
- },
- {
-  "league_id": "3927",
-  "league_name": "3927",
-  "match": "Hannover 96 at SV Darmstadt 98",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-08-30",
-  "recorded_at": "2026-08-30T13:40:50.272829+00:00"
- },
- {
   "league_id": "3939",
   "league_name": "3939",
   "match": "FC Baltika Kaliningrad at Rodina Moscow",
@@ -7469,5 +7415,59 @@
   "goal_after_70": true,
   "date": "2026-09-26",
   "recorded_at": "2026-09-27T00:40:52.360640+00:00"
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Toluca at Cruz Azul",
+  "final": "3:3",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:11:22.917320+00:00"
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Anguilla at Antigua and Barbuda",
+  "final": "5:0",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:11:22.917333+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "USL Championship",
+  "match": "Rhode Island FC at Charleston Battery",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:11:22.917342+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "USL Championship",
+  "match": "Colorado Springs Switchbacks FC at Detroit City FC",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:11:22.917349+00:00"
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Miami FC at Indy Eleven",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:11:22.917355+00:00"
+ },
+ {
+  "league_id": "3903",
+  "league_name": "3903",
+  "match": "Chacarita Juniors at Colegiales",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-26",
+  "recorded_at": "2026-09-27T01:11:22.917363+00:00"
  }
 ]
