@@ -1,54 +1,5 @@
 [
  {
-  "league_id": "3904",
-  "league_name": "3904",
-  "match": "Deportivo Merlo at Comunicaciones",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T00:09:06.062033+00:00",
-  "backstop": true
- },
- {
-  "league_id": "630",
-  "league_name": "630",
-  "match": "Coritiba at Remo",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T01:12:23.666449+00:00",
-  "backstop": true
- },
- {
-  "league_id": "4007",
-  "league_name": "4007",
-  "match": "Operário PR at Fortaleza",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T01:12:23.666449+00:00",
-  "backstop": true
- },
- {
-  "league_id": "650",
-  "league_name": "650",
-  "match": "Deportivo Pereira at Deportivo Pasto",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T01:12:23.666449+00:00",
-  "backstop": true
- },
- {
-  "league_id": "640",
-  "league_name": "640",
-  "match": "La Serena at Unión La Calera",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T01:12:24.144656+00:00"
- },
- {
   "league_id": "3949",
   "league_name": "3949",
   "match": "Rayo Zuliano at UCV FC",
@@ -7475,5 +7426,52 @@
   "date": "2026-09-28",
   "recorded_at": "2026-09-28T01:41:43.441434+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "Men's International Friendly",
+  "match": "Palestine at Turkmenistan",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-28",
+  "recorded_at": "2026-09-28T07:45:50.793944+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3903",
+  "league_name": "3903",
+  "match": "San Martín (Tucumán) at Gimnasia y Esgrima (Jujuy)",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-09-28",
+  "recorded_at": "2026-09-28T07:45:50.793944+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Nicaragua at Curaçao",
+  "final": "6:1",
+  "goal_after_70": true,
+  "date": "2026-09-28",
+  "recorded_at": "2026-09-28T07:45:53.785747+00:00"
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Puerto Rico at Dominica",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-28",
+  "recorded_at": "2026-09-28T07:45:53.981602+00:00"
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "Real Oruro at Real Tomayapo",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-28",
+  "recorded_at": "2026-09-28T07:45:54.162564+00:00"
  }
 ]
