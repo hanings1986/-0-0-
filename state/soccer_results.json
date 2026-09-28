@@ -1,44 +1,5 @@
 [
  {
-  "league_id": "3949",
-  "league_name": "3949",
-  "match": "Rayo Zuliano at UCV FC",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T01:12:25.544823+00:00"
- },
- {
-  "league_id": "8301",
-  "league_name": "8301",
-  "match": "Angel City FC at Boston Legacy FC",
-  "final": "2:5",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T02:40:37.212394+00:00",
-  "backstop": true
- },
- {
-  "league_id": "745",
-  "league_name": "745",
-  "match": "San Lorenzo at Instituto (Córdoba)",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T02:40:37.212394+00:00",
-  "backstop": true
- },
- {
-  "league_id": "745",
-  "league_name": "Argentine LPF",
-  "match": "Barracas Central at Tigre",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T02:40:37.212394+00:00",
-  "backstop": true
- },
- {
   "league_id": "3903",
   "league_name": "3903",
   "match": "Agropecuario at Gimnasia y Esgrima (Jujuy)",
@@ -7473,5 +7434,45 @@
   "goal_after_70": true,
   "date": "2026-09-28",
   "recorded_at": "2026-09-28T07:45:54.162564+00:00"
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Venezuela at Japan",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-28",
+  "recorded_at": "2026-09-28T16:06:01.208284+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Uruguay at South Korea",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-09-28",
+  "recorded_at": "2026-09-28T16:06:01.208284+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Palestine at Tajikistan",
+  "final": "2:4",
+  "goal_after_70": true,
+  "date": "2026-09-28",
+  "recorded_at": "2026-09-28T16:06:01.208284+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "FC Zorya Luhansk at Dynamo Kyiv",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-09-28",
+  "recorded_at": "2026-09-28T16:06:01.208284+00:00",
+  "backstop": true
  }
 ]
