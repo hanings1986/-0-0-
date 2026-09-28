@@ -1,25 +1,5 @@
 [
  {
-  "league_id": "3903",
-  "league_name": "3903",
-  "match": "Agropecuario at Gimnasia y Esgrima (Jujuy)",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T02:40:37.212394+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23284",
-  "league_name": "23284",
-  "match": "Independiente Petrolero at Real Tomayapo",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T02:40:37.212394+00:00",
-  "backstop": true
- },
- {
   "league_id": "3949",
   "league_name": "3949",
   "match": "Anzoátegui FC at Academia Puerto Cabello",
@@ -7473,6 +7453,26 @@
   "goal_after_70": true,
   "date": "2026-09-28",
   "recorded_at": "2026-09-28T16:06:01.208284+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "HNK Gorica at NK Maribor",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-28",
+  "recorded_at": "2026-09-28T21:59:14.148334+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20132",
+  "league_name": "20132",
+  "match": "Russia U21 at North Macedonia U21",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-09-28",
+  "recorded_at": "2026-09-28T21:59:14.148334+00:00",
   "backstop": true
  }
 ]
