@@ -1,50 +1,5 @@
 [
  {
-  "league_id": "3949",
-  "league_name": "3949",
-  "match": "Anzoátegui FC at Academia Puerto Cabello",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T02:40:40.757933+00:00"
- },
- {
-  "league_id": "640",
-  "league_name": "640",
-  "match": "O'Higgins at Universidad Católica",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T02:50:35.210444+00:00"
- },
- {
-  "league_id": "650",
-  "league_name": "650",
-  "match": "Cúcuta Deportivo at Deportes Tolima",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T03:00:32.825485+00:00"
- },
- {
-  "league_id": "24079",
-  "league_name": "24079",
-  "match": "Mitrovica at Metalist 1925 Kharkiv",
-  "final": "5:0",
-  "goal_after_70": true,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-01T13:10:37.142691+00:00"
- },
- {
-  "league_id": "4007",
-  "league_name": "Brazil Serie B",
-  "match": "Juventude at Londrina",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-01",
-  "recorded_at": "2026-09-02T00:30:33.198313+00:00"
- },
- {
   "league_id": "23284",
   "league_name": "23284",
   "match": "Aurora at Universitario de Vinto",
@@ -7473,6 +7428,56 @@
   "goal_after_70": true,
   "date": "2026-09-28",
   "recorded_at": "2026-09-28T21:59:14.148334+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Maldives at Kyrgyz Republic",
+  "final": "5:0",
+  "goal_after_70": true,
+  "date": "2026-09-29",
+  "recorded_at": "2026-09-29T01:49:25.294608+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Martinique at Suriname",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-29",
+  "recorded_at": "2026-09-29T01:49:25.294608+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Juventude at América Mineiro",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-29",
+  "recorded_at": "2026-09-29T01:49:25.294608+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "680",
+  "league_name": "680",
+  "match": "Albion FC at Montevideo Wanderers",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-29",
+  "recorded_at": "2026-09-29T01:49:25.294608+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3934",
+  "league_name": "3934",
+  "match": "Club Olimpia at Libertad",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-29",
+  "recorded_at": "2026-09-29T01:49:25.294608+00:00",
   "backstop": true
  }
 ]
