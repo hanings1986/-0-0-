@@ -1,41 +1,5 @@
 [
  {
-  "league_id": "8306",
-  "league_name": "Copa Do Brazil",
-  "match": "Vasco da Gama at Vitória",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-03T02:40:37.467063+00:00"
- },
- {
-  "league_id": "19425",
-  "league_name": "19425",
-  "match": "León at Toluca",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-03T03:20:37.293622+00:00"
- },
- {
-  "league_id": "650",
-  "league_name": "650",
-  "match": "Millonarios at Independiente Santa Fe",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-03T03:30:35.599592+00:00"
- },
- {
-  "league_id": "19425",
-  "league_name": "19425",
-  "match": "Monterrey at América",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-03T06:00:40.943082+00:00"
- },
- {
   "league_id": "3949",
   "league_name": "3949",
   "match": "UCV FC at Estudiantes de Mérida",
@@ -7505,6 +7469,47 @@
   "goal_after_70": true,
   "date": "2026-09-30",
   "recorded_at": "2026-09-30T15:24:07.937070+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Mozambique at Botswana",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T20:15:17.540322+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "24079",
+  "league_name": "24079",
+  "match": "Ajax Amsterdam at Aktobe",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T20:15:17.540322+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "24079",
+  "league_name": "24079",
+  "match": "Sparta Prague at Farul Constanta",
+  "final": "0:4",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T20:15:17.540322+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Quarto at Juve Stabia",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T20:15:17.540322+00:00",
   "backstop": true
  }
 ]

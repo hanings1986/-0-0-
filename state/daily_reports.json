@@ -2350,5 +2350,23 @@
    "early_goal": 0,
    "goal_rate": 0.0
   }
+ },
+ "2026-10-01": {
+  "date": "2026-10-01",
+  "rows": [
+   {
+    "match": "Ajax Amsterdam at Aktobe",
+    "league": "Women's Europa Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 83,
+    "first_goal_team": "Aktobe",
+    "recorded_at": "2026-09-30T20:15:17.540322+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
