@@ -2,33 +2,6 @@
  {
   "league_id": "8306",
   "league_name": "Copa Do Brazil",
-  "match": "Palmeiras at Santos",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-03T02:30:36.229164+00:00"
- },
- {
-  "league_id": "640",
-  "league_name": "640",
-  "match": "Ñublense at Deportes Limache",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-03T02:30:37.197785+00:00"
- },
- {
-  "league_id": "8107",
-  "league_name": "Copa Argentina",
-  "match": "Boca Juniors at Vélez Sarsfield",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-03T02:40:36.249785+00:00"
- },
- {
-  "league_id": "8306",
-  "league_name": "Copa Do Brazil",
   "match": "Vasco da Gama at Vitória",
   "final": "0:2",
   "goal_after_70": true,
@@ -7502,6 +7475,36 @@
   "goal_after_70": false,
   "date": "2026-09-30",
   "recorded_at": "2026-09-30T08:43:37.514091+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Sri Lanka at Seychelles",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T15:24:07.937070+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Seychelles at Ethiopia",
+  "final": "16:0",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T15:24:07.937070+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "CSM Deva at FC Arges",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T15:24:07.937070+00:00",
   "backstop": true
  }
 ]
