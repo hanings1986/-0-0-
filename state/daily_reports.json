@@ -2256,6 +2256,90 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-09-29T23:12:02.238410+00:00"
+   },
+   {
+    "match": "Isidro Metapán at CD FAS",
+    "league": "Salvadoran Primera",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-30T08:43:37.514091+00:00"
+   },
+   {
+    "match": "Stevenage at AFC Wimbledon",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-30T08:43:37.514091+00:00"
+   },
+   {
+    "match": "Milton Keynes Dons at Barnsley",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-30T08:43:37.514091+00:00"
+   },
+   {
+    "match": "Wycombe Wanderers at Bromley",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-30T08:43:37.514091+00:00"
+   },
+   {
+    "match": "Doncaster Rovers at Luton Town",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-30T08:43:37.514091+00:00"
+   },
+   {
+    "match": "Notts County at Peterborough United",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-30T08:43:37.514091+00:00"
+   },
+   {
+    "match": "Mansfield Town at Wigan Athletic",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-09-30T08:43:37.514091+00:00"
    }
   ],
   "generated_at": null

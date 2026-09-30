@@ -1,86 +1,5 @@
 [
  {
-  "league_id": "3949",
-  "league_name": "3949",
-  "match": "Portuguesa at Caracas FC",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-02",
-  "recorded_at": "2026-09-03T01:00:36.431326+00:00"
- },
- {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Chattanooga Red Wolves at Westchester SC",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-02",
-  "recorded_at": "2026-09-03T01:10:34.330463+00:00"
- },
- {
-  "league_id": "4002",
-  "league_name": "4002",
-  "match": "Hartford Athletic at Charleston Battery",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-09-02",
-  "recorded_at": "2026-09-03T01:30:42.435415+00:00"
- },
- {
-  "league_id": "3903",
-  "league_name": "3903",
-  "match": "Midland at Colegiales",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-09-02",
-  "recorded_at": "2026-09-03T01:30:43.349250+00:00"
- },
- {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Portland Hearts of Pine at Charlotte Independence",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-09-02",
-  "recorded_at": "2026-09-03T01:40:40.951086+00:00"
- },
- {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Richmond Kickers at Fort Wayne",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-02",
-  "recorded_at": "2026-09-03T01:40:41.802524+00:00"
- },
- {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Sarasota Paradise at New York Cosmos",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-09-02",
-  "recorded_at": "2026-09-03T01:40:42.510878+00:00"
- },
- {
-  "league_id": "19915",
-  "league_name": "USL League One",
-  "match": "One Knoxville at Forward Madison FC",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-03T02:10:49.469998+00:00"
- },
- {
-  "league_id": "660",
-  "league_name": "660",
-  "match": "Independiente del Valle at Barcelona SC",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-03T02:10:50.064314+00:00"
- },
- {
   "league_id": "8306",
   "league_name": "Copa Do Brazil",
   "match": "Palmeiras at Santos",
@@ -7493,6 +7412,96 @@
   "goal_after_70": true,
   "date": "2026-09-30",
   "recorded_at": "2026-09-30T02:11:52.128964+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Solomon Islands at Papua New Guinea",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T08:43:37.514091+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Namibia at Botswana",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T08:43:37.514091+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3943",
+  "league_name": "Salvadoran Primera",
+  "match": "Isidro Metapán at CD FAS",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T08:43:37.514091+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Stevenage at AFC Wimbledon",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T08:43:37.514091+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Milton Keynes Dons at Barnsley",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T08:43:37.514091+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Wycombe Wanderers at Bromley",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T08:43:37.514091+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Doncaster Rovers at Luton Town",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T08:43:37.514091+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Notts County at Peterborough United",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T08:43:37.514091+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Mansfield Town at Wigan Athletic",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-09-30",
+  "recorded_at": "2026-09-30T08:43:37.514091+00:00",
   "backstop": true
  }
 ]
