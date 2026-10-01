@@ -1,157 +1,5 @@
 [
  {
-  "league_id": "3949",
-  "league_name": "3949",
-  "match": "UCV FC at Estudiantes de Mérida",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-04T00:10:38.896706+00:00"
- },
- {
-  "league_id": "8306",
-  "league_name": "8306",
-  "match": "Internacional at Grêmio",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-04T01:00:40.014249+00:00"
- },
- {
-  "league_id": "3949",
-  "league_name": "3949",
-  "match": "Deportivo La Guaira at Academia Puerto Cabello",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-04T01:00:41.507220+00:00"
- },
- {
-  "league_id": "3949",
-  "league_name": "3949",
-  "match": "Trujillanos at Metropolitanos",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-04T01:00:42.362186+00:00"
- },
- {
-  "league_id": "23284",
-  "league_name": "23284",
-  "match": "Real Tomayapo at Nacional Potosí",
-  "final": "5:1",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-04T01:00:43.025741+00:00"
- },
- {
-  "league_id": "4007",
-  "league_name": "Brazil Serie B",
-  "match": "Botafogo-SP at Náutico",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-03",
-  "recorded_at": "2026-09-04T01:10:37.679013+00:00"
- },
- {
-  "league_id": "660",
-  "league_name": "660",
-  "match": "Emelec at Libertad (Ecuador)",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-04",
-  "recorded_at": "2026-09-04T02:00:41.442693+00:00"
- },
- {
-  "league_id": "650",
-  "league_name": "650",
-  "match": "Independiente Medellín at Deportivo Pereira",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-09-04",
-  "recorded_at": "2026-09-04T03:00:34.320433+00:00"
- },
- {
-  "league_id": "3929",
-  "league_name": "3929",
-  "match": "Platense at Club Deportivo Olimpia",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-09-04",
-  "recorded_at": "2026-09-04T03:00:35.541705+00:00"
- },
- {
-  "league_id": "3932",
-  "league_name": "3932",
-  "match": "Dorados de Sinaloa at Tepatitlán FC",
-  "final": "1:4",
-  "goal_after_70": true,
-  "date": "2026-09-04",
-  "recorded_at": "2026-09-04T03:10:31.229516+00:00"
- },
- {
-  "league_id": "2391",
-  "league_name": "CAF Champions League",
-  "match": "Fomboni at 15 de Agosto",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-04",
-  "recorded_at": "2026-09-04T07:10:36.979392+00:00",
-  "backstop": true
- },
- {
-  "league_id": "18000",
-  "league_name": "CAF Confederation Cup",
-  "match": "ASPAC at The Panthers FC",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-04",
-  "recorded_at": "2026-09-04T07:10:36.979392+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "Brisbane Roar at Brisbane Olympic",
-  "final": "3:4",
-  "goal_after_70": true,
-  "date": "2026-09-04",
-  "recorded_at": "2026-09-04T13:01:14.925878+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "18000",
-  "league_name": "18000",
-  "match": "CO Korhogo at AS PSI",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-09-04",
-  "recorded_at": "2026-09-04T22:00:38.429271+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "18000",
-  "league_name": "18000",
-  "match": "Diambars de Saly at Esperence Sportive de Zarzis",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-09-04",
-  "recorded_at": "2026-09-04T22:00:38.429271+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "745",
-  "league_name": "745",
-  "match": "Deportivo Riestra at Platense",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-04",
-  "recorded_at": "2026-09-05T00:00:33.934619+00:00"
- },
- {
   "league_id": "680",
   "league_name": "680",
   "match": "Cerro Largo at Montevideo City Torque",
@@ -7510,6 +7358,167 @@
   "goal_after_70": true,
   "date": "2026-09-30",
   "recorded_at": "2026-09-30T20:15:17.540322+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Bolivia at Argentina",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-10-01",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "Men's International Friendly",
+  "match": "Tahiti at Cook Islands",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-01",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "St. Louis CITY SC at Red Bull New York",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Detroit City FC at Brooklyn FC",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Sporting JAX at Miami FC",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Indy Eleven at Rhode Island FC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "New Mexico United at FC Tulsa",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-01",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Las Vegas Lights FC at Sacramento Republic FC",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-10-01",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "Spokane Velocity FC at Chattanooga Red Wolves",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Palestino at Alianza Lima",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-01",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "SC Paderborn 07 at D.C. United",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-01",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8312",
+  "league_name": "8312",
+  "match": "O'Higgins at Deportes Concepcion",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Atlético Junior at Atlético Nacional",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-10-01",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23284",
+  "league_name": "Copa Bolivia",
+  "match": "Nacional Potosí at Real Tomayapo",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-09-30",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "The Strongest at Oriente Petrolero",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-01",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "C.D. Platense at Alianza FC",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-01",
+  "recorded_at": "2026-10-01T05:39:25.283373+00:00",
   "backstop": true
  }
 ]
