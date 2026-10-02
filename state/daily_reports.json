@@ -2575,8 +2575,75 @@
     "first_goal_minute": 97,
     "first_goal_team": "Independiente Petrolero",
     "recorded_at": "2026-10-02T07:34:08.101231+00:00"
+   },
+   {
+    "match": "Venezuela at South Korea",
+    "league": "Men's International Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-02T14:08:26.811435+00:00"
+   },
+   {
+    "match": "NK Varazdin at Aluminij",
+    "league": "19834",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-02T14:08:26.811435+00:00"
+   },
+   {
+    "match": "MFK Skalica at Zbrojovka Brno",
+    "league": "19834",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-02T14:08:26.811435+00:00"
+   },
+   {
+    "match": "Pogon Grodzisk Mazowiecki at Radomiak Radom",
+    "league": "19834",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-02T14:08:26.811435+00:00"
+   },
+   {
+    "match": "MFK Kosice at Debrecen",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-02T14:08:26.811435+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-10-02T14:08:33.236629+00:00",
+  "summary": {
+   "total": 13,
+   "goal_after_70": 2,
+   "clean_00": 11,
+   "early_goal": 0,
+   "goal_rate": 15.4
+  }
  }
 }
