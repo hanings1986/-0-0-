@@ -1,41 +1,5 @@
 [
  {
-  "league_id": "3928",
-  "league_name": "3928",
-  "match": "Aurora FC at Antigua GFC",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-05",
-  "recorded_at": "2026-09-05T03:00:33.732445+00:00"
- },
- {
-  "league_id": "3932",
-  "league_name": "3932",
-  "match": "Tlaxcala FC at Durango",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-05",
-  "recorded_at": "2026-09-05T03:10:40.674313+00:00"
- },
- {
-  "league_id": "8301",
-  "league_name": "8301",
-  "match": "Boston Legacy FC at Utah Royals",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-09-05",
-  "recorded_at": "2026-09-05T03:40:37.422715+00:00"
- },
- {
-  "league_id": "8301",
-  "league_name": "8301",
-  "match": "Kansas City Current at Bay FC",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-09-05",
-  "recorded_at": "2026-09-05T04:10:37.540435+00:00"
- },
- {
   "league_id": "4005",
   "league_name": "4005",
   "match": "Inter de San Carlos at Escorpiones Belén",
@@ -7530,6 +7494,46 @@
   "goal_after_70": true,
   "date": "2026-10-01",
   "recorded_at": "2026-10-01T17:47:47.672190+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Trinidad and Tobago at Curaçao",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-01",
+  "recorded_at": "2026-10-02T01:40:41.688213+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Antigua and Barbuda at Anguilla",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-02T01:40:41.688213+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Sport at Athletic",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-02T01:40:41.688213+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "GV San José at Bolívar",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-02T01:40:41.688213+00:00",
   "backstop": true
  }
 ]
