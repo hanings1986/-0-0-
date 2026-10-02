@@ -1,77 +1,5 @@
 [
  {
-  "league_id": "4005",
-  "league_name": "4005",
-  "match": "Inter de San Carlos at Escorpiones Belén",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-05",
-  "recorded_at": "2026-09-05T04:10:37.540446+00:00"
- },
- {
-  "league_id": "760",
-  "league_name": "760",
-  "match": "Pachuca at FC Juarez",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-05",
-  "recorded_at": "2026-09-05T05:20:35.881238+00:00"
- },
- {
-  "league_id": "3932",
-  "league_name": "3932",
-  "match": "Mineros de Zacatecas at Club Atlético La Paz",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-09-05",
-  "recorded_at": "2026-09-05T05:20:35.881248+00:00"
- },
- {
-  "league_id": "20956",
-  "league_name": "20956",
-  "match": "Madrid CFF at Valencia",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-09-05",
-  "recorded_at": "2026-09-05T12:10:39.643895+00:00"
- },
- {
-  "league_id": "20956",
-  "league_name": "Liga F",
-  "match": "FC Badalona at Espanyol",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-05",
-  "recorded_at": "2026-09-05T12:20:36.147901+00:00"
- },
- {
-  "league_id": "750",
-  "league_name": "750",
-  "match": "Mito Hollyhock at Avispa Fukuoka",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-05",
-  "recorded_at": "2026-09-05T12:20:36.147913+00:00"
- },
- {
-  "league_id": "3939",
-  "league_name": "3939",
-  "match": "Krasnodar at Krylia Sovetov",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-09-05",
-  "recorded_at": "2026-09-05T13:10:43.020215+00:00"
- },
- {
-  "league_id": "3927",
-  "league_name": "3927",
-  "match": "1. FC Nürnberg at Holstein Kiel",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-09-05",
-  "recorded_at": "2026-09-05T13:10:43.020237+00:00"
- },
- {
   "league_id": "3927",
   "league_name": "3927",
   "match": "SV Darmstadt 98 at Kaiserslautern",
@@ -7535,5 +7463,85 @@
   "date": "2026-10-02",
   "recorded_at": "2026-10-02T01:40:41.688213+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Sporting Kansas City at Seattle Sounders FC",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-02T07:34:08.101231+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Haiti at Dominican Republic",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-02T07:34:08.101231+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Costa Rica at Nicaragua",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-02T07:34:08.101231+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8107",
+  "league_name": "8107",
+  "match": "Estudiantes de La Plata at Platense",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-02T07:34:08.101231+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "Independiente Petrolero at Blooming",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-02T07:34:08.101231+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "CD Municipal Limeño at Inca Aruba",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-02T07:34:08.101231+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Puerto Rico at Cayman Islands",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-02T07:34:21.675966+00:00"
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Goiás at Novorizontino",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-02T07:34:21.675999+00:00"
  }
 ]

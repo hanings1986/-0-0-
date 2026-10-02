@@ -2551,6 +2551,30 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-01T17:47:47.672190+00:00"
+   },
+   {
+    "match": "Estudiantes de La Plata at Platense",
+    "league": "8107",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 83,
+    "first_goal_team": "Platense",
+    "recorded_at": "2026-10-02T07:34:08.101231+00:00"
+   },
+   {
+    "match": "Independiente Petrolero at Blooming",
+    "league": "23284",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 97,
+    "first_goal_team": "Independiente Petrolero",
+    "recorded_at": "2026-10-02T07:34:08.101231+00:00"
    }
   ],
   "generated_at": null
