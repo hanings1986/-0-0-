@@ -2645,5 +2645,23 @@
    "early_goal": 0,
    "goal_rate": 15.4
   }
+ },
+ "2026-10-03": {
+  "date": "2026-10-03",
+  "rows": [
+   {
+    "match": "PFK Septemvri Sofia at Botev Plovdiv",
+    "league": "19834",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-02T19:20:17.110592+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
