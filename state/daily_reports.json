@@ -2864,6 +2864,54 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-03T07:57:31.256956+00:00"
+   },
+   {
+    "match": "Alavés at Espanyol",
+    "league": "Liga F",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 101,
+    "first_goal_team": "Espanyol",
+    "recorded_at": "2026-10-03T13:17:41.467747+00:00"
+   },
+   {
+    "match": "CSM Slatina at FC Arges",
+    "league": "19834",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T13:17:41.467747+00:00"
+   },
+   {
+    "match": "Epitsentr Kamianets-Podilskyi at FK Bukovyna Chernivtsi",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T13:17:41.467747+00:00"
+   },
+   {
+    "match": "Kriens at FC Thun",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T13:17:41.467747+00:00"
    }
   ],
   "generated_at": null
