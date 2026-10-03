@@ -2792,6 +2792,78 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-03T01:57:12.799088+00:00"
+   },
+   {
+    "match": "Djibouti at Sri Lanka",
+    "league": "Men's International Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T07:57:31.256956+00:00"
+   },
+   {
+    "match": "TBD Away at TBD Home",
+    "league": "Men's U-21 Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T07:57:31.256956+00:00"
+   },
+   {
+    "match": "Port Vale at Colchester United",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T07:57:31.256956+00:00"
+   },
+   {
+    "match": "Oldham Athletic at Northampton Town",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T07:57:31.256956+00:00"
+   },
+   {
+    "match": "Crawley Town at Walsall",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T07:57:31.256956+00:00"
+   },
+   {
+    "match": "Forest Green Rovers at Scunthorpe United",
+    "league": "National League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T07:57:31.256956+00:00"
    }
   ],
   "generated_at": null
