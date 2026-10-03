@@ -2732,6 +2732,66 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-02T23:07:08.598465+00:00"
+   },
+   {
+    "match": "Guatemala at Suriname",
+    "league": "Concacaf Nations League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T01:57:12.799088+00:00"
+   },
+   {
+    "match": "Puebla at Santos",
+    "league": "Liga MX Femenil",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 87,
+    "first_goal_team": "Santos",
+    "recorded_at": "2026-10-03T01:57:12.799088+00:00"
+   },
+   {
+    "match": "Deportivo Madryn at Ferro Carril Oeste",
+    "league": "Argentine Nacional B",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Deportivo Madryn",
+    "recorded_at": "2026-10-03T01:57:12.799088+00:00"
+   },
+   {
+    "match": "Fort Lauderdale United FC at Brooklyn FC",
+    "league": "USL Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Brooklyn FC",
+    "recorded_at": "2026-10-03T01:57:12.799088+00:00"
+   },
+   {
+    "match": "Ottawa Rapid FC at Montreal Roses FC",
+    "league": "Northern Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T01:57:12.799088+00:00"
    }
   ],
   "generated_at": null

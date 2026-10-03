@@ -1,123 +1,5 @@
 [
  {
-  "league_id": "2466",
-  "league_name": "2466",
-  "match": "BG Pathum United at Lion City Sailors FC",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-17",
-  "recorded_at": "2026-09-17T12:00:40.438189+00:00"
- },
- {
-  "league_id": "2466",
-  "league_name": "2466",
-  "match": "Preah Khan Reach Svay Rieng FC at Machida Zelvia",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-17",
-  "recorded_at": "2026-09-17T12:00:40.438216+00:00"
- },
- {
-  "league_id": "2466",
-  "league_name": "AFC Champions League Two",
-  "match": "Gangwon FC at Kitchee",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-17",
-  "recorded_at": "2026-09-17T14:20:43.620875+00:00"
- },
- {
-  "league_id": "2466",
-  "league_name": "2466",
-  "match": "Kuching City at Phnom Penh Crown",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-17",
-  "recorded_at": "2026-09-17T14:20:43.620887+00:00"
- },
- {
-  "league_id": "2466",
-  "league_name": "2466",
-  "match": "BG Tampines Rovers FC at Shanghai Shenhua",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-17",
-  "recorded_at": "2026-09-17T14:20:43.620897+00:00"
- },
- {
-  "league_id": "3939",
-  "league_name": "Russian Premier",
-  "match": "Krasnodar at Gazovik Orenburg",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-17",
-  "recorded_at": "2026-09-17T15:10:43.556528+00:00",
-  "backstop": true
- },
- {
-  "league_id": "620",
-  "league_name": "620",
-  "match": "Oriente Petrolero at Real Tomayapo",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-17",
-  "recorded_at": "2026-09-18T00:10:41.682583+00:00"
- },
- {
-  "league_id": "650",
-  "league_name": "650",
-  "match": "Independiente Medellín at Atlético Bucaramanga",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-09-18",
-  "recorded_at": "2026-09-18T02:00:47.150399+00:00"
- },
- {
-  "league_id": "783",
-  "league_name": "783",
-  "match": "Independiente del Valle at Flamengo",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-18",
-  "recorded_at": "2026-09-18T02:40:44.896910+00:00"
- },
- {
-  "league_id": "5454",
-  "league_name": "5454",
-  "match": "Cienciano del Cusco at Montevideo City Torque",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-09-18",
-  "recorded_at": "2026-09-18T02:40:44.896917+00:00"
- },
- {
-  "league_id": "620",
-  "league_name": "620",
-  "match": "GV San José at Bolívar",
-  "final": "4:2",
-  "goal_after_70": true,
-  "date": "2026-09-18",
-  "recorded_at": "2026-09-18T02:40:44.896922+00:00"
- },
- {
-  "league_id": "22947",
-  "league_name": "22947",
-  "match": "Club Deportivo Marathón at Alajuelense",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-09-18",
-  "recorded_at": "2026-09-18T02:40:44.896925+00:00"
- },
- {
-  "league_id": "3932",
-  "league_name": "3932",
-  "match": "Cruz Azul Hidalgo at Durango",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-18",
-  "recorded_at": "2026-09-18T04:10:44.649619+00:00"
- },
- {
   "league_id": "22947",
   "league_name": "22947",
   "match": "Luis Ángel Firpo at Club Deportivo Olimpia",
@@ -7612,6 +7494,136 @@
   "goal_after_70": true,
   "date": "2026-10-02",
   "recorded_at": "2026-10-02T19:20:17.110592+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "Concacaf Nations League",
+  "match": "Guatemala at Suriname",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Bermuda at Barbados",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-10-03",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Grenada at Bonaire",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-10-03",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23633",
+  "league_name": "USL Super League",
+  "match": "Fort Lauderdale United FC at Brooklyn FC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-03",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "24220",
+  "league_name": "Liga MX Femenil",
+  "match": "Puebla at Santos",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23286",
+  "league_name": "Northern Super League",
+  "match": "Ottawa Rapid FC at Montreal Roses FC",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-03",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Instituto (Córdoba) at Independiente",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3903",
+  "league_name": "Argentine Nacional B",
+  "match": "Deportivo Madryn at Ferro Carril Oeste",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Santos at São Paulo",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "CRB at São Bernardo",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Criciúma at Londrina",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-03",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Operário PR at Juventude",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-10-03",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "640",
+  "league_name": "640",
+  "match": "Huachipato at Universidad de Concepción",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-02",
+  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
   "backstop": true
  }
 ]
