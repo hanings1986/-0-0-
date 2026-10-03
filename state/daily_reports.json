@@ -2915,5 +2915,95 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-10-04": {
+  "date": "2026-10-04",
+  "rows": [
+   {
+    "match": "Kalmar FF at Varbergs BoIS FC",
+    "league": "19834",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T17:27:15.464402+00:00"
+   },
+   {
+    "match": "Fredrikstad at Sandefjord",
+    "league": "19834",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T17:27:15.464402+00:00"
+   },
+   {
+    "match": "Luton Town at Colchester United",
+    "league": "EFL Trophy",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 87,
+    "first_goal_team": "Luton Town",
+    "recorded_at": "2026-10-03T17:27:15.464402+00:00"
+   },
+   {
+    "match": "Cheltenham Town at Accrington Stanley",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "Accrington Stanley",
+    "recorded_at": "2026-10-03T17:27:15.464402+00:00"
+   },
+   {
+    "match": "Newport County at Gillingham",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-03T17:27:15.464402+00:00"
+   },
+   {
+    "match": "Swindon Town at Rochdale",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 88,
+    "first_goal_team": "Rochdale",
+    "recorded_at": "2026-10-03T17:27:15.464402+00:00"
+   },
+   {
+    "match": "Ceará at Avaí",
+    "league": "Brazil Serie B",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 96,
+    "first_goal_team": "Ceará",
+    "recorded_at": "2026-10-03T17:27:15.464402+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
