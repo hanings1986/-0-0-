@@ -2,26 +2,6 @@
  {
   "league_id": "23480",
   "league_name": "23480",
-  "match": "AFC Greenwich Borough at Chertsey Town",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-09-19",
-  "recorded_at": "2026-09-19T16:40:40.312839+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Ware at Chesham United",
-  "final": "7:2",
-  "goal_after_70": true,
-  "date": "2026-09-19",
-  "recorded_at": "2026-09-19T16:40:40.312839+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
   "match": "Farnham Town FC at Cirencester Town",
   "final": "2:2",
   "goal_after_70": true,
@@ -7731,5 +7711,25 @@
   "goal_after_70": true,
   "date": "2026-10-03",
   "recorded_at": "2026-10-03T17:27:48.447415+00:00"
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Krasnodar at Rostov",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-10-03",
+  "recorded_at": "2026-10-03T20:08:33.471358+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Tekstilshchik Ivanovo at Gazovik Orenburg",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-10-03",
+  "recorded_at": "2026-10-03T20:08:33.471358+00:00",
+  "backstop": true
  }
 ]
