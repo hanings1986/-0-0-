@@ -3108,5 +3108,35 @@
    "early_goal": 0,
    "goal_rate": 33.3
   }
+ },
+ "2026-10-05": {
+  "date": "2026-10-05",
+  "rows": [
+   {
+    "match": "Sporting Hortaleza at Atlético Unión Güímar",
+    "league": "3951",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-04T18:19:53.137533+00:00"
+   },
+   {
+    "match": "CF San Rafael at AE Prat",
+    "league": "3951",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-04T18:19:53.137533+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
