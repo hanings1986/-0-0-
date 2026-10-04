@@ -3062,6 +3062,30 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-04T02:36:43.632512+00:00"
+   },
+   {
+    "match": "Oakland Roots at Colorado Springs Switchbacks FC",
+    "league": "USL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-04T08:47:45.708751+00:00"
+   },
+   {
+    "match": "Tapatío at Cancún FC",
+    "league": "Liga de Expansión MX",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 75,
+    "first_goal_team": "Cancún FC",
+    "recorded_at": "2026-10-04T08:47:45.804646+00:00"
    }
   ],
   "generated_at": null
