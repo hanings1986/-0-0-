@@ -3086,8 +3086,27 @@
     "first_goal_minute": 75,
     "first_goal_team": "Cancún FC",
     "recorded_at": "2026-10-04T08:47:45.804646+00:00"
+   },
+   {
+    "match": "Eibar at Granada",
+    "league": "20956",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-04T14:27:36.926584+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-10-04T14:27:38.564230+00:00",
+  "summary": {
+   "total": 15,
+   "goal_after_70": 5,
+   "clean_00": 10,
+   "early_goal": 0,
+   "goal_rate": 33.3
+  }
  }
 }
