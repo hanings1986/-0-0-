@@ -3147,6 +3147,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-04T21:43:16.038346+00:00"
+   },
+   {
+    "match": "Peñarol at Racing (Montevideo)",
+    "league": "Liga AUF Uruguaya",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 89,
+    "first_goal_team": "Peñarol",
+    "recorded_at": "2026-10-05T05:54:37.941738+00:00"
    }
   ],
   "generated_at": null
