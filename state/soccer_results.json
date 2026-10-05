@@ -1,41 +1,5 @@
 [
  {
-  "league_id": "3932",
-  "league_name": "3932",
-  "match": "Leones Negros at Club Atlético Morelia",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T03:10:50.748596+00:00"
- },
- {
-  "league_id": "3932",
-  "league_name": "3932",
-  "match": "Dorados de Sinaloa at Club Jaiba Brava",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T03:10:50.748604+00:00"
- },
- {
-  "league_id": "760",
-  "league_name": "760",
-  "match": "Cruz Azul at Monterrey",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T03:20:38.801758+00:00"
- },
- {
-  "league_id": "650",
-  "league_name": "650",
-  "match": "Once Caldas at Deportivo Pasto",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T03:20:38.801779+00:00"
- },
- {
   "league_id": "670",
   "league_name": "670",
   "match": "Sport Boys at Melgar",
@@ -7766,6 +7730,46 @@
   "goal_after_70": false,
   "date": "2026-10-04",
   "recorded_at": "2026-10-04T21:43:16.038346+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Cayman Islands at Puerto Rico",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-05",
+  "recorded_at": "2026-10-05T00:14:35.291843+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Curaçao at Trinidad and Tobago",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-05",
+  "recorded_at": "2026-10-05T00:14:35.291843+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Phoenix Rising FC at New Mexico United",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-05",
+  "recorded_at": "2026-10-05T00:14:35.291843+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Tigre at Argentinos Juniors",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-05",
+  "recorded_at": "2026-10-05T00:14:35.291843+00:00",
   "backstop": true
  }
 ]
