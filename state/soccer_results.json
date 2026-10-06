@@ -1,43 +1,6 @@
 [
  {
   "league_id": "3913",
-  "league_name": "Danish Superliga",
-  "match": "F.C. København at Brøndby IF",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T14:01:15.533125+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3945",
-  "league_name": "3945",
-  "match": "IF Elfsborg at Djurgården",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T14:01:15.657393+00:00"
- },
- {
-  "league_id": "3945",
-  "league_name": "3945",
-  "match": "AIK at Halmstads BK",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T14:01:15.657412+00:00"
- },
- {
-  "league_id": "3945",
-  "league_name": "3945",
-  "match": "BK Häcken at Kalmar FF",
-  "final": "0:5",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T14:01:15.657421+00:00"
- },
- {
-  "league_id": "3913",
   "league_name": "3913",
   "match": "Randers FC at Sønderjyske Fodbold",
   "final": "4:2",
@@ -7791,5 +7754,46 @@
   "goal_after_70": true,
   "date": "2026-10-06",
   "recorded_at": "2026-10-06T08:50:44.260922+00:00"
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Uzbekistan at South Korea",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T15:49:07.841090+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Tajikistan at China",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T15:49:07.841090+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Kalmar FF at IFK Norrköping",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T15:49:07.841090+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "20114",
+  "league_name": "20114",
+  "match": "Gibraltar U21 at Azerbaijan U21",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T15:49:07.841090+00:00",
+  "backstop": true
  }
 ]
