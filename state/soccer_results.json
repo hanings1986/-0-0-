@@ -1,34 +1,5 @@
 [
  {
-  "league_id": "3927",
-  "league_name": "3927",
-  "match": "VfL Bochum at Hannover 96",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T13:30:38.258895+00:00"
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Vianense at Académica Calheta",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T13:40:49.984394+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3921",
-  "league_name": "3921",
-  "match": "Real Oviedo at CD Sabadell",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T14:01:15.533125+00:00",
-  "backstop": true
- },
- {
   "league_id": "3913",
   "league_name": "Danish Superliga",
   "match": "F.C. København at Brøndby IF",
@@ -7793,5 +7764,32 @@
   "date": "2026-10-06",
   "recorded_at": "2026-10-06T01:54:06.723673+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "Concacaf Nations League",
+  "match": "Suriname at Guatemala",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T08:50:44.104164+00:00"
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Rosario Central at Banfield",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T08:50:44.201939+00:00"
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Independiente Santa Fe at Independiente Medellín",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T08:50:44.260922+00:00"
  }
 ]

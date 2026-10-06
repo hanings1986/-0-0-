@@ -3220,6 +3220,30 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-06T01:54:06.723673+00:00"
+   },
+   {
+    "match": "Suriname at Guatemala",
+    "league": "Concacaf Nations League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 96,
+    "first_goal_team": "Guatemala",
+    "recorded_at": "2026-10-06T08:50:44.104164+00:00"
+   },
+   {
+    "match": "Independiente Santa Fe at Independiente Medellín",
+    "league": "650",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 87,
+    "first_goal_team": "Independiente Santa Fe",
+    "recorded_at": "2026-10-06T08:50:44.260922+00:00"
    }
   ],
   "generated_at": null
