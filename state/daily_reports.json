@@ -3169,5 +3169,59 @@
    "early_goal": 0,
    "goal_rate": 25.0
   }
+ },
+ "2026-10-06": {
+  "date": "2026-10-06",
+  "rows": [
+   {
+    "match": "Barbados at Bermuda",
+    "league": "Concacaf Nations League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:2",
+    "goal_after_70": true,
+    "first_goal_minute": 75,
+    "first_goal_team": "Bermuda",
+    "recorded_at": "2026-10-06T01:54:06.723673+00:00"
+   },
+   {
+    "match": "South Korea U21 at Austria U21",
+    "league": "Men's U-21 Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-06T01:54:06.723673+00:00"
+   },
+   {
+    "match": "Gimnasia (Mendoza) at Estudiantes de La Plata",
+    "league": "Argentine LPF",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "3:0",
+    "goal_after_70": true,
+    "first_goal_minute": 83,
+    "first_goal_team": "Estudiantes de La Plata",
+    "recorded_at": "2026-10-06T01:54:06.723673+00:00"
+   },
+   {
+    "match": "Brown de Adrogué at Deportivo Merlo",
+    "league": "Argentine Primera B",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-06T01:54:06.723673+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }

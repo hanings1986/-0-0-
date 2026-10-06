@@ -1,87 +1,5 @@
 [
  {
-  "league_id": "20956",
-  "league_name": "20956",
-  "match": "Deportivo at Granada",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T12:10:38.165233+00:00"
- },
- {
-  "league_id": "19945",
-  "league_name": "19945",
-  "match": "De Graafschap at PEC Zwolle",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T12:20:50.043963+00:00"
- },
- {
-  "league_id": "730",
-  "league_name": "730",
-  "match": "Napoli at Fiorentina",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T12:30:38.657583+00:00"
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "SC Farense at Sacavenense",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T12:50:41.805019+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3914",
-  "league_name": "3914",
-  "match": "West Bromwich Albion at Wolverhampton Wanderers",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T13:00:37.302346+00:00"
- },
- {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Rangers at Celtic",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T13:00:37.302359+00:00"
- },
- {
-  "league_id": "3901",
-  "league_name": "3901",
-  "match": "Union St.-Gilloise at Antwerp",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T13:30:38.258840+00:00"
- },
- {
-  "league_id": "3927",
-  "league_name": "3927",
-  "match": "1. FC Heidenheim 1846 at Arminia Bielefeld",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T13:30:38.258877+00:00"
- },
- {
-  "league_id": "3927",
-  "league_name": "3927",
-  "match": "St. Pauli at Energie Cottbus",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T13:30:38.258887+00:00"
- },
- {
   "league_id": "3927",
   "league_name": "3927",
   "match": "VfL Bochum at Hannover 96",
@@ -7784,6 +7702,96 @@
   "goal_after_70": true,
   "date": "2026-10-05",
   "recorded_at": "2026-10-05T21:32:49.873924+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "El Salvador at Martinique",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T01:54:06.723673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "Concacaf Nations League",
+  "match": "Barbados at Bermuda",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T01:54:06.723673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Bonaire at Grenada",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T01:54:06.723673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20132",
+  "league_name": "Men's U-21 Friendly",
+  "match": "South Korea U21 at Austria U21",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T01:54:06.723673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "Argentine LPF",
+  "match": "Gimnasia (Mendoza) at Estudiantes de La Plata",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T01:54:06.723673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Platense at Vélez Sarsfield",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T01:54:06.723673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3904",
+  "league_name": "Argentine Primera B",
+  "match": "Brown de Adrogué at Deportivo Merlo",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T01:54:06.723673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "680",
+  "league_name": "680",
+  "match": "Montevideo City Torque at Nacional",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T01:54:06.723673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3934",
+  "league_name": "3934",
+  "match": "2 de Mayo at Cerro Porteño",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-06",
+  "recorded_at": "2026-10-06T01:54:06.723673+00:00",
   "backstop": true
  }
 ]
