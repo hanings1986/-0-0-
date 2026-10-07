@@ -1,126 +1,5 @@
 [
  {
-  "league_id": "725",
-  "league_name": "725",
-  "match": "PSV Eindhoven at FC Twente",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T14:30:51.250654+00:00"
- },
- {
-  "league_id": "3907",
-  "league_name": "3907",
-  "match": "Wolfsberger at SV Josko Ried",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T14:30:51.250680+00:00"
- },
- {
-  "league_id": "3907",
-  "league_name": "3907",
-  "match": "LASK Linz at TSV Hartberg",
-  "final": "3:3",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T14:30:51.250689+00:00"
- },
- {
-  "league_id": "3960",
-  "league_name": "3960",
-  "match": "Fredrikstad at Valerenga",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T14:30:51.250696+00:00"
- },
- {
-  "league_id": "700",
-  "league_name": "700",
-  "match": "Sunderland at Manchester City",
-  "final": "5:3",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:44.985421+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Leixoes at CD Cinfães",
-  "final": "0:4",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:44.985421+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3931",
-  "league_name": "3931",
-  "match": "Vicenza at Hellas Verona",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:44.985421+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3937",
-  "league_name": "3937",
-  "match": "Orlando Pirates at Marumo Gallants",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:44.985421+00:00",
-  "backstop": true
- },
- {
-  "league_id": "700",
-  "league_name": "700",
-  "match": "Liverpool at AFC Bournemouth",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:45.704729+00:00"
- },
- {
-  "league_id": "700",
-  "league_name": "Premier League",
-  "match": "Crystal Palace at Leeds United",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:45.704745+00:00"
- },
- {
-  "league_id": "730",
-  "league_name": "730",
-  "match": "Genoa at Parma",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:45.704759+00:00"
- },
- {
-  "league_id": "710",
-  "league_name": "710",
-  "match": "Brest at AJ Auxerre",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:45.704767+00:00"
- },
- {
-  "league_id": "8097",
-  "league_name": "8097",
-  "match": "Aston Villa at Brighton & Hove Albion",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:45.704774+00:00"
- },
- {
   "league_id": "8097",
   "league_name": "8097",
   "match": "Tottenham Hotspur at Crystal Palace",
@@ -7797,5 +7676,135 @@
   "date": "2026-10-07",
   "recorded_at": "2026-10-07T00:10:21.472601+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Benin at Argentina",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:04.192452+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Peru at Colombia",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:04.192452+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Canada at United States",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:04.192452+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3922",
+  "league_name": "3922",
+  "match": "Chile at Mexico",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:04.192452+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Vancouver Whitecaps at Chicago Fire FC",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:04.192452+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Aruba at Antigua and Barbuda",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:04.192452+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Belize at French Guiana",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:04.192452+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "São Bernardo at Sport",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:04.192452+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Athletic at Goiás",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:04.192452+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Juventude at Ponte Preta",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:04.192452+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8312",
+  "league_name": "8312",
+  "match": "Puerto Montt at Colo Colo",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:04.192452+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "ABB at Aurora",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:04.192452+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3934",
+  "league_name": "3934",
+  "match": "Nacional Asunción at Club Olimpia",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T06:05:05.624369+00:00"
  }
 ]

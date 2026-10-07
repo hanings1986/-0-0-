@@ -3266,5 +3266,23 @@
    "early_goal": 0,
    "goal_rate": 57.1
   }
+ },
+ "2026-10-07": {
+  "date": "2026-10-07",
+  "rows": [
+   {
+    "match": "Belize at French Guiana",
+    "league": "19267",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 84,
+    "first_goal_team": "French Guiana",
+    "recorded_at": "2026-10-07T06:05:04.192452+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
