@@ -2,15 +2,6 @@
  {
   "league_id": "725",
   "league_name": "725",
-  "match": "Telstar at AZ Alkmaar",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T14:30:51.250645+00:00"
- },
- {
-  "league_id": "725",
-  "league_name": "725",
   "match": "PSV Eindhoven at FC Twente",
   "final": "3:2",
   "goal_after_70": true,
@@ -7796,5 +7787,15 @@
   "goal_after_70": true,
   "date": "2026-10-06",
   "recorded_at": "2026-10-06T20:39:11.326181+00:00"
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "San Antonio Bulo Bulo at Real Potosí",
+  "final": "4:2",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-07T00:10:21.472601+00:00",
+  "backstop": true
  }
 ]
