@@ -1,97 +1,5 @@
 [
  {
-  "league_id": "8097",
-  "league_name": "8097",
-  "match": "Tottenham Hotspur at Crystal Palace",
-  "final": "0:7",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:45.704780+00:00"
- },
- {
-  "league_id": "8097",
-  "league_name": "Women's Super League",
-  "match": "Everton at West Ham United",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:45.704787+00:00"
- },
- {
-  "league_id": "680",
-  "league_name": "680",
-  "match": "Juventud at Albion FC",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:45.704798+00:00"
- },
- {
-  "league_id": "3937",
-  "league_name": "South African Premier",
-  "match": "Kaizer Chiefs at Golden Arrows",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:45.705005+00:00"
- },
- {
-  "league_id": "3937",
-  "league_name": "3937",
-  "match": "Durban City at Milford FC",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:00:45.705013+00:00"
- },
- {
-  "league_id": "730",
-  "league_name": "730",
-  "match": "Como at Frosinone",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:10:42.767851+00:00"
- },
- {
-  "league_id": "3931",
-  "league_name": "3931",
-  "match": "Sudtirol at Arezzo",
-  "final": "1:4",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:10:42.767865+00:00"
- },
- {
-  "league_id": "720",
-  "league_name": "720",
-  "match": "RB Leipzig at Bayer Leverkusen",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T15:40:57.200182+00:00"
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Ginásio Figueirense at AD Fazendense",
-  "final": "6:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "CF Benfica at Alcochetense",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
-  "backstop": true
- },
- {
   "league_id": "20922",
   "league_name": "20922",
   "match": "AD Macao at Alpendorada",
@@ -7806,5 +7714,103 @@
   "goal_after_70": true,
   "date": "2026-10-07",
   "recorded_at": "2026-10-07T06:05:05.624369+00:00"
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "Richmond Kickers at FC Naples",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-08T03:02:36.115639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "Chattanooga Red Wolves at One Knoxville",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-08T03:02:36.115639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Corinthians at Internacional",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-08T03:02:36.115639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Mirassol at Red Bull Bragantino",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-08T03:02:36.115639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Grêmio at Remo",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-08T03:02:36.115639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Chapecoense at Vitória",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-08T03:02:36.115639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Londrina at Avaí",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-08T03:02:36.115639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Botafogo-SP at Operário PR",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-08T03:02:36.115639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8312",
+  "league_name": "8312",
+  "match": "Universidad de Chile at Antofagasta",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-08T03:02:37.733161+00:00"
+ },
+ {
+  "league_id": "8312",
+  "league_name": "8312",
+  "match": "Cobreloa at Coquimbo Unido",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-08T03:02:37.733176+00:00"
  }
 ]
