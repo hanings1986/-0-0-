@@ -2,16 +2,6 @@
  {
   "league_id": "20922",
   "league_name": "20922",
-  "match": "AD Macao at Alpendorada",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
   "match": "Sanjoanense at Ançã",
   "final": "1:4",
   "goal_after_70": true,
@@ -7812,5 +7802,14 @@
   "goal_after_70": true,
   "date": "2026-10-07",
   "recorded_at": "2026-10-08T03:02:37.733176+00:00"
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Atlético Goianiense at CRB",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-10-07",
+  "recorded_at": "2026-10-08T10:30:56.447911+00:00"
  }
 ]
