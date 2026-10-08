@@ -2,16 +2,6 @@
  {
   "league_id": "20922",
   "league_name": "20922",
-  "match": "Sanjoanense at Ançã",
-  "final": "1:4",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
   "match": "Vinhais at Fatima",
   "final": "4:1",
   "goal_after_70": true,
@@ -7811,5 +7801,15 @@
   "goal_after_70": true,
   "date": "2026-10-07",
   "recorded_at": "2026-10-08T10:30:56.447911+00:00"
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Russia  at India",
+  "final": "0:4",
+  "goal_after_70": true,
+  "date": "2026-10-08",
+  "recorded_at": "2026-10-08T17:36:03.984659+00:00",
+  "backstop": true
  }
 ]
