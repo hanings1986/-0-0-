@@ -1,111 +1,5 @@
 [
  {
-  "league_id": "3955",
-  "league_name": "Greek Super League",
-  "match": "Olympiacos at Levadiakos",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:47.473720+00:00"
- },
- {
-  "league_id": "3913",
-  "league_name": "3913",
-  "match": "AGF at AC Horsens",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:47.473730+00:00"
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Os Marialvas at AD Ovarense",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:20:45.559630+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Uniao da Serra at Amora",
-  "final": "3:4",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:20:45.559630+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Celoricense at Bragança",
-  "final": "6:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:20:45.559630+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "GD Chaves at Guarda",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:20:45.559630+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Leca at Mortágua",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:20:45.559630+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Brito at Vila Pouca",
-  "final": "0:5",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:20:45.559630+00:00",
-  "backstop": true
- },
- {
-  "league_id": "4007",
-  "league_name": "4007",
-  "match": "CRB at Ponte Preta",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:20:46.071637+00:00"
- },
- {
-  "league_id": "630",
-  "league_name": "Brazil Serie A",
-  "match": "Palmeiras at Grêmio",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:20:46.071655+00:00"
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Dorking Wanderers at Southall",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:30:40.863444+00:00",
-  "backstop": true
- },
- {
   "league_id": "3945",
   "league_name": "3945",
   "match": "Hammarby IF at Degerfors IF",
@@ -7814,6 +7708,116 @@
   "goal_after_70": true,
   "date": "2026-10-09",
   "recorded_at": "2026-10-09T02:31:16.464673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20649",
+  "league_name": "20649",
+  "match": "Republic of Ireland at Kazakhstan",
+  "final": "0:8",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T16:36:57.893158+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20649",
+  "league_name": "20649",
+  "match": "Switzerland at Israel",
+  "final": "3:7",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T16:36:57.893158+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Faroe Islands at Andorra",
+  "final": "0:5",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T16:36:57.893158+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Bosnia-Herzegovina at Montenegro",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T16:36:57.893158+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Georgia at Moldova",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T16:36:57.893158+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "21231",
+  "match": "Al Qadsiah at Al Kholood",
+  "final": "0:5",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T16:36:57.893158+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "BEIJING GUOAN at Qingdao Hainiu",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T16:36:57.893158+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "Henan at Shenzhen Xinpengcheng",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T16:36:57.893158+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "Shanghai Port at Zhejiang Professional FC",
+  "final": "2:4",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T16:36:57.893158+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Gamba Osaka at Kashima Antlers",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T16:36:57.893158+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Vissel Kobe at Kashiwa Reysol",
+  "final": "4:2",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T16:36:57.893158+00:00",
   "backstop": true
  }
 ]
