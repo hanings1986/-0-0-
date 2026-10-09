@@ -3314,5 +3314,23 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-10-10": {
+  "date": "2026-10-10",
+  "rows": [
+   {
+    "match": "Audax Italiano at Universidad Católica",
+    "league": "Chilean Primera",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-09T21:17:50.187706+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
