@@ -3284,5 +3284,35 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-10-09": {
+  "date": "2026-10-09",
+  "rows": [
+   {
+    "match": "Criciúma at Ceará",
+    "league": "4007",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 88,
+    "first_goal_team": "Ceará",
+    "recorded_at": "2026-10-09T02:31:16.464673+00:00"
+   },
+   {
+    "match": "Deportes Tolima at Atlético Nacional",
+    "league": "Colombian Primera A",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-09T02:31:16.464673+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }

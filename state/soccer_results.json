@@ -1,82 +1,5 @@
 [
  {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Vinhais at Fatima",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Aljustrelense at Limianos",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Amarante at Ponte Barca",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "AVS at Sintrense",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Merelinense at União Santarém",
-  "final": "5:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:46.172503+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3946",
-  "league_name": "3946",
-  "match": "Samsunspor at Erzurum BB",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:47.473684+00:00"
- },
- {
-  "league_id": "3946",
-  "league_name": "3946",
-  "match": "Eyupspor at Fenerbahce",
-  "final": "8:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:47.473699+00:00"
- },
- {
-  "league_id": "3901",
-  "league_name": "3901",
-  "match": "KVC Westerlo at Sint-Truidense",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:00:47.473712+00:00"
- },
- {
   "league_id": "3955",
   "league_name": "Greek Super League",
   "match": "Olympiacos at Levadiakos",
@@ -7810,6 +7733,87 @@
   "goal_after_70": true,
   "date": "2026-10-08",
   "recorded_at": "2026-10-08T17:36:03.984659+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Flamengo at Santos",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T02:31:16.464673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Atlético-MG at Athletico Paranaense",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T02:31:16.464673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Coritiba at Fluminense",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T02:31:16.464673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Bahia at Palmeiras",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T02:31:16.464673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Criciúma at Ceará",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T02:31:16.464673+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Novorizontino at Náutico",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T02:31:16.464673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "Colombian Primera A",
+  "match": "Deportes Tolima at Atlético Nacional",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T02:31:16.464673+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "Bolívar at Blooming",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-09",
+  "recorded_at": "2026-10-09T02:31:16.464673+00:00",
   "backstop": true
  }
 ]
