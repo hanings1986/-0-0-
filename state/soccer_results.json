@@ -1,52 +1,5 @@
 [
  {
-  "league_id": "3921",
-  "league_name": "3921",
-  "match": "Real Valladolid at Ceuta",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:30:40.939654+00:00"
- },
- {
-  "league_id": "715",
-  "league_name": "715",
-  "match": "Académico de Viseu at Estrela",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:30:40.939663+00:00"
- },
- {
-  "league_id": "3945",
-  "league_name": "3945",
-  "match": "GAIS at Mjällby AIF",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:30:40.939672+00:00"
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Portel at Olhanense",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:50:43.419475+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20922",
-  "league_name": "20922",
-  "match": "Louletano at Serpa",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-09-20",
-  "recorded_at": "2026-09-20T16:50:43.419475+00:00",
-  "backstop": true
- },
- {
   "league_id": "715",
   "league_name": "715",
   "match": "Moreirense at Vitória de Guimaraes",
@@ -7819,5 +7772,55 @@
   "goal_after_70": true,
   "date": "2026-10-09",
   "recorded_at": "2026-10-09T21:17:52.270022+00:00"
+ },
+ {
+  "league_id": "3932",
+  "league_name": "3932",
+  "match": "Club Atlético La Paz at Tapatío",
+  "final": "2:4",
+  "goal_after_70": true,
+  "date": "2026-10-10",
+  "recorded_at": "2026-10-10T01:02:13.662800+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Boca Juniors at Instituto (Córdoba)",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-10-10",
+  "recorded_at": "2026-10-10T01:02:13.662800+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3904",
+  "league_name": "3904",
+  "match": "Villa San Carlos at Excursionistas",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-10-10",
+  "recorded_at": "2026-10-10T01:02:13.662800+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3904",
+  "league_name": "3904",
+  "match": "Camioneros at Talleres de Remedios",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-10",
+  "recorded_at": "2026-10-10T01:02:13.662800+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "680",
+  "league_name": "680",
+  "match": "Liverpool at Deportivo Maldonado",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-10",
+  "recorded_at": "2026-10-10T01:02:13.662800+00:00",
+  "backstop": true
  }
 ]
