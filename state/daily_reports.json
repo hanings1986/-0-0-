@@ -3404,5 +3404,155 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-10-11": {
+  "date": "2026-10-11",
+  "rows": [
+   {
+    "match": "SV Elversberg at 1. FC Union Berlin",
+    "league": "720",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 81,
+    "first_goal_team": "1. FC Union Berlin",
+    "recorded_at": "2026-10-10T18:02:07.723416+00:00"
+   },
+   {
+    "match": "Erzurum BB at Alanyaspor",
+    "league": "3946",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-10T18:02:07.723416+00:00"
+   },
+   {
+    "match": "Ascoli at Sudtirol",
+    "league": "3931",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-10T18:02:07.723416+00:00"
+   },
+   {
+    "match": "Stade de Reims at Nantes",
+    "league": "Ligue 2",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-10T18:02:26.056528+00:00"
+   },
+   {
+    "match": "IK Sirius at GAIS",
+    "league": "3945",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "IK Sirius",
+    "recorded_at": "2026-10-10T18:02:07.723416+00:00"
+   },
+   {
+    "match": "Millwall at Preston North End",
+    "league": "3914",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "Millwall",
+    "recorded_at": "2026-10-10T18:02:07.723416+00:00"
+   },
+   {
+    "match": "Spartak Moscow at Krylia Sovetov",
+    "league": "Russian Premier",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "Spartak Moscow",
+    "recorded_at": "2026-10-10T18:02:07.723416+00:00"
+   },
+   {
+    "match": "Leyton Orient at Bradford City",
+    "league": "3915",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-10T18:02:07.723416+00:00"
+   },
+   {
+    "match": "Blackpool at Cambridge United",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "Cambridge United",
+    "recorded_at": "2026-10-10T18:02:07.723416+00:00"
+   },
+   {
+    "match": "Salford City at Cheltenham Town",
+    "league": "3916",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 84,
+    "first_goal_team": "Salford City",
+    "recorded_at": "2026-10-10T18:02:07.723416+00:00"
+   },
+   {
+    "match": "Colchester United at Newport County",
+    "league": "3916",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "Newport County",
+    "recorded_at": "2026-10-10T18:02:07.723416+00:00"
+   },
+   {
+    "match": "Exeter City at Shrewsbury Town",
+    "league": "3916",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "Exeter City",
+    "recorded_at": "2026-10-10T18:02:07.723416+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
