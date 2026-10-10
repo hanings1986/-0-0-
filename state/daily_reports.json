@@ -3341,6 +3341,66 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-10T07:03:42.488590+00:00"
+   },
+   {
+    "match": "Athletic Club at Rayo Vallecano",
+    "league": "LALIGA",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-10T13:38:16.106046+00:00"
+   },
+   {
+    "match": "Tianjin Jinmen Tiger at Chengdu Rongcheng",
+    "league": "Chinese Super League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 91,
+    "first_goal_team": "Tianjin Jinmen Tiger",
+    "recorded_at": "2026-10-10T13:38:16.106046+00:00"
+   },
+   {
+    "match": "Accrington Stanley at Oldham Athletic",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-10T13:38:16.106046+00:00"
+   },
+   {
+    "match": "Kidderminster Harriers at Carlisle United",
+    "league": "National League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-10T13:38:16.106046+00:00"
+   },
+   {
+    "match": "Machida Zelvia at Kyoto Sanga",
+    "league": "Japanese J1 League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "Machida Zelvia",
+    "recorded_at": "2026-10-10T13:38:16.106046+00:00"
    }
   ],
   "generated_at": null
