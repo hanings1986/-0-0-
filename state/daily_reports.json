@@ -3638,5 +3638,59 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-10-12": {
+  "date": "2026-10-12",
+  "rows": [
+   {
+    "match": "Celta Vigo at Elche",
+    "league": "LALIGA",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-11T18:23:28.149562+00:00"
+   },
+   {
+    "match": "SC Cambuur at PEC Zwolle",
+    "league": "725",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 83,
+    "first_goal_team": "SC Cambuur",
+    "recorded_at": "2026-10-11T18:23:28.149562+00:00"
+   },
+   {
+    "match": "Arminia Bielefeld at VfL Bochum",
+    "league": "3927",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "Arminia Bielefeld",
+    "recorded_at": "2026-10-11T18:23:29.776158+00:00"
+   },
+   {
+    "match": "Wuhan Three Towns at Liaoning Tieren",
+    "league": "Chinese Super League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 85,
+    "first_goal_team": "Liaoning Tieren",
+    "recorded_at": "2026-10-11T18:23:29.776173+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
