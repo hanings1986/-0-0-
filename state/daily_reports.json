@@ -3551,6 +3551,42 @@
     "first_goal_minute": 86,
     "first_goal_team": "Exeter City",
     "recorded_at": "2026-10-10T18:02:07.723416+00:00"
+   },
+   {
+    "match": "Leones Negros at Venados FC",
+    "league": "Liga de Expansión MX",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "Venados FC",
+    "recorded_at": "2026-10-11T06:27:01.690511+00:00"
+   },
+   {
+    "match": "Audax Italiano at Universidad Católica",
+    "league": "640",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-11T06:26:57.907947+00:00"
+   },
+   {
+    "match": "Club Deportivo Marathón at UPNFM",
+    "league": "3929",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-11T06:26:57.907947+00:00"
    }
   ],
   "generated_at": null

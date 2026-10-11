@@ -1,199 +1,5 @@
 [
  {
-  "league_id": "650",
-  "league_name": "650",
-  "match": "Atlético Bucaramanga at Once Caldas",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T03:30:38.785452+00:00"
- },
- {
-  "league_id": "3916",
-  "league_name": "EFL League Two",
-  "match": "Barnet at Crawley Town",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T04:20:39.520847+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "EFL League Two",
-  "match": "Northampton Town at Port Vale",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T04:20:39.520847+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3923",
-  "league_name": "3923",
-  "match": "Solomon Islands at New Caledonia",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T06:30:48.180020+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "CSL Stefanesti at FCSB",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T10:50:47.494606+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "CS Gloria Bistrita at Sepsi Sfantu Gheorghe",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T10:50:47.494606+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "Club Friendly",
-  "match": "FC VAN at Alashkert FC",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T11:00:44.076764+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3923",
-  "league_name": "3923",
-  "match": "Vanuatu at Papua New Guinea",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T11:10:45.593213+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "SC Popesti-Leordei at FC Farul Constanta",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T12:00:42.521873+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "HUTNIK KRAKÓW at WIECZYSTA KRAKÓW",
-  "final": "5:4",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T12:00:42.521873+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20956",
-  "league_name": "Liga F",
-  "match": "Granada at FC Badalona",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T12:00:42.786089+00:00"
- },
- {
-  "league_id": "20956",
-  "league_name": "20956",
-  "match": "Real Madrid at Real Sociedad",
-  "final": "3:5",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T12:10:49.495915+00:00"
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "Central Coast Mariners at Western Sydney Wanderers",
-  "final": "5:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T12:40:45.054096+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "Dunav Ruse at Cherno More",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T12:40:45.054096+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "Cremonese at Monza",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T13:20:39.170065+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19945",
-  "league_name": "19945",
-  "match": "De Graafschap at PSV Eindhoven",
-  "final": "4:0",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T14:00:37.141450+00:00"
- },
- {
-  "league_id": "3921",
-  "league_name": "3921",
-  "match": "Real Sociedad II at Ceuta",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T14:10:38.875480+00:00"
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "BFA at Panevezys",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T14:20:41.901272+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "Górnik Leczna at Widzew Lodz",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T14:20:41.901272+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8097",
-  "league_name": "8097",
-  "match": "Manchester City at Charlton Athletic",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T14:30:50.776983+00:00"
- },
- {
   "league_id": "19834",
   "league_name": "19834",
   "match": "Wisla Krakow at Dalin Myslenice",
@@ -7909,5 +7715,204 @@
   "date": "2026-10-11",
   "recorded_at": "2026-10-11T00:32:55.711244+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Estudiantes de Río Cuarto at River Plate",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "670",
+  "league_name": "670",
+  "match": "Melgar at Universitario",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Vitória at São Paulo",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "FC Cincinnati at Atlanta United FC",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "FC Dallas at Charlotte FC",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "D.C. United at Inter Miami CF",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Seattle Sounders FC at New England Revolution",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Columbus Crew at Orlando City SC",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Real Salt Lake at Philadelphia Union",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "San Diego FC at Red Bull New York",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Nashville SC at Austin FC",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Houston Dynamo FC at Minnesota United FC",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Portland Timbers at Sporting Kansas City",
+  "final": "3:3",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "San Jose Earthquakes at Colorado Rapids",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Vancouver Whitecaps at LAFC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3929",
+  "league_name": "3929",
+  "match": "CD Choloma at FC Motagua",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3929",
+  "league_name": "3929",
+  "match": "Club Deportivo Marathón at UPNFM",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "Luis Ángel Firpo at CD Municipal Limeño",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Tijuana at FC Juárez",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:27:01.527551+00:00"
+ },
+ {
+  "league_id": "3932",
+  "league_name": "Liga de Expansión MX",
+  "match": "Leones Negros at Venados FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-11",
+  "recorded_at": "2026-10-11T06:27:01.690511+00:00"
  }
 ]
