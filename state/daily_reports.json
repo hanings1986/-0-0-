@@ -3587,6 +3587,54 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-11T06:26:57.907947+00:00"
+   },
+   {
+    "match": "AS Roma at Como",
+    "league": "Serie A",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-11T13:24:34.710088+00:00"
+   },
+   {
+    "match": "Istanbul Basaksehir at Konyaspor",
+    "league": "Turkish Super Lig",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-11T13:24:34.710088+00:00"
+   },
+   {
+    "match": "IF Brommapojkarna at IK Sirius",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-11T13:24:34.710088+00:00"
+   },
+   {
+    "match": "FC Baltika Kaliningrad at Akhmat Grozny",
+    "league": "Russian Premier",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-11T13:24:34.710088+00:00"
    }
   ],
   "generated_at": null
