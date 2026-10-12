@@ -1,87 +1,5 @@
 [
  {
-  "league_id": "3933",
-  "league_name": "3933",
-  "match": "Vitesse at Heracles Almelo",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T16:30:38.175913+00:00"
- },
- {
-  "league_id": "19945",
-  "league_name": "19945",
-  "match": "ADO Den Haag at Ajax Amsterdam",
-  "final": "7:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T16:30:38.175922+00:00"
- },
- {
-  "league_id": "19945",
-  "league_name": "19945",
-  "match": "PEC Zwolle at Feyenoord Rotterdam",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T16:30:38.175929+00:00"
- },
- {
-  "league_id": "770",
-  "league_name": "MLS",
-  "match": "St. Louis CITY SC at Red Bull New York",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-26T20:40:56.344856+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19915",
-  "league_name": "USL League One",
-  "match": "Spokane Velocity FC at Forward Madison FC",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T00:10:54.619460+00:00"
- },
- {
-  "league_id": "3932",
-  "league_name": "3932",
-  "match": "Cancún FC at Tlaxcala FC",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T00:10:54.619481+00:00"
- },
- {
-  "league_id": "3903",
-  "league_name": "Argentine Nacional B",
-  "match": "Central Norte at Deportivo Madryn",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T00:10:54.619493+00:00"
- },
- {
-  "league_id": "3904",
-  "league_name": "3904",
-  "match": "Sportivo Italiano at Deportivo Laferrere",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T00:10:54.619501+00:00"
- },
- {
-  "league_id": "3934",
-  "league_name": "3934",
-  "match": "Cerro Porteño at Sportivo Trinidense",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T00:10:54.619509+00:00"
- },
- {
   "league_id": "8301",
   "league_name": "NWSL",
   "match": "Angel City FC at Washington Spirit",
@@ -7955,5 +7873,88 @@
   "date": "2026-10-11",
   "recorded_at": "2026-10-12T01:39:28.173933+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "670",
+  "league_name": "670",
+  "match": "Alianza Lima at Cusco FC",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T08:03:11.299819+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "Internacional Santa Tecla at Alianza FC",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T08:03:11.299819+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Santos at Atlético de San Luis",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T08:03:11.909785+00:00"
+ },
+ {
+  "league_id": "23633",
+  "league_name": "23633",
+  "match": "Lexington SC at Fort Lauderdale United FC",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T08:03:12.074674+00:00"
+ },
+ {
+  "league_id": "640",
+  "league_name": "640",
+  "match": "Palestino at Deportes Limache",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T08:03:12.273203+00:00"
+ },
+ {
+  "league_id": "650",
+  "league_name": "Colombian Primera A",
+  "match": "Cúcuta Deportivo at Boyacá Chicó FC",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T08:03:12.474145+00:00"
+ },
+ {
+  "league_id": "3929",
+  "league_name": "3929",
+  "match": "CA Independiente Siguatepeque at Olancho FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T08:03:12.637035+00:00"
+ },
+ {
+  "league_id": "4005",
+  "league_name": "4005",
+  "match": "Saprissa at Escorpiones Belén",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T08:03:12.800137+00:00"
+ },
+ {
+  "league_id": "3928",
+  "league_name": "3928",
+  "match": "Marquense at Municipal",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T08:03:12.964086+00:00"
  }
 ]

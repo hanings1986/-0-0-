@@ -3701,6 +3701,18 @@
     "first_goal_minute": 83,
     "first_goal_team": "Ciudad de Bolívar",
     "recorded_at": "2026-10-12T01:39:28.173933+00:00"
+   },
+   {
+    "match": "Cúcuta Deportivo at Boyacá Chicó FC",
+    "league": "Colombian Primera A",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 70,
+    "first_goal_team": "Cúcuta Deportivo",
+    "recorded_at": "2026-10-12T08:03:12.474145+00:00"
    }
   ],
   "generated_at": null
