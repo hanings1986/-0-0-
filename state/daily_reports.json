@@ -3689,6 +3689,18 @@
     "first_goal_minute": 85,
     "first_goal_team": "Liaoning Tieren",
     "recorded_at": "2026-10-11T18:23:29.776173+00:00"
+   },
+   {
+    "match": "San Telmo at Ciudad de Bolívar",
+    "league": "Argentine Nacional B",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 83,
+    "first_goal_team": "Ciudad de Bolívar",
+    "recorded_at": "2026-10-12T01:39:28.173933+00:00"
    }
   ],
   "generated_at": null
