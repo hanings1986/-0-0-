@@ -1,50 +1,5 @@
 [
  {
-  "league_id": "8301",
-  "league_name": "NWSL",
-  "match": "Angel City FC at Washington Spirit",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T00:40:52.360640+00:00"
- },
- {
-  "league_id": "760",
-  "league_name": "760",
-  "match": "Toluca at Cruz Azul",
-  "final": "3:3",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T01:11:22.917320+00:00"
- },
- {
-  "league_id": "19267",
-  "league_name": "19267",
-  "match": "Anguilla at Antigua and Barbuda",
-  "final": "5:0",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T01:11:22.917333+00:00"
- },
- {
-  "league_id": "4002",
-  "league_name": "USL Championship",
-  "match": "Rhode Island FC at Charleston Battery",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T01:11:22.917342+00:00"
- },
- {
-  "league_id": "4002",
-  "league_name": "USL Championship",
-  "match": "Colorado Springs Switchbacks FC at Detroit City FC",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T01:11:22.917349+00:00"
- },
- {
   "league_id": "4002",
   "league_name": "4002",
   "match": "Miami FC at Indy Eleven",
@@ -7956,5 +7911,55 @@
   "goal_after_70": true,
   "date": "2026-10-12",
   "recorded_at": "2026-10-12T08:03:12.964086+00:00"
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Georgia at Moldova",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T17:52:05.089580+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Al Qadsiah at Pakhtakor Tashkent",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T17:52:05.089580+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3921",
+  "league_name": "3921",
+  "match": "Albacete at Real Valladolid",
+  "final": "5:0",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T17:52:05.089580+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3921",
+  "league_name": "3921",
+  "match": "Granada at Burgos",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T17:52:05.089580+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8316",
+  "league_name": "Indian Super League",
+  "match": "Mohun Bagan Super Giant at NorthEast United FC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-12",
+  "recorded_at": "2026-10-12T17:52:05.089580+00:00",
+  "backstop": true
  }
 ]

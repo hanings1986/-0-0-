@@ -3716,5 +3716,23 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-10-13": {
+  "date": "2026-10-13",
+  "rows": [
+   {
+    "match": "Mohun Bagan Super Giant at NorthEast United FC",
+    "league": "Indian Super League",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 91,
+    "first_goal_team": "NorthEast United FC",
+    "recorded_at": "2026-10-12T17:52:05.089580+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
