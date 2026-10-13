@@ -3743,8 +3743,39 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-13T07:02:53.726524+00:00"
+   },
+   {
+    "match": "Ratchaburi FC at Kyoto Sanga",
+    "league": "3902",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 88,
+    "first_goal_team": "Kyoto Sanga",
+    "recorded_at": "2026-10-13T15:01:17.200439+00:00"
+   },
+   {
+    "match": "Beijing Guoan at Buriram United",
+    "league": "AFC Champions League Elite",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "Beijing Guoan",
+    "recorded_at": "2026-10-13T15:01:17.200439+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-10-13T15:01:21.245521+00:00",
+  "summary": {
+   "total": 4,
+   "goal_after_70": 3,
+   "clean_00": 1,
+   "early_goal": 0,
+   "goal_rate": 75.0
+  }
  }
 }

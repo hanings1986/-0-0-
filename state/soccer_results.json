@@ -1,68 +1,5 @@
 [
  {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Union Omaha at Greenville Triumph",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T01:20:45.150968+00:00"
- },
- {
-  "league_id": "3932",
-  "league_name": "3932",
-  "match": "Club Atlético Morelia at Venados FC",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T01:20:45.150973+00:00"
- },
- {
-  "league_id": "8312",
-  "league_name": "Copa Chile",
-  "match": "Unión La Calera at Universidad Católica",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T01:30:43.100997+00:00"
- },
- {
-  "league_id": "650",
-  "league_name": "650",
-  "match": "Llaneros FC at Cúcuta Deportivo",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T01:30:43.101006+00:00"
- },
- {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "Chile at Canada",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T01:30:43.101011+00:00"
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "New York City FC at Atlanta United FC",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-09-27",
-  "recorded_at": "2026-09-27T01:50:41.940320+00:00"
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "FC Cincinnati at CF Montréal",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-09-27",
-  "recorded_at": "2026-09-27T01:50:41.940333+00:00"
- },
- {
   "league_id": "770",
   "league_name": "770",
   "match": "Chicago Fire FC at Charlotte FC",
@@ -7964,5 +7901,76 @@
   "goal_after_70": true,
   "date": "2026-10-13",
   "recorded_at": "2026-10-13T07:02:53.857225+00:00"
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Palestine at Lebanon",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-13",
+  "recorded_at": "2026-10-13T15:01:17.200439+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Gamba Osaka at Newcastle Jets",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-10-13",
+  "recorded_at": "2026-10-13T15:01:17.200439+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Ratchaburi FC at Kyoto Sanga",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-13",
+  "recorded_at": "2026-10-13T15:01:17.200439+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Johor Darul Ta'zim at Pohang Steelers",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-13",
+  "recorded_at": "2026-10-13T15:01:17.200439+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Daejeon Hana Citizen at Shanghai Port",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-13",
+  "recorded_at": "2026-10-13T15:01:17.200439+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "AFC Champions League Elite",
+  "match": "Beijing Guoan at Buriram United",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-13",
+  "recorded_at": "2026-10-13T15:01:17.200439+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Kashima Antlers at Cong An Hanoi",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-13",
+  "recorded_at": "2026-10-13T15:01:17.200439+00:00",
+  "backstop": true
  }
 ]
