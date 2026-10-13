@@ -1,23 +1,5 @@
 [
  {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Chicago Fire FC at Charlotte FC",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-27",
-  "recorded_at": "2026-09-27T01:50:41.940348+00:00"
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Orlando City SC at Philadelphia Union",
-  "final": "4:2",
-  "goal_after_70": true,
-  "date": "2026-09-27",
-  "recorded_at": "2026-09-27T01:50:41.940356+00:00"
- },
- {
   "league_id": "3928",
   "league_name": "3928",
   "match": "CD Malacateco at Marquense",
@@ -7971,6 +7953,26 @@
   "goal_after_70": true,
   "date": "2026-10-13",
   "recorded_at": "2026-10-13T15:01:17.200439+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "Women's International Friendly",
+  "match": "New Zealand at Panama",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-13",
+  "recorded_at": "2026-10-13T20:39:42.058969+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Al-Shorta at SC East Bengal",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-10-13",
+  "recorded_at": "2026-10-13T20:39:42.058969+00:00",
   "backstop": true
  }
 ]
