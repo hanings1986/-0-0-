@@ -3731,6 +3731,18 @@
     "first_goal_minute": 91,
     "first_goal_team": "NorthEast United FC",
     "recorded_at": "2026-10-12T17:52:05.089580+00:00"
+   },
+   {
+    "match": "Godoy Cruz Antonio Tomba at All Boys",
+    "league": "Argentine Nacional B",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-13T07:02:53.726524+00:00"
    }
   ],
   "generated_at": null

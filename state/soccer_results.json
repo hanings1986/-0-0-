@@ -1,23 +1,5 @@
 [
  {
-  "league_id": "23633",
-  "league_name": "23633",
-  "match": "Sporting Jax at Carolina Ascent FC",
-  "final": "3:3",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T01:20:45.150954+00:00"
- },
- {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Chattanooga Red Wolves at FC Naples",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-26",
-  "recorded_at": "2026-09-27T01:20:45.150962+00:00"
- },
- {
   "league_id": "19915",
   "league_name": "19915",
   "match": "Union Omaha at Greenville Triumph",
@@ -7964,5 +7946,23 @@
   "date": "2026-10-13",
   "recorded_at": "2026-10-13T00:29:17.575320+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3903",
+  "league_name": "Argentine Nacional B",
+  "match": "Godoy Cruz Antonio Tomba at All Boys",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-13",
+  "recorded_at": "2026-10-13T07:02:53.726524+00:00"
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "América Mineiro at Criciúma",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-13",
+  "recorded_at": "2026-10-13T07:02:53.857225+00:00"
  }
 ]
