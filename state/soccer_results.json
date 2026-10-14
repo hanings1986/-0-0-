@@ -2,26 +2,6 @@
  {
   "league_id": "770",
   "league_name": "770",
-  "match": "Sporting Kansas City at Houston Dynamo FC",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-27",
-  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Toronto FC at Nashville SC",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-27",
-  "recorded_at": "2026-09-27T06:46:58.164413+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
   "match": "Minnesota United FC at Seattle Sounders FC",
   "final": "3:1",
   "goal_after_70": true,
@@ -7975,6 +7955,26 @@
   "goal_after_70": true,
   "date": "2026-10-14",
   "recorded_at": "2026-10-14T14:43:49.466641+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Al-Wahda at Nasaf Qarshi",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-14",
+  "recorded_at": "2026-10-14T18:59:12.967521+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8316",
+  "league_name": "8316",
+  "match": "Odisha FC at Punjab FC",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-14",
+  "recorded_at": "2026-10-14T18:59:12.967521+00:00",
   "backstop": true
  }
 ]
