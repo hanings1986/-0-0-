@@ -3802,5 +3802,35 @@
    "early_goal": 0,
    "goal_rate": 0.0
   }
+ },
+ "2026-10-15": {
+  "date": "2026-10-15",
+  "rows": [
+   {
+    "match": "Vancouver Whitecaps at St. Louis CITY SC",
+    "league": "770",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-15T05:13:27.503609+00:00"
+   },
+   {
+    "match": "San Jose Earthquakes at Real Salt Lake",
+    "league": "MLS",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "Real Salt Lake",
+    "recorded_at": "2026-10-15T05:13:27.503609+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
