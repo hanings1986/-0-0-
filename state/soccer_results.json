@@ -1,25 +1,5 @@
 [
  {
-  "league_id": "3921",
-  "league_name": "3921",
-  "match": "Almería at Mallorca",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-09-27",
-  "recorded_at": "2026-09-27T17:17:21.429427+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3933",
-  "league_name": "3933",
-  "match": "FC Den Bosch at De Graafschap",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-09-27",
-  "recorded_at": "2026-09-27T17:17:21.429427+00:00",
-  "backstop": true
- },
- {
   "league_id": "19945",
   "league_name": "19945",
   "match": "FC Utrecht at Heerenveen",
@@ -7976,6 +7956,26 @@
   "goal_after_70": false,
   "date": "2026-10-15",
   "recorded_at": "2026-10-15T14:59:20.675854+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "21231",
+  "match": "Al Kholood at Al Faisaly",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-10-15",
+  "recorded_at": "2026-10-15T19:03:43.839452+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "21231",
+  "match": "Al Fayha at Al Khaleej",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-15",
+  "recorded_at": "2026-10-15T19:03:43.839452+00:00",
   "backstop": true
  }
 ]
