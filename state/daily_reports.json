@@ -3829,8 +3829,39 @@
     "first_goal_minute": 79,
     "first_goal_team": "Real Salt Lake",
     "recorded_at": "2026-10-15T05:13:27.503609+00:00"
+   },
+   {
+    "match": "Machida Zelvia at BG Tampines Rovers FC",
+    "league": "AFC Champions League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 94,
+    "first_goal_team": "Machida Zelvia",
+    "recorded_at": "2026-10-15T14:59:20.675854+00:00"
+   },
+   {
+    "match": "Shanghai Shenhua at Preah Khan Reach Svay Rieng FC",
+    "league": "AFC Champions League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-15T14:59:20.675854+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-10-15T14:59:26.079061+00:00",
+  "summary": {
+   "total": 4,
+   "goal_after_70": 2,
+   "clean_00": 2,
+   "early_goal": 0,
+   "goal_rate": 50.0
+  }
  }
 }
