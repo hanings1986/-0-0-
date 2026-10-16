@@ -3878,8 +3878,27 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-16T04:55:51.823054+00:00"
+   },
+   {
+    "match": "Western Sydney Wanderers at Sydney FC",
+    "league": "3906",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-16T14:17:15.430615+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-10-16T14:17:16.850102+00:00",
+  "summary": {
+   "total": 2,
+   "goal_after_70": 0,
+   "clean_00": 2,
+   "early_goal": 0,
+   "goal_rate": 0.0
+  }
  }
 }
