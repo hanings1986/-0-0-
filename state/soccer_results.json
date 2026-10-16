@@ -1,34 +1,5 @@
 [
  {
-  "league_id": "3922",
-  "league_name": "Men's International Friendly",
-  "match": "Palestine at Turkmenistan",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-09-28",
-  "recorded_at": "2026-09-28T07:45:50.793944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3903",
-  "league_name": "3903",
-  "match": "San Martín (Tucumán) at Gimnasia y Esgrima (Jujuy)",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-09-28",
-  "recorded_at": "2026-09-28T07:45:50.793944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19267",
-  "league_name": "19267",
-  "match": "Nicaragua at Curaçao",
-  "final": "6:1",
-  "goal_after_70": true,
-  "date": "2026-09-28",
-  "recorded_at": "2026-09-28T07:45:53.785747+00:00"
- },
- {
   "league_id": "19267",
   "league_name": "19267",
   "match": "Puerto Rico at Dominica",
@@ -7978,6 +7949,36 @@
   "goal_after_70": true,
   "date": "2026-10-16",
   "recorded_at": "2026-10-16T14:17:15.430615+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "21231",
+  "match": "Abha at Al Qadsiah",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-16",
+  "recorded_at": "2026-10-16T18:12:03.668711+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8316",
+  "league_name": "8316",
+  "match": "Mohun Bagan Super Giant at Sporting Club Delhi",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-16",
+  "recorded_at": "2026-10-16T18:12:03.668711+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2391",
+  "league_name": "2391",
+  "match": "Pyramids FC at El Merriekh Bentiu",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-16",
+  "recorded_at": "2026-10-16T18:12:03.668711+00:00",
   "backstop": true
  }
 ]
