@@ -3973,5 +3973,203 @@
    "early_goal": 0,
    "goal_rate": 60.0
   }
+ },
+ "2026-10-18": {
+  "date": "2026-10-18",
+  "rows": [
+   {
+    "match": "Borussia Dortmund at 1. FC Union Berlin",
+    "league": "Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "VfB Stuttgart at Hamburg SV",
+    "league": "Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 88,
+    "first_goal_team": "Hamburg SV",
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Bolton Wanderers at Southampton",
+    "league": "EFL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Vitória de Guimaraes at ACDR Lamelas",
+    "league": "20922",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "Vitória de Guimaraes",
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "C.D. Nacional at Sanjoanense",
+    "league": "Taca de Portugal",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 81,
+    "first_goal_team": "Sanjoanense",
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Konyaspor at Amed SFK",
+    "league": "3946",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "Amed SFK",
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Galatasaray at Genclerbirligi",
+    "league": "3946",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 88,
+    "first_goal_team": "Galatasaray",
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Akron Tolyatti at Dynamo Makhachkala",
+    "league": "Russian Premier",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Dynamo Makhachkala",
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Volos NFC at Levadiakos",
+    "league": "Greek Super League",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Stevenage at Bradford City",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "Bradford City",
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Reading at Wigan Athletic",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Wigan Athletic",
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Exeter City at Colchester United",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Juventud at Progreso",
+    "league": "680",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 87,
+    "first_goal_team": "Progreso",
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Elche at Villarreal",
+    "league": "LALIGA",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "FC United of Manchester at Altrincham",
+    "league": "English FA Cup Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Gloucester City at Barrow",
+    "league": "English FA Cup Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
