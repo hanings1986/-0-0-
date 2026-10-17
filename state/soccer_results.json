@@ -1,83 +1,5 @@
 [
  {
-  "league_id": "19267",
-  "league_name": "19267",
-  "match": "Puerto Rico at Dominica",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-09-28",
-  "recorded_at": "2026-09-28T07:45:53.981602+00:00"
- },
- {
-  "league_id": "23284",
-  "league_name": "23284",
-  "match": "Real Oruro at Real Tomayapo",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-28",
-  "recorded_at": "2026-09-28T07:45:54.162564+00:00"
- },
- {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "Venezuela at Japan",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-09-28",
-  "recorded_at": "2026-09-28T16:06:01.208284+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "Uruguay at South Korea",
-  "final": "1:4",
-  "goal_after_70": true,
-  "date": "2026-09-28",
-  "recorded_at": "2026-09-28T16:06:01.208284+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "Palestine at Tajikistan",
-  "final": "2:4",
-  "goal_after_70": true,
-  "date": "2026-09-28",
-  "recorded_at": "2026-09-28T16:06:01.208284+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "FC Zorya Luhansk at Dynamo Kyiv",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-09-28",
-  "recorded_at": "2026-09-28T16:06:01.208284+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "HNK Gorica at NK Maribor",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-09-28",
-  "recorded_at": "2026-09-28T21:59:14.148334+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20132",
-  "league_name": "20132",
-  "match": "Russia U21 at North Macedonia U21",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-09-28",
-  "recorded_at": "2026-09-28T21:59:14.148334+00:00",
-  "backstop": true
- },
- {
   "league_id": "3922",
   "league_name": "3922",
   "match": "Maldives at Kyrgyz Republic",
@@ -7980,5 +7902,83 @@
   "date": "2026-10-16",
   "recorded_at": "2026-10-16T18:12:03.668711+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "23633",
+  "league_name": "23633",
+  "match": "DC Power FC at Carolina Ascent FC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-16",
+  "recorded_at": "2026-10-17T01:48:51.206049+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23633",
+  "league_name": "23633",
+  "match": "Fort Lauderdale United FC at Sporting Jax",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-10-16",
+  "recorded_at": "2026-10-17T01:48:51.206049+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Internacional at Mirassol",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-16",
+  "recorded_at": "2026-10-17T01:48:51.206049+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Atlético Goianiense at Ponte Preta",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-16",
+  "recorded_at": "2026-10-17T01:48:51.206049+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Fortaleza at Sport",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-16",
+  "recorded_at": "2026-10-17T01:48:51.206049+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3934",
+  "league_name": "3934",
+  "match": "Rubio Ñú at Deportivo Recoleta",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-16",
+  "recorded_at": "2026-10-17T01:48:51.206049+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Instituto (Córdoba) at Defensa y Justicia",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-16",
+  "recorded_at": "2026-10-17T01:48:52.527008+00:00"
+ },
+ {
+  "league_id": "680",
+  "league_name": "680",
+  "match": "Cerro Largo at Cerro",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-16",
+  "recorded_at": "2026-10-17T01:48:52.527023+00:00"
  }
 ]
