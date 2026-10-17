@@ -3927,8 +3927,51 @@
     "first_goal_minute": 94,
     "first_goal_team": "Urawa Red Diamonds",
     "recorded_at": "2026-10-17T11:05:38.960196+00:00"
+   },
+   {
+    "match": "Atlético Madrid at Espanyol",
+    "league": "LALIGA",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 89,
+    "first_goal_team": "Atlético Madrid",
+    "recorded_at": "2026-10-17T14:12:18.663232+00:00"
+   },
+   {
+    "match": "Bristol Rovers at Shrewsbury Town",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "Shrewsbury Town",
+    "recorded_at": "2026-10-17T14:12:18.663232+00:00"
+   },
+   {
+    "match": "Young Africans at CFFA",
+    "league": "CAF Champions League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-17T14:12:18.663232+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-10-17T14:12:31.830309+00:00",
+  "summary": {
+   "total": 5,
+   "goal_after_70": 3,
+   "clean_00": 2,
+   "early_goal": 0,
+   "goal_rate": 60.0
+  }
  }
 }
