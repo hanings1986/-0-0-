@@ -1,55 +1,5 @@
 [
  {
-  "league_id": "19267",
-  "league_name": "19267",
-  "match": "Bermuda at Barbados",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19267",
-  "league_name": "19267",
-  "match": "Grenada at Bonaire",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23633",
-  "league_name": "USL Super League",
-  "match": "Fort Lauderdale United FC at Brooklyn FC",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
-  "backstop": true
- },
- {
-  "league_id": "24220",
-  "league_name": "Liga MX Femenil",
-  "match": "Puebla at Santos",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-02",
-  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23286",
-  "league_name": "Northern Super League",
-  "match": "Ottawa Rapid FC at Montreal Roses FC",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T01:57:12.799088+00:00",
-  "backstop": true
- },
- {
   "league_id": "745",
   "league_name": "745",
   "match": "Instituto (Córdoba) at Independiente",
@@ -7981,5 +7931,60 @@
   "date": "2026-10-17",
   "recorded_at": "2026-10-17T17:19:21.360041+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "23480",
+  "league_name": "23480",
+  "match": "Cray Wanderers at Bedford Town",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-17",
+  "recorded_at": "2026-10-17T19:34:35.665039+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "23480",
+  "league_name": "23480",
+  "match": "Forest Green Rovers at Chesham United",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-17",
+  "recorded_at": "2026-10-17T19:34:35.665039+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "3940",
+  "league_name": "3940",
+  "match": "Livingston at Dunfermline Athletic",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-17",
+  "recorded_at": "2026-10-17T19:34:35.665039+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "3937",
+  "league_name": "3937",
+  "match": "Kruger United at Chippa United",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-17",
+  "recorded_at": "2026-10-17T19:34:35.665039+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "3937",
+  "league_name": "3937",
+  "match": "Milford FC at Golden Arrows",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-17",
+  "recorded_at": "2026-10-17T19:34:35.665039+00:00",
+  "backstop": true,
+  "expired": true
  }
 ]

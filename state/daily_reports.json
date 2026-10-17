@@ -4168,6 +4168,66 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-17T17:19:21.360041+00:00"
+   },
+   {
+    "match": "Livingston at Dunfermline Athletic",
+    "league": "3940",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-17T19:34:35.665039+00:00"
+   },
+   {
+    "match": "Kruger United at Chippa United",
+    "league": "3937",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 93,
+    "first_goal_team": "Kruger United",
+    "recorded_at": "2026-10-17T19:34:35.665039+00:00"
+   },
+   {
+    "match": "Milford FC at Golden Arrows",
+    "league": "3937",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Milford FC",
+    "recorded_at": "2026-10-17T19:34:35.665039+00:00"
+   },
+   {
+    "match": "Cray Wanderers at Bedford Town",
+    "league": "23480",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-17T19:34:35.665039+00:00"
+   },
+   {
+    "match": "Forest Green Rovers at Chesham United",
+    "league": "23480",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-17T19:34:35.665039+00:00"
    }
   ],
   "generated_at": null
