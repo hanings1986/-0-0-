@@ -4300,8 +4300,27 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-18T06:35:37.944323+00:00"
+   },
+   {
+    "match": "Qingdao West Coast at Beijing Guoan",
+    "league": "Chinese Super League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "Beijing Guoan",
+    "recorded_at": "2026-10-18T14:54:17.816496+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-10-18T14:54:26.649145+00:00",
+  "summary": {
+   "total": 28,
+   "goal_after_70": 15,
+   "clean_00": 13,
+   "early_goal": 0,
+   "goal_rate": 53.6
+  }
  }
 }
