@@ -4322,5 +4322,131 @@
    "early_goal": 0,
    "goal_rate": 53.6
   }
+ },
+ "2026-10-19": {
+  "date": "2026-10-19",
+  "rows": [
+   {
+    "match": "Nottingham Forest at Sheffield United",
+    "league": "WSL Players Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-18T17:58:16.864617+00:00"
+   },
+   {
+    "match": "Casa Pia at Alpendorada",
+    "league": "Taca de Portugal",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Casa Pia",
+    "recorded_at": "2026-10-18T17:57:58.338314+00:00"
+   },
+   {
+    "match": "Vitoria Sernache at Brito",
+    "league": "Taca de Portugal",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 73,
+    "first_goal_team": "Vitoria Sernache",
+    "recorded_at": "2026-10-18T17:57:58.338314+00:00"
+   },
+   {
+    "match": "Académico de Viseu at Fatima",
+    "league": "Taca de Portugal",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 83,
+    "first_goal_team": "Fatima",
+    "recorded_at": "2026-10-18T17:57:58.338314+00:00"
+   },
+   {
+    "match": "Fafe at Felgueiras 1932",
+    "league": "Taca de Portugal",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 85,
+    "first_goal_team": "Felgueiras 1932",
+    "recorded_at": "2026-10-18T17:57:58.338314+00:00"
+   },
+   {
+    "match": "Estoril at Sagueiros",
+    "league": "Taca de Portugal",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Salgueiros",
+    "recorded_at": "2026-10-18T17:57:58.338314+00:00"
+   },
+   {
+    "match": "Alverca at Tondela",
+    "league": "Taca de Portugal",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 98,
+    "first_goal_team": "Tondela",
+    "recorded_at": "2026-10-18T17:57:58.338314+00:00"
+   },
+   {
+    "match": "Feyenoord Rotterdam at De Graafschap",
+    "league": "Dutch Vrouwen Eredivisie",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 92,
+    "first_goal_team": "De Graafschap",
+    "recorded_at": "2026-10-18T17:57:58.338314+00:00"
+   },
+   {
+    "match": "Hammarby IF at Halmstads BK",
+    "league": "Swedish Allsvenskan",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 91,
+    "first_goal_team": "Hammarby IF",
+    "recorded_at": "2026-10-18T17:57:58.338314+00:00"
+   },
+   {
+    "match": "Polokwane City FC at Siwelele",
+    "league": "South African Premier",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Siwelele",
+    "recorded_at": "2026-10-18T17:57:58.338314+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
