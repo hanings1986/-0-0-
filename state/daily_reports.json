@@ -4228,6 +4228,54 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-17T19:34:35.665039+00:00"
+   },
+   {
+    "match": "Gimnasia (Mendoza) at Vélez Sarsfield",
+    "league": "Argentine LPF",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 85,
+    "first_goal_team": "Vélez Sarsfield",
+    "recorded_at": "2026-10-18T01:31:37.931944+00:00"
+   },
+   {
+    "match": "Ituzaingó at Real Pilar",
+    "league": "Argentine Primera B",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-18T01:31:37.931944+00:00"
+   },
+   {
+    "match": "Pittsburgh Riverhounds at Rhode Island FC",
+    "league": "USL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 74,
+    "first_goal_team": "Rhode Island FC",
+    "recorded_at": "2026-10-18T01:31:37.931944+00:00"
+   },
+   {
+    "match": "Independiente Petrolero at Blooming",
+    "league": "Bolivian Liga Profesional",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-18T01:31:37.931944+00:00"
    }
   ],
   "generated_at": null
