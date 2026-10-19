@@ -2,16 +2,6 @@
  {
   "league_id": "23480",
   "league_name": "23480",
-  "match": "Chorley at Barton Town",
-  "final": "1:4",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
   "match": "Wingate & Finchley at Bedford Town",
   "final": "2:2",
   "goal_after_70": true,
@@ -7971,5 +7961,15 @@
   "goal_after_70": true,
   "date": "2026-10-18",
   "recorded_at": "2026-10-19T05:19:22.785887+00:00"
+ },
+ {
+  "league_id": "8316",
+  "league_name": "8316",
+  "match": "Mumbai City FC at Punjab FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T17:27:36.509004+00:00",
+  "backstop": true
  }
 ]
