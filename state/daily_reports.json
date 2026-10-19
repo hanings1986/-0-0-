@@ -4445,6 +4445,30 @@
     "first_goal_minute": 90,
     "first_goal_team": "Siwelele",
     "recorded_at": "2026-10-18T17:57:58.338314+00:00"
+   },
+   {
+    "match": "Independiente Santa Fe at Llaneros FC",
+    "league": "650",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Llaneros FC",
+    "recorded_at": "2026-10-19T05:19:20.525217+00:00"
+   },
+   {
+    "match": "Atlético Junior at Deportivo Cali",
+    "league": "650",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-19T05:19:20.525217+00:00"
    }
   ],
   "generated_at": null

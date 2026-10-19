@@ -1,145 +1,5 @@
 [
  {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Fleetwood Town at Salford City",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Carlisle United at Aldershot Town",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Wealdstone at Barrow",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Altrincham at Boreham Wood",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Woking at Eastleigh",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Worthing at Gateshead",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "AFC Hornchurch at Harrogate Town",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Tamworth at Hartlepool United",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Sutton United at Kidderminster Harriers",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "FC Halifax Town at Solihull Moors",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "AFC Fylde at Southend United",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Boston United at Yeovil Town",
-  "final": "6:0",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Dagenham & Redbridge at Brentwood Town",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Braintree Town at AFC Rushden & Diamonds",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
   "league_id": "23480",
   "league_name": "23480",
   "match": "Chorley at Barton Town",
@@ -7970,5 +7830,146 @@
   "date": "2026-10-18",
   "recorded_at": "2026-10-19T00:30:26.817662+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "8301",
+  "league_name": "8301",
+  "match": "Seattle Reign FC at Chicago Stars FC",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Pachuca at Monterrey",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23541",
+  "league_name": "23541",
+  "match": "FC Juárez at Atlético de San Luis",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23541",
+  "league_name": "23541",
+  "match": "Querétaro at Tigres UANL",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23541",
+  "league_name": "23541",
+  "match": "Pachuca at América",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "River Plate at Belgrano (Córdoba)",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Independiente Santa Fe at Llaneros FC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Atlético Junior at Deportivo Cali",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "670",
+  "league_name": "670",
+  "match": "UTC at Cienciano del Cusco",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "620",
+  "league_name": "620",
+  "match": "Oriente Petrolero at Guabirá",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3928",
+  "league_name": "3928",
+  "match": "CD Guastatoya at Municipal",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3928",
+  "league_name": "3928",
+  "match": "Suchitepequez at Marquense",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "C.D. Platense at CD FAS",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T05:19:20.525217+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Red Bull Bragantino at Remo",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-18",
+  "recorded_at": "2026-10-19T05:19:22.785887+00:00"
  }
 ]
