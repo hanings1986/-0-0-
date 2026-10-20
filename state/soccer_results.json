@@ -2,36 +2,6 @@
  {
   "league_id": "23480",
   "league_name": "23480",
-  "match": "Wingate & Finchley at Bedford Town",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Chelmsford at Brackley Town",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Bromsgrove Sporting at Bury",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
   "match": "Spalding United at Bury Town U21",
   "final": "1:1",
   "goal_after_70": true,
@@ -7970,6 +7940,36 @@
   "goal_after_70": true,
   "date": "2026-10-19",
   "recorded_at": "2026-10-19T17:27:36.509004+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Central Córdoba (Santiago del Estero) at Newell's Old Boys",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-20T00:44:55.453349+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Barracas Central at Sarmiento (Junín)",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-20T00:44:55.453349+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "Brazil Serie B",
+  "match": "Náutico at Goiás",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-20T00:44:55.453349+00:00",
   "backstop": true
  }
 ]
