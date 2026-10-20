@@ -4487,6 +4487,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-20T00:44:55.453349+00:00"
+   },
+   {
+    "match": "Santos at Toluca",
+    "league": "23541",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-20T05:26:25.704662+00:00"
    }
   ],
   "generated_at": null

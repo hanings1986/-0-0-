@@ -2,96 +2,6 @@
  {
   "league_id": "23480",
   "league_name": "23480",
-  "match": "Spalding United at Bury Town U21",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "South Shields at Buxton",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Alvechurch at Cambridge City",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Real Bedford at Chesham United",
-  "final": "4:3",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Chippenham Town at Cray Wanderers",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Wimborne Town at Crowborough Athletic",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Chatham Town at Dorking Wanderers",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Sholing at Ebbsfleet United",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Anstey Nomads at Gainsborough Trinity",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
   "match": "Bradford Park Avenue at Guiseley",
   "final": "1:0",
   "goal_after_70": true,
@@ -7971,5 +7881,94 @@
   "date": "2026-10-20",
   "recorded_at": "2026-10-20T00:44:55.453349+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "23541",
+  "league_name": "23541",
+  "match": "Santos at Toluca",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-20T05:26:25.704662+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "23541",
+  "league_name": "23541",
+  "match": "Atlante at León",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-20T05:26:25.704662+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Unión (Santa Fe) at Deportivo Riestra",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-20T05:26:25.704662+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Alianza FC at Deportivo Pasto",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-20T05:26:25.704662+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4005",
+  "league_name": "4005",
+  "match": "AD San Carlos at Sporting San José",
+  "final": "3:3",
+  "goal_after_70": true,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-20T05:26:25.704662+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4005",
+  "league_name": "4005",
+  "match": "Puntarenas FC at Escorpiones Belén",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-20T05:26:25.704662+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3928",
+  "league_name": "3928",
+  "match": "Xelajú MC at Antigua GFC",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-20T05:26:25.704662+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Vitória at Corinthians",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-20T05:26:26.550649+00:00"
+ },
+ {
+  "league_id": "680",
+  "league_name": "680",
+  "match": "Deportivo Maldonado at Nacional",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-20T05:26:26.550850+00:00"
  }
 ]
