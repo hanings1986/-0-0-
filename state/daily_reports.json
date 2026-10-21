@@ -4524,6 +4524,30 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-20T22:34:29.035864+00:00"
+   },
+   {
+    "match": "Necaxa at Guadalajara",
+    "league": "760",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "Guadalajara",
+    "recorded_at": "2026-10-21T05:54:50.333920+00:00"
+   },
+   {
+    "match": "Atlante at FC Juárez",
+    "league": "760",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Atlante",
+    "recorded_at": "2026-10-21T05:54:50.333920+00:00"
    }
   ],
   "generated_at": null

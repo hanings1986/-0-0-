@@ -2,116 +2,6 @@
  {
   "league_id": "23480",
   "league_name": "23480",
-  "match": "St Albans City at Harborough Town",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Worcester City at Kettering Town",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Hanworth Villa FC at Leatherhead",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Coventry United at Leiston",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Scarborough Athletic at Macclesfield FC",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Warrington Town at Marine",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Darlington at Morecambe",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Gloucester City at Mulbarton Wanderers",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Enfield Town at Oxford City",
-  "final": "6:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Horsham at Plymouth Parkway",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
-  "match": "Berkhamsted at Redditch United",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
   "match": "Dulwich Hamlet at Salisbury FC",
   "final": "5:0",
   "goal_after_70": true,
@@ -7970,5 +7860,115 @@
   "date": "2026-10-20",
   "recorded_at": "2026-10-21T00:56:59.568558+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Necaxa at Guadalajara",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-21T05:54:50.333920+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Querétaro at Atlético de San Luis",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-21T05:54:50.333920+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Atlante at FC Juárez",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-21T05:54:50.333920+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "León at Tigres UANL",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-21T05:54:50.333920+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23541",
+  "league_name": "23541",
+  "match": "Necaxa at Guadalajara",
+  "final": "7:0",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-21T05:54:50.333920+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "5454",
+  "league_name": "5454",
+  "match": "Boca Juniors at Vasco da Gama",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-21T05:54:50.333920+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Atlético Nacional at Cúcuta Deportivo",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-21T05:54:50.333920+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Once Caldas at Millonarios",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-21T05:54:50.333920+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "22947",
+  "league_name": "22947",
+  "match": "Alianza FC at Club Deportivo Marathón",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-21T05:54:50.333920+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Fortaleza CEIF at Internacional de Bogotá",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-21T05:54:51.504155+00:00"
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "Aurora at Independiente Petrolero",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-21T05:54:51.504179+00:00"
  }
 ]
