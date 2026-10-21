@@ -4566,6 +4566,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-21T16:06:37.669347+00:00"
+   },
+   {
+    "match": "Antofagasta at Universidad de Chile",
+    "league": "Copa Chile",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-21T23:22:30.009138+00:00"
    }
   ],
   "generated_at": null
