@@ -2,16 +2,6 @@
  {
   "league_id": "23480",
   "league_name": "23480",
-  "match": "Dover Athletic at Hanwell Town FC",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23480",
-  "league_name": "23480",
   "match": "St Albans City at Harborough Town",
   "final": "3:2",
   "goal_after_70": true,
@@ -7969,6 +7959,16 @@
   "goal_after_70": false,
   "date": "2026-10-20",
   "recorded_at": "2026-10-20T22:34:29.035864+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Cuiabá at Londrina",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-20",
+  "recorded_at": "2026-10-21T00:56:59.568558+00:00",
   "backstop": true
  }
 ]
