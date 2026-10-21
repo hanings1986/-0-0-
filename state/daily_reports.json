@@ -4551,5 +4551,23 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-10-22": {
+  "date": "2026-10-22",
+  "rows": [
+   {
+    "match": "Kashiwa Reysol at FC Tokyo",
+    "league": "Japanese J1 League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-21T16:06:37.669347+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
