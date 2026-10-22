@@ -4602,6 +4602,54 @@
     "first_goal_minute": 77,
     "first_goal_team": "Louisville City FC",
     "recorded_at": "2026-10-22T01:43:47.488639+00:00"
+   },
+   {
+    "match": "St. Louis CITY SC at Columbus Crew",
+    "league": "U.S. Open Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-22T06:39:31.764706+00:00"
+   },
+   {
+    "match": "Fluminense at Palmeiras",
+    "league": "783",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "Fluminense",
+    "recorded_at": "2026-10-22T06:39:31.764706+00:00"
+   },
+   {
+    "match": "Saprissa at Luis Ángel Firpo",
+    "league": "22947",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-22T06:39:31.764706+00:00"
+   },
+   {
+    "match": "Isidro Metapán at CD FAS",
+    "league": "3943",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-22T06:39:31.764706+00:00"
    }
   ],
   "generated_at": null
