@@ -4578,6 +4578,30 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-21T23:22:30.009138+00:00"
+   },
+   {
+    "match": "Atlético-MG at Montevideo City Torque",
+    "league": "CONMEBOL Sudamericana",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 89,
+    "first_goal_team": "Montevideo City Torque",
+    "recorded_at": "2026-10-22T01:43:47.488639+00:00"
+   },
+   {
+    "match": "Louisville City FC at Sporting JAX",
+    "league": "USL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "Louisville City FC",
+    "recorded_at": "2026-10-22T01:43:47.488639+00:00"
    }
   ],
   "generated_at": null

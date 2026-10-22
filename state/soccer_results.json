@@ -1,75 +1,5 @@
 [
  {
-  "league_id": "3940",
-  "league_name": "3940",
-  "match": "Raith Rovers at Greenock Morton",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3940",
-  "league_name": "3940",
-  "match": "Ayr United at Livingston",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3940",
-  "league_name": "3940",
-  "match": "Arbroath at Partick Thistle",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3933",
-  "league_name": "3933",
-  "match": "MVV Maastricht at TOP Oss",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3933",
-  "league_name": "3933",
-  "match": "NAC Breda at Vitesse",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "4007",
-  "league_name": "Brazil Serie B",
-  "match": "Ceará at Avaí",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
-  "league_id": "680",
-  "league_name": "680",
-  "match": "Progreso at Liverpool",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-03T17:27:15.464402+00:00",
-  "backstop": true
- },
- {
   "league_id": "2391",
   "league_name": "2391",
   "match": "15 de Agosto at Fomboni",
@@ -7970,6 +7900,76 @@
   "goal_after_70": false,
   "date": "2026-10-21",
   "recorded_at": "2026-10-21T23:22:30.009138+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "D.C. United at FC Cincinnati",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-22T01:43:47.488639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4002",
+  "league_name": "4002",
+  "match": "Birmingham Legion FC at Brooklyn FC",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-22T01:43:47.488639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4002",
+  "league_name": "USL Championship",
+  "match": "Louisville City FC at Sporting JAX",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-22",
+  "recorded_at": "2026-10-22T01:43:47.488639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "FC Naples at Sarasota Paradise",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-22T01:43:47.488639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "5454",
+  "league_name": "CONMEBOL Sudamericana",
+  "match": "Atlético-MG at Montevideo City Torque",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-22T01:43:47.488639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Deportivo Cali at Llaneros FC",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-22T01:43:47.488639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "Bolívar at Real Potosí",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-10-21",
+  "recorded_at": "2026-10-22T01:43:47.488639+00:00",
   "backstop": true
  }
 ]
