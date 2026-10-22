@@ -2,36 +2,6 @@
  {
   "league_id": "19915",
   "league_name": "19915",
-  "match": "New York Cosmos at FC Naples",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T02:36:43.632512+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "AV Alta FC at Westchester SC",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T02:36:43.632512+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19915",
-  "league_name": "USL League One",
-  "match": "Forward Madison FC at Fort Wayne",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T02:36:43.632512+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19915",
-  "league_name": "19915",
   "match": "Charlotte Independence at Sarasota Paradise",
   "final": "2:3",
   "goal_after_70": true,
@@ -7975,5 +7945,35 @@
   "goal_after_70": true,
   "date": "2026-10-22",
   "recorded_at": "2026-10-22T06:39:32.321188+00:00"
+ },
+ {
+  "league_id": "20296",
+  "league_name": "20296",
+  "match": "Panathinaikos at Kairat Almaty",
+  "final": "1:5",
+  "goal_after_70": true,
+  "date": "2026-10-22",
+  "recorded_at": "2026-10-22T17:35:00.109259+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "21231",
+  "match": "Al Fayha at Al Hazem",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-10-22",
+  "recorded_at": "2026-10-22T17:35:00.109259+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "21231",
+  "match": "Al Shabab at Al Fateh",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-10-22",
+  "recorded_at": "2026-10-22T17:35:00.109259+00:00",
+  "backstop": true
  }
 ]
