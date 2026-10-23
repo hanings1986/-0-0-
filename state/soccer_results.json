@@ -1,25 +1,5 @@
 [
  {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Charlotte Independence at Sarasota Paradise",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T02:36:43.632512+00:00",
-  "backstop": true
- },
- {
-  "league_id": "24220",
-  "league_name": "24220",
-  "match": "Atlético de San Luis at Querétaro",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-04T02:36:43.632512+00:00",
-  "backstop": true
- },
- {
   "league_id": "8313",
   "league_name": "8313",
   "match": "Millonarios at Barranquilla FC",
@@ -7974,6 +7954,26 @@
   "goal_after_70": true,
   "date": "2026-10-22",
   "recorded_at": "2026-10-22T17:35:00.109259+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23633",
+  "league_name": "USL Super League",
+  "match": "Carolina Ascent FC at Fort Lauderdale United FC",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-22",
+  "recorded_at": "2026-10-23T02:02:18.061055+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "The Strongest at Always Ready",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-23",
+  "recorded_at": "2026-10-23T02:02:18.061055+00:00",
   "backstop": true
  }
 ]
