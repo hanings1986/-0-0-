@@ -4668,6 +4668,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-23T02:02:18.061055+00:00"
+   },
+   {
+    "match": "Estudiantes de La Plata at Flamengo",
+    "league": "CONMEBOL Libertadores",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-23T07:27:49.320346+00:00"
    }
   ],
   "generated_at": null
