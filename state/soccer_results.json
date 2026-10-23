@@ -1,34 +1,5 @@
 [
  {
-  "league_id": "23284",
-  "league_name": "23284",
-  "match": "Universitario de Vinto at The Strongest",
-  "final": "5:2",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T02:36:43.632512+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3943",
-  "league_name": "3943",
-  "match": "Atletico Balboa at Isidro Metapán",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T02:36:43.632512+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8301",
-  "league_name": "8301",
-  "match": "Boston Legacy FC at Portland Thorns FC",
-  "final": "2:4",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T08:47:45.664568+00:00"
- },
- {
   "league_id": "4002",
   "league_name": "USL Championship",
   "match": "Oakland Roots at Colorado Springs Switchbacks FC",
@@ -7973,6 +7944,36 @@
   "goal_after_70": true,
   "date": "2026-10-23",
   "recorded_at": "2026-10-23T12:49:39.641456+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "21231",
+  "match": "Al Nassr at Al Faisaly",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-10-23",
+  "recorded_at": "2026-10-23T17:37:17.755816+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8316",
+  "league_name": "8316",
+  "match": "East Bengal FC at Inter Kashi",
+  "final": "1:5",
+  "goal_after_70": true,
+  "date": "2026-10-23",
+  "recorded_at": "2026-10-23T17:37:17.755816+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2391",
+  "league_name": "2391",
+  "match": "Scottland Mabvuku at Petro de Luanda",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-10-23",
+  "recorded_at": "2026-10-23T17:37:17.755816+00:00",
   "backstop": true
  }
 ]
