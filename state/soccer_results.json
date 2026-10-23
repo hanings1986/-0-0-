@@ -1,15 +1,5 @@
 [
  {
-  "league_id": "3934",
-  "league_name": "3934",
-  "match": "Libertad at Deportivo Recoleta",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-03",
-  "recorded_at": "2026-10-04T02:36:43.632512+00:00",
-  "backstop": true
- },
- {
   "league_id": "23284",
   "league_name": "23284",
   "match": "Universitario de Vinto at The Strongest",
@@ -7974,5 +7964,15 @@
   "goal_after_70": false,
   "date": "2026-10-23",
   "recorded_at": "2026-10-23T07:27:49.320346+00:00"
+ },
+ {
+  "league_id": "3906",
+  "league_name": "3906",
+  "match": "Perth Glory FC at Brisbane Roar FC",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-23",
+  "recorded_at": "2026-10-23T12:49:39.641456+00:00",
+  "backstop": true
  }
 ]
