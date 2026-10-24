@@ -1,78 +1,5 @@
 [
  {
-  "league_id": "4002",
-  "league_name": "USL Championship",
-  "match": "Oakland Roots at Colorado Springs Switchbacks FC",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T08:47:45.708751+00:00"
- },
- {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Portland Hearts of Pine at Spokane Velocity FC",
-  "final": "3:3",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T08:47:45.761020+00:00"
- },
- {
-  "league_id": "3932",
-  "league_name": "Liga de Expansión MX",
-  "match": "Tapatío at Cancún FC",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T08:47:45.804646+00:00"
- },
- {
-  "league_id": "3932",
-  "league_name": "3932",
-  "match": "Tlaxcala FC at Club Atlético Morelia",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T08:47:45.845601+00:00"
- },
- {
-  "league_id": "3932",
-  "league_name": "3932",
-  "match": "Mineros de Zacatecas at Durango",
-  "final": "4:2",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T08:47:45.887126+00:00"
- },
- {
-  "league_id": "3932",
-  "league_name": "3932",
-  "match": "Alebrijes de Oaxaca at Piratas",
-  "final": "4:0",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T08:47:45.929533+00:00"
- },
- {
-  "league_id": "3943",
-  "league_name": "3943",
-  "match": "Luis Ángel Firpo at Alianza FC",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T08:47:45.969747+00:00"
- },
- {
-  "league_id": "20956",
-  "league_name": "20956",
-  "match": "Dux Logroño at CD Tenerife",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T14:27:36.926584+00:00",
-  "backstop": true
- },
- {
   "league_id": "20956",
   "league_name": "20956",
   "match": "Eibar at Granada",
@@ -7974,6 +7901,86 @@
   "goal_after_70": true,
   "date": "2026-10-23",
   "recorded_at": "2026-10-23T17:37:17.755816+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23633",
+  "league_name": "23633",
+  "match": "Sporting Jax at Lexington SC",
+  "final": "3:3",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T01:58:20.424574+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23286",
+  "league_name": "Northern Super League",
+  "match": "Ottawa Rapid FC at Montreal Roses FC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-23",
+  "recorded_at": "2026-10-24T01:58:20.424574+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Remo at Cruzeiro",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-23",
+  "recorded_at": "2026-10-24T01:58:20.424574+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Athletic at Operário PR",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-23",
+  "recorded_at": "2026-10-24T01:58:20.424574+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "640",
+  "league_name": "640",
+  "match": "Huachipato at Audax Italiano",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-23",
+  "recorded_at": "2026-10-24T01:58:20.424574+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "680",
+  "league_name": "Liga AUF Uruguaya",
+  "match": "Peñarol at Juventud",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-23",
+  "recorded_at": "2026-10-24T01:58:20.424574+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Atlético Bucaramanga at Boyacá Chicó FC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-23",
+  "recorded_at": "2026-10-24T01:58:20.424574+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3934",
+  "league_name": "Paraguayan Primera",
+  "match": "Sportivo Luqueño at Libertad",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-23",
+  "recorded_at": "2026-10-24T01:58:20.424574+00:00",
   "backstop": true
  }
 ]

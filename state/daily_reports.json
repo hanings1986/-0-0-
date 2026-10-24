@@ -4683,5 +4683,47 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-10-24": {
+  "date": "2026-10-24",
+  "rows": [
+   {
+    "match": "Ottawa Rapid FC at Montreal Roses FC",
+    "league": "Northern Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Montreal Roses FC",
+    "recorded_at": "2026-10-24T01:58:20.424574+00:00"
+   },
+   {
+    "match": "Peñarol at Juventud",
+    "league": "Liga AUF Uruguaya",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T01:58:20.424574+00:00"
+   },
+   {
+    "match": "Sportivo Luqueño at Libertad",
+    "league": "Paraguayan Primera",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Libertad",
+    "recorded_at": "2026-10-24T01:58:20.424574+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
