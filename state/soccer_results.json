@@ -1,76 +1,5 @@
 [
  {
-  "league_id": "20956",
-  "league_name": "20956",
-  "match": "Eibar at Granada",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T14:27:36.926584+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "CSU Craiova at CSM Slatina",
-  "final": "0:4",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T14:27:36.926584+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "FK Uni Iks Labs Minsk at Dinamo Minsk",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T14:27:36.926584+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "Rodina Moscow at Dinamo Moscow",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T14:27:36.926584+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "FC Zorya Luhansk at FC Kolos Kovalivka",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T14:27:36.926584+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "FC Arsenal Tula at CSKA Moscow",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T14:27:36.926584+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3921",
-  "league_name": "3921",
-  "match": "Granada at Real Sociedad II",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T14:27:36.926584+00:00",
-  "backstop": true
- },
- {
   "league_id": "19945",
   "league_name": "19945",
   "match": "FC Utrecht at FC Twente",
@@ -7982,5 +7911,71 @@
   "date": "2026-10-23",
   "recorded_at": "2026-10-24T01:58:20.424574+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3906",
+  "league_name": "3906",
+  "match": "Macarthur FC at Newcastle Jets",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T07:11:37.528748+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18992",
+  "league_name": "18992",
+  "match": "Canberra United  at Central Coast Mariners",
+  "final": "5:1",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T07:11:37.528748+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Shimizu S-Pulse at Sanfrecce Hiroshima",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T07:11:37.528748+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8301",
+  "league_name": "8301",
+  "match": "Houston Dash at Chicago Stars FC",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T07:11:38.224669+00:00"
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Atlético Tucumán at Tigre",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T07:11:38.398635+00:00"
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Criciúma at Sport",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T07:11:38.603361+00:00"
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "Internacional Santa Tecla at Inca Aruba",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T07:11:38.745770+00:00"
  }
 ]

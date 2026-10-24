@@ -4722,6 +4722,30 @@
     "first_goal_minute": 71,
     "first_goal_team": "Libertad",
     "recorded_at": "2026-10-24T01:58:20.424574+00:00"
+   },
+   {
+    "match": "Atlético Tucumán at Tigre",
+    "league": "745",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Atlético Tucumán",
+    "recorded_at": "2026-10-24T07:11:38.398635+00:00"
+   },
+   {
+    "match": "Criciúma at Sport",
+    "league": "4007",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:1",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Sport",
+    "recorded_at": "2026-10-24T07:11:38.603361+00:00"
    }
   ],
   "generated_at": null
