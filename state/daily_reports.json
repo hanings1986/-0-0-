@@ -4746,6 +4746,54 @@
     "first_goal_minute": 76,
     "first_goal_team": "Sport",
     "recorded_at": "2026-10-24T07:11:38.603361+00:00"
+   },
+   {
+    "match": "Perth Glory at Adelaide United ",
+    "league": "18992",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T12:05:24.498639+00:00"
+   },
+   {
+    "match": "Machida Zelvia at Vissel Kobe",
+    "league": "750",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T12:05:24.498639+00:00"
+   },
+   {
+    "match": "Sevilla at Athletic Club",
+    "league": "Liga F",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T12:05:24.498639+00:00"
+   },
+   {
+    "match": "Paris FC at Saint-Malo",
+    "league": "Première Ligue",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T12:05:24.498639+00:00"
    }
   ],
   "generated_at": null

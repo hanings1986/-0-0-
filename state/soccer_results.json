@@ -2,198 +2,6 @@
  {
   "league_id": "19945",
   "league_name": "19945",
-  "match": "FC Utrecht at FC Twente",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T14:27:36.926584+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2395",
-  "league_name": "2395",
-  "match": "Lithuania at Azerbaijan",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "Senegal at Comoros",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "Lebanon at Kyrgyz Republic",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Sporting Hortaleza at Atlético Unión Güímar",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "CF San Rafael at AE Prat",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Auriense Cented Academy at CD San José",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Ribadesella at SD Noja",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8097",
-  "league_name": "8097",
-  "match": "Crystal Palace at Aston Villa",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8097",
-  "league_name": "8097",
-  "match": "Charlton Athletic at Brighton & Hove Albion",
-  "final": "5:1",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8097",
-  "league_name": "8097",
-  "match": "Birmingham City at Everton",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8097",
-  "league_name": "8097",
-  "match": "London City Lionesses at Tottenham Hotspur",
-  "final": "1:6",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8097",
-  "league_name": "8097",
-  "match": "Chelsea at West Ham United",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20955",
-  "league_name": "20955",
-  "match": "Paris Saint-Germain at FC Fleury 91",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "F.C. København at Hamburg SV",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "Anorthosis at Enosis Neon Paralimni",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "KF Bashkimi 1947 at Gjilani",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "Cherno More at Ludogorets Razgrad",
-  "final": "5:0",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3921",
-  "league_name": "3921",
-  "match": "RC Celta Fortuna at Sporting Gijón",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-10-04",
-  "recorded_at": "2026-10-04T18:19:53.137533+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19945",
-  "league_name": "19945",
   "match": "PSV Eindhoven at ADO Den Haag",
   "final": "0:3",
   "goal_after_70": true,
@@ -7977,5 +7785,197 @@
   "goal_after_70": true,
   "date": "2026-10-24",
   "recorded_at": "2026-10-24T07:11:38.745770+00:00"
+ },
+ {
+  "league_id": "20956",
+  "league_name": "Liga F",
+  "match": "Sevilla at Athletic Club",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20956",
+  "league_name": "20956",
+  "match": "Espanyol at Real Sociedad",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20955",
+  "league_name": "Première Ligue",
+  "match": "Paris FC at Saint-Malo",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3906",
+  "league_name": "3906",
+  "match": "Auckland FC at Western Sydney Wanderers FC",
+  "final": "5:2",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3906",
+  "league_name": "3906",
+  "match": "Melbourne City FC at Melbourne Victory",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18992",
+  "league_name": "18992",
+  "match": "Perth Glory at Adelaide United ",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "3939",
+  "league_name": "3939",
+  "match": "Dinamo Moscow at Akron Tolyatti",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "Dalian Yingbo at Chengdu Rongcheng",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "Qingdao Hainiu at Chongqing Tonglianglong",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "Beijing Guoan at Henan",
+  "final": "3:4",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "Zhejiang Professional FC at Liaoning Tieren",
+  "final": "2:4",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "Yunnan Yukun at Qingdao West Coast",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "SHANGHAI SHENHUA FC at Shenzhen Xinpengcheng",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "Shanghai Port FC at Tianjin Jinmen Tiger",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8376",
+  "league_name": "8376",
+  "match": "Shandong Taishan at Wuhan Three Towns",
+  "final": "3:5",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Kashiwa Reysol at Kashima Antlers",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Avispa Fukuoka at Tokyo Verdy 1969",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Machida Zelvia at Vissel Kobe",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Kyoto Sanga at Gamba Osaka",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-10-24",
+  "recorded_at": "2026-10-24T12:05:24.498639+00:00",
+  "backstop": true
  }
 ]
