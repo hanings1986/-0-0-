@@ -4972,5 +4972,95 @@
    "early_goal": 0,
    "goal_rate": 43.5
   }
+ },
+ "2026-10-25": {
+  "date": "2026-10-25",
+  "rows": [
+   {
+    "match": "Fulham at Coventry City",
+    "league": "700",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Fulham",
+    "recorded_at": "2026-10-24T18:42:25.976612+00:00"
+   },
+   {
+    "match": "PEC Zwolle at FC Utrecht",
+    "league": "725",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "PEC Zwolle",
+    "recorded_at": "2026-10-24T18:42:25.328891+00:00"
+   },
+   {
+    "match": "Cowdenbeath at Brora Rangers",
+    "league": "3959",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "3:1",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "Cowdenbeath",
+    "recorded_at": "2026-10-24T18:42:25.976693+00:00"
+   },
+   {
+    "match": "Krylia Sovetov at Rubin Kazan",
+    "league": "3939",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Krylia Sovetov",
+    "recorded_at": "2026-10-24T18:42:25.976730+00:00"
+   },
+   {
+    "match": "Milton Keynes Dons at Stevenage",
+    "league": "3915",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 81,
+    "first_goal_team": "Milton Keynes Dons",
+    "recorded_at": "2026-10-24T18:42:25.976763+00:00"
+   },
+   {
+    "match": "NorthEast United FC at Odisha FC",
+    "league": "Indian Super League",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T18:42:25.976835+00:00"
+   },
+   {
+    "match": "Clachnacuddin at Bonnyton Thistle",
+    "league": "3959",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T18:42:25.328891+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
