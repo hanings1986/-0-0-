@@ -4794,8 +4794,183 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-24T12:05:24.498639+00:00"
+   },
+   {
+    "match": "Arminia Bielefeld at Hertha Berlin",
+    "league": "3927",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 92,
+    "first_goal_team": "Hertha Berlin",
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "Swindon Town at Bristol Rovers",
+    "league": "3916",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "1. FC Union Berlin at FC Augsburg",
+    "league": "Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "FC Augsburg",
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "Schalke 04 at FC Cologne",
+    "league": "Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "Hamburg SV at SC Paderborn 07",
+    "league": "Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 88,
+    "first_goal_team": "SC Paderborn 07",
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "West Bromwich Albion at Preston North End",
+    "league": "EFL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "Preston North End",
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "Bristol City at Stoke City",
+    "league": "EFL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "Keith at Dumbarton",
+    "league": "Scottish Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Dumbarton",
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "Musselburgh Athletic at Hill of Beath Hawthorn",
+    "league": "Scottish Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "Formartine United at Johnstone Burgh FC",
+    "league": "Scottish Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "Pollok at Threave Rovers",
+    "league": "Scottish Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "Bradford City at Oxford United",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "Ayr United at Greenock Morton",
+    "league": "SPFL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
+   },
+   {
+    "match": "Arbroath at Livingston",
+    "league": "SPFL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 92,
+    "first_goal_team": "Livingston",
+    "recorded_at": "2026-10-24T15:54:36.982149+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-10-24T15:55:01.969967+00:00",
+  "summary": {
+   "total": 23,
+   "goal_after_70": 10,
+   "clean_00": 13,
+   "early_goal": 0,
+   "goal_rate": 43.5
+  }
  }
 }
