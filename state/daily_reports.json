@@ -5119,6 +5119,54 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-25T01:30:09.101766+00:00"
+   },
+   {
+    "match": "San Jose Earthquakes at FC Dallas",
+    "league": "770",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "3:0",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "FC Dallas",
+    "recorded_at": "2026-10-25T06:46:28.817811+00:00"
+   },
+   {
+    "match": "Minnesota United FC at Houston Dynamo FC",
+    "league": "770",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T06:46:28.817811+00:00"
+   },
+   {
+    "match": "Peterborough United at Lye Town",
+    "league": "Women's FA Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T06:46:28.817811+00:00"
+   },
+   {
+    "match": "Vancouver Whitecaps at Colorado Rapids",
+    "league": "770",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 81,
+    "first_goal_team": "Colorado Rapids",
+    "recorded_at": "2026-10-25T06:46:28.817811+00:00"
    }
   ],
   "generated_at": null
