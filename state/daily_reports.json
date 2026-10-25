@@ -5059,6 +5059,66 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-24T18:42:25.328891+00:00"
+   },
+   {
+    "match": "Indy Eleven at Charleston Battery",
+    "league": "USL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "Charleston Battery",
+    "recorded_at": "2026-10-25T01:30:09.101766+00:00"
+   },
+   {
+    "match": "Detroit City FC at Louisville City FC",
+    "league": "USL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T01:30:09.101766+00:00"
+   },
+   {
+    "match": "Union Omaha at Forward Madison FC",
+    "league": "USL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T01:30:09.101766+00:00"
+   },
+   {
+    "match": "Spokane Velocity FC at FC Naples",
+    "league": "USL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 94,
+    "first_goal_team": "FC Naples",
+    "recorded_at": "2026-10-25T01:30:09.101766+00:00"
+   },
+   {
+    "match": "Newell's Old Boys at San Lorenzo",
+    "league": "Argentine LPF",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T01:30:09.101766+00:00"
    }
   ],
   "generated_at": null
