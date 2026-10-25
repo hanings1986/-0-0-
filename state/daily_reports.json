@@ -5269,6 +5269,42 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-25T16:19:37.880046+00:00"
+   },
+   {
+    "match": "Bayer Leverkusen at TSG Hoffenheim",
+    "league": "720",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "3:0",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "TSG Hoffenheim",
+    "recorded_at": "2026-10-25T19:09:11.715935+00:00"
+   },
+   {
+    "match": "Rotherham United at Leeds United",
+    "league": "20226",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T19:09:10.012784+00:00"
+   },
+   {
+    "match": "Peterborough United at Lye Town",
+    "league": "20226",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T19:09:10.012784+00:00"
    }
   ],
   "generated_at": null

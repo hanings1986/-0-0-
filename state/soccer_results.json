@@ -1,184 +1,5 @@
 [
  {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Columbus Crew at Orlando City SC",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Real Salt Lake at Philadelphia Union",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "San Diego FC at Red Bull New York",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Nashville SC at Austin FC",
-  "final": "1:4",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Houston Dynamo FC at Minnesota United FC",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Portland Timbers at Sporting Kansas City",
-  "final": "3:3",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "San Jose Earthquakes at Colorado Rapids",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Vancouver Whitecaps at LAFC",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3929",
-  "league_name": "3929",
-  "match": "CD Choloma at FC Motagua",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3929",
-  "league_name": "3929",
-  "match": "Club Deportivo Marathón at UPNFM",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "3943",
-  "league_name": "3943",
-  "match": "Luis Ángel Firpo at CD Municipal Limeño",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:26:57.907947+00:00",
-  "backstop": true
- },
- {
-  "league_id": "760",
-  "league_name": "760",
-  "match": "Tijuana at FC Juárez",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:27:01.527551+00:00"
- },
- {
-  "league_id": "3932",
-  "league_name": "Liga de Expansión MX",
-  "match": "Leones Negros at Venados FC",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T06:27:01.690511+00:00"
- },
- {
-  "league_id": "730",
-  "league_name": "Serie A",
-  "match": "AS Roma at Como",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T13:24:34.710088+00:00",
-  "backstop": true
- },
- {
-  "league_id": "725",
-  "league_name": "725",
-  "match": "Willem II at FC Utrecht",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T13:24:34.710088+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3914",
-  "league_name": "3914",
-  "match": "Portsmouth at Southampton",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T13:24:34.710088+00:00",
-  "backstop": true
- },
- {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Celtic at Motherwell",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T13:24:34.710088+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3946",
-  "league_name": "Turkish Super Lig",
-  "match": "Istanbul Basaksehir at Konyaspor",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T13:24:34.710088+00:00",
-  "backstop": true
- },
- {
   "league_id": "19834",
   "league_name": "Club Friendly",
   "match": "IF Brommapojkarna at IK Sirius",
@@ -7955,5 +7776,185 @@
   "date": "2026-10-25",
   "recorded_at": "2026-10-25T16:19:37.880046+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Dartford at Brentford",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Dulwich Hamlet at Haringey Borough",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Wroxham at Kidderminster",
+  "final": "4:2",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Liverpool Feds at Leeds Modernians",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Rotherham United at Leeds United",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Cambridge United WFC at Luton Town",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Saltdean United at Moneyfields",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Stoke City at Northampton Town",
+  "final": "0:4",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Redditch Borough at Norwich City",
+  "final": "5:2",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Millwall at Plymouth Argyle",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Cheltenham Town at Portsmouth",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Lewes at Queens Park Rangers",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Crewe Alexandra at Royston Town",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Portishead Town at St Agnes AFC",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "AFC Fylde at Stockton",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Derby County at Sutton Coldfield Town",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Notts County at West Bromwich Albion",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:10.012784+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "720",
+  "league_name": "720",
+  "match": "Bayer Leverkusen at TSG Hoffenheim",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T19:09:11.715935+00:00"
  }
 ]
