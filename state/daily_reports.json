@@ -5182,5 +5182,95 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-10-26": {
+  "date": "2026-10-26",
+  "rows": [
+   {
+    "match": "Excelsior at Fortuna Sittard",
+    "league": "725",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 91,
+    "first_goal_team": "Fortuna Sittard",
+    "recorded_at": "2026-10-25T16:19:37.880046+00:00"
+   },
+   {
+    "match": "Middlesbrough at Huddersfield Town",
+    "league": "Women's FA Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T16:19:37.880046+00:00"
+   },
+   {
+    "match": "i2i International at Preston North End",
+    "league": "Women's FA Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T16:19:37.880046+00:00"
+   },
+   {
+    "match": "SJR Workshop at South Shields",
+    "league": "Women's FA Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T16:19:37.880046+00:00"
+   },
+   {
+    "match": "Chester-le-Street Town at Wigan Athletic",
+    "league": "Women's FA Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T16:19:37.880046+00:00"
+   },
+   {
+    "match": "Mancunian Unity at Workington Town",
+    "league": "Women's FA Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T16:19:37.880046+00:00"
+   },
+   {
+    "match": "Mumbai City FC at Kerala Blasters FC",
+    "league": "Indian Super League",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-25T16:19:37.880046+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
