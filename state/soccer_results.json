@@ -1,76 +1,5 @@
 [
  {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Hibernian at Dundee United",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-10",
-  "recorded_at": "2026-10-10T18:02:07.723416+00:00",
-  "backstop": true
- },
- {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Dundee at Falkirk",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-10",
-  "recorded_at": "2026-10-10T18:02:07.723416+00:00",
-  "backstop": true
- },
- {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "St Mirren at Heart of Midlothian",
-  "final": "5:0",
-  "goal_after_70": true,
-  "date": "2026-10-10",
-  "recorded_at": "2026-10-10T18:02:07.723416+00:00",
-  "backstop": true
- },
- {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Kilmarnock at Rangers",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-10",
-  "recorded_at": "2026-10-10T18:02:07.723416+00:00",
-  "backstop": true
- },
- {
-  "league_id": "21231",
-  "league_name": "21231",
-  "match": "Neom SC at Al Hazem",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-10",
-  "recorded_at": "2026-10-10T18:02:07.723416+00:00",
-  "backstop": true
- },
- {
-  "league_id": "21231",
-  "league_name": "21231",
-  "match": "Al Khaleej at Al Ettifaq",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-10",
-  "recorded_at": "2026-10-10T18:02:07.723416+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3946",
-  "league_name": "3946",
-  "match": "Erzurum BB at Alanyaspor",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-10",
-  "recorded_at": "2026-10-10T18:02:07.723416+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
   "league_id": "3946",
   "league_name": "3946",
   "match": "Trabzonspor at Samsunspor",
@@ -7959,5 +7888,75 @@
   "date": "2026-10-25",
   "recorded_at": "2026-10-25T06:46:28.817811+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "24081",
+  "league_name": "24081",
+  "match": "Auckland United FC at Naegohyang",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T12:07:41.777421+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18992",
+  "league_name": "18992",
+  "match": "Melbourne City at Sydney FC ",
+  "final": "0:5",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T12:07:41.777421+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "JEF United Ichihara-Chiba at Cerezo Osaka",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T12:07:41.777421+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "V-Varen Nagasaki at Urawa Red Diamonds",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T12:07:41.777421+00:00",
+  "backstop": true,
+  "expired": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Mito Hollyhock at FC Tokyo",
+  "final": "6:0",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T12:07:41.777421+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Fagiano Okayama at Kawasaki Frontale",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T12:07:41.777421+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Yokohama F. Marinos at Nagoya Grampus",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-25",
+  "recorded_at": "2026-10-25T12:07:42.029294+00:00"
  }
 ]

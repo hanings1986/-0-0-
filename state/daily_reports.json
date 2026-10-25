@@ -5167,6 +5167,18 @@
     "first_goal_minute": 81,
     "first_goal_team": "Colorado Rapids",
     "recorded_at": "2026-10-25T06:46:28.817811+00:00"
+   },
+   {
+    "match": "V-Varen Nagasaki at Urawa Red Diamonds",
+    "league": "750",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Urawa Red Diamonds",
+    "recorded_at": "2026-10-25T12:07:41.777421+00:00"
    }
   ],
   "generated_at": null
