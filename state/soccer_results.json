@@ -1,25 +1,5 @@
 [
  {
-  "league_id": "720",
-  "league_name": "720",
-  "match": "Borussia Mönchengladbach at FC Cologne",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T18:23:28.149562+00:00",
-  "backstop": true
- },
- {
-  "league_id": "710",
-  "league_name": "710",
-  "match": "Strasbourg at Nice",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-11",
-  "recorded_at": "2026-10-11T18:23:28.149562+00:00",
-  "backstop": true
- },
- {
   "league_id": "725",
   "league_name": "725",
   "match": "SC Cambuur at PEC Zwolle",
@@ -7953,5 +7933,26 @@
   "goal_after_70": true,
   "date": "2026-10-26",
   "recorded_at": "2026-10-26T07:07:21.444270+00:00"
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Al Ittihad at Neftchi Fergana",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-26",
+  "recorded_at": "2026-10-26T20:01:00.285600+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8316",
+  "league_name": "8316",
+  "match": "Chennaiyin FC at Mohun Bagan Super Giant",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-26",
+  "recorded_at": "2026-10-26T20:01:00.285600+00:00",
+  "backstop": true,
+  "expired": true
  }
 ]
