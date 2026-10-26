@@ -5305,6 +5305,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-25T19:09:10.012784+00:00"
+   },
+   {
+    "match": "Pérez Zeledón at Alajuelense",
+    "league": "Liga FPD",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 94,
+    "first_goal_team": "Alajuelense",
+    "recorded_at": "2026-10-26T07:07:21.444270+00:00"
    }
   ],
   "generated_at": null
