@@ -1483,8 +1483,8 @@ def resolve_finals(state: dict, event_index: dict, results: list) -> int:
 # 背景：GitHub Actions cron 可能数小时不执行，比赛在两轮之间从 in → post 时会被永久跳过。
 # 本函数每轮对已 post 的比赛用 keyEvents 首球时间判定 70/80 分钟时刻是否 0:0，补发预警。
 
-BACKSTOP_MAX_AGE_HOURS = 8       # 只处理开赛 8 小时内的比赛（更早的视为历史，不重复扫）
-BACKSTOP_SEND_WINDOW_HOURS = 4   # 结束超过 4 小时：只记样本库，不再发消息（避免刷屏）
+BACKSTOP_MAX_AGE_HOURS = 16      # 只处理开赛 16 小时内的比赛（覆盖 GitHub Actions 恢复窗口）
+BACKSTOP_SEND_WINDOW_HOURS = 12  # 结束超过 12 小时：只记样本库，不再发消息（避免刷屏）
 BACKSTOP_MAX_SENDS = 12          # 单轮补发条数上限
 BACKSTOP_MAX_TRIES = 3           # summary 拉取失败重试上限
 
@@ -1535,7 +1535,10 @@ def backstop_scan(state: dict, all_games: list, results: list) -> int:
     resolved = 0
 
     for g in all_games:
-        if g["state"] != "post" or not is_in_active_hours(g):
+        # backstop 只处理已结束比赛。这里不做 is_in_active_hours 过滤：
+        # 本来就被实时监控跳过的凌晨赛事，会自然被 BACKSTOP_MAX_AGE_HOURS 拦住
+        # （开赛时间久远）。真正需要补发的是「在监控窗口内开赛但整场被 Actions 跳过」的比赛。
+        if g["state"] != "post":
             continue
 
         eid = g["event_id"]
