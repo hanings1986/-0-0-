@@ -5658,5 +5658,155 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-10-29": {
+  "date": "2026-10-29",
+  "rows": [
+   {
+    "match": "Alavés at Anaitasuna",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T17:25:15.111422+00:00"
+   },
+   {
+    "match": "Eibar at CD Pamplona",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T17:25:15.111422+00:00"
+   },
+   {
+    "match": "Levante at CD Tarancon",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T17:25:15.111422+00:00"
+   },
+   {
+    "match": "Zamora CF at Coruxo",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T17:25:15.111422+00:00"
+   },
+   {
+    "match": "Huesca at Peña Sport",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T17:25:15.111422+00:00"
+   },
+   {
+    "match": "Ceuta at Poblense",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T17:25:15.111422+00:00"
+   },
+   {
+    "match": "Real Unión Irun at Portugalete",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T17:25:15.111422+00:00"
+   },
+   {
+    "match": "CD Sabadell at Utebo",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T17:25:15.111422+00:00"
+   },
+   {
+    "match": "Mallorca at Alcoyano",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T17:25:15.111422+00:00"
+   },
+   {
+    "match": "UD Logroñés at Amorebieta",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T17:25:15.111422+00:00"
+   },
+   {
+    "match": "Tenerife at Badajoz",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T17:25:15.111422+00:00"
+   },
+   {
+    "match": "Albacete at Calvo Sotelo",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T17:25:15.111422+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }

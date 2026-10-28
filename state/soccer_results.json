@@ -1,202 +1,5 @@
 [
  {
-  "league_id": "3934",
-  "league_name": "3934",
-  "match": "Rubio Ñú at Deportivo Recoleta",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-16",
-  "recorded_at": "2026-10-17T01:48:51.206049+00:00",
-  "backstop": true
- },
- {
-  "league_id": "745",
-  "league_name": "745",
-  "match": "Instituto (Córdoba) at Defensa y Justicia",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-16",
-  "recorded_at": "2026-10-17T01:48:52.527008+00:00"
- },
- {
-  "league_id": "680",
-  "league_name": "680",
-  "match": "Cerro Largo at Cerro",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-16",
-  "recorded_at": "2026-10-17T01:48:52.527023+00:00"
- },
- {
-  "league_id": "3906",
-  "league_name": "3906",
-  "match": "Melbourne City FC at Auckland FC",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T06:21:57.142634+00:00",
-  "backstop": true
- },
- {
-  "league_id": "18992",
-  "league_name": "18992",
-  "match": "Perth Glory at Newcastle Jets ",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T06:21:57.142634+00:00",
-  "backstop": true
- },
- {
-  "league_id": "18992",
-  "league_name": "18992",
-  "match": "Melbourne Victory  at Western Sydney ",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T06:21:57.142634+00:00",
-  "backstop": true
- },
- {
-  "league_id": "750",
-  "league_name": "750",
-  "match": "Gamba Osaka at Shimizu S-Pulse",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T06:21:57.142634+00:00",
-  "backstop": true
- },
- {
-  "league_id": "745",
-  "league_name": "745",
-  "match": "Talleres (Córdoba) at Boca Juniors",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T06:21:57.142634+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3903",
-  "league_name": "3903",
-  "match": "Atlanta at Gimnasia y Tiro (Salta)",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T06:21:57.142634+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3943",
-  "league_name": "3943",
-  "match": "CD Municipal Limeño at Internacional Santa Tecla",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T06:21:57.142634+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3903",
-  "league_name": "3903",
-  "match": "Quilmes at Atletico Rafaela",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T06:21:58.236147+00:00"
- },
- {
-  "league_id": "620",
-  "league_name": "620",
-  "match": "GV San José at Real Tomayapo",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T06:21:58.393078+00:00"
- },
- {
-  "league_id": "3906",
-  "league_name": "3906",
-  "match": "Perth Glory at Macarthur FC",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T11:05:38.960196+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3906",
-  "league_name": "3906",
-  "match": "Newcastle Jets at Central Coast Mariners",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T11:05:38.960196+00:00",
-  "backstop": true
- },
- {
-  "league_id": "18992",
-  "league_name": "18992",
-  "match": "Central Coast Mariners at Brisbane Roar",
-  "final": "2:4",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T11:05:38.960196+00:00",
-  "backstop": true
- },
- {
-  "league_id": "750",
-  "league_name": "750",
-  "match": "Yokohama F. Marinos at JEF United Ichihara-Chiba",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T11:05:38.960196+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "750",
-  "league_name": "750",
-  "match": "Kyoto Sanga at Sanfrecce Hiroshima",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T11:05:38.960196+00:00",
-  "backstop": true
- },
- {
-  "league_id": "750",
-  "league_name": "750",
-  "match": "FC Tokyo at Tokyo Verdy 1969",
-  "final": "0:4",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T11:05:38.960196+00:00",
-  "backstop": true
- },
- {
-  "league_id": "750",
-  "league_name": "750",
-  "match": "Kawasaki Frontale at Cerezo Osaka",
-  "final": "2:4",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T11:05:38.960196+00:00",
-  "backstop": true
- },
- {
-  "league_id": "750",
-  "league_name": "750",
-  "match": "V-Varen Nagasaki at Kashima Antlers",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T11:05:38.960196+00:00",
-  "backstop": true
- },
- {
   "league_id": "750",
   "league_name": "750",
   "match": "Urawa Red Diamonds at Mito Hollyhock",
@@ -7963,5 +7766,204 @@
   "date": "2026-10-28",
   "recorded_at": "2026-10-28T05:36:28.188117+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "Alavés at Anaitasuna",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "Eibar at CD Pamplona",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "Levante at CD Tarancon",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "Zamora CF at Coruxo",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "Huesca at Peña Sport",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "Ceuta at Poblense",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "Real Unión Irun at Portugalete",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "CD Sabadell at Utebo",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "Mallorca at Alcoyano",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "UD Logroñés at Amorebieta",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "Tenerife at Badajoz",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "Albacete at Calvo Sotelo",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Buriram United at Gamba Osaka",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Melbourne Victory at Persib Bandung",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "FC Seoul at The Cong-Viettel FC",
+  "final": "0:5",
+  "goal_after_70": true,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Kuwait SC at FC Nasaf",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20865",
+  "league_name": "20865",
+  "match": "Ghana U17 at Argentina U17",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20865",
+  "league_name": "20865",
+  "match": "Venezuela U17 at Germany U17",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8316",
+  "league_name": "8316",
+  "match": "Sporting Club Delhi at FC GOA",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Pohang Steelers at Kashima Antlers",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-10-28",
+  "recorded_at": "2026-10-28T17:25:40.671140+00:00"
  }
 ]
