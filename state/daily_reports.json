@@ -5631,6 +5631,30 @@
     "first_goal_minute": 77,
     "first_goal_team": "Caracas FC",
     "recorded_at": "2026-10-28T00:00:35.377644+00:00"
+   },
+   {
+    "match": "Goiás at Ceará",
+    "league": "Brazil Serie B",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 92,
+    "first_goal_team": "Goiás",
+    "recorded_at": "2026-10-28T05:36:28.188117+00:00"
+   },
+   {
+    "match": "Club Deportivo Marathón at Alianza FC",
+    "league": "Concacaf Central American Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-28T05:36:28.188117+00:00"
    }
   ],
   "generated_at": null
