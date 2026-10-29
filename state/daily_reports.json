@@ -5983,5 +5983,59 @@
    "early_goal": 0,
    "goal_rate": 34.6
   }
+ },
+ "2026-10-30": {
+  "date": "2026-10-30",
+  "rows": [
+   {
+    "match": "Real Jaen CF at Mijas Las Lagunas",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-29T19:55:09.085273+00:00"
+   },
+   {
+    "match": "France U17 at China PR U17",
+    "league": "FIFA U-17 Women's World Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-29T19:55:09.085273+00:00"
+   },
+   {
+    "match": "GAIS at Kalmar FF",
+    "league": "Swedish Allsvenskan",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 84,
+    "first_goal_team": "GAIS",
+    "recorded_at": "2026-10-29T19:55:09.085273+00:00"
+   },
+   {
+    "match": "Xelajú MC at Deportivo Mixco",
+    "league": "Guatemalan Liga Nacional",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-29T19:55:09.085273+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
