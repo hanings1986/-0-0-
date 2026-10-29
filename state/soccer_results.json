@@ -1,65 +1,5 @@
 [
  {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "York City at Newport County",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T17:19:21.360041+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Cheltenham Town at Oldham Athletic",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T17:19:21.360041+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Chesterfield at Port Vale",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T17:19:21.360041+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Crawley Town at Salford City",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T17:19:21.360041+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Walsall at Swindon Town",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T17:19:21.360041+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Barnet at Tranmere Rovers",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T17:19:21.360041+00:00",
-  "backstop": true
- },
- {
   "league_id": "23480",
   "league_name": "23480",
   "match": "Atherton Collieries at AFC Fylde",
@@ -7958,5 +7898,65 @@
   "goal_after_70": true,
   "date": "2026-10-29",
   "recorded_at": "2026-10-29T07:41:48.817414+00:00"
+ },
+ {
+  "league_id": "2466",
+  "league_name": "AFC Champions League Two",
+  "match": "Lion City Sailors FC at Adelaide United FC",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-10-29",
+  "recorded_at": "2026-10-29T14:41:39.737137+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Kuching City at Gangwon FC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-29",
+  "recorded_at": "2026-10-29T14:41:39.737137+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Preah Khan Reach Svay Rieng FC at Tampines Rovers FC",
+  "final": "1:5",
+  "goal_after_70": true,
+  "date": "2026-10-29",
+  "recorded_at": "2026-10-29T14:41:39.737137+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "AFC Champions League Two",
+  "match": "Kitchee SC at Phnom Penh Crown FC",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-29",
+  "recorded_at": "2026-10-29T14:41:39.737137+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Machida Zelvia at Shanghai Shenhua FC",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-29",
+  "recorded_at": "2026-10-29T14:41:39.737137+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "BG Pathum United at Tai Po FC",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-10-29",
+  "recorded_at": "2026-10-29T14:41:39.737137+00:00",
+  "backstop": true
  }
 ]

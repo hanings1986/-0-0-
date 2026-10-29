@@ -5949,8 +5949,39 @@
     "first_goal_minute": 70,
     "first_goal_team": "New York City FC",
     "recorded_at": "2026-10-29T07:41:48.438341+00:00"
+   },
+   {
+    "match": "Lion City Sailors FC at Adelaide United FC",
+    "league": "AFC Champions League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Lion City Sailors FC",
+    "recorded_at": "2026-10-29T14:41:39.737137+00:00"
+   },
+   {
+    "match": "Kitchee SC at Phnom Penh Crown FC",
+    "league": "AFC Champions League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 89,
+    "first_goal_team": "Phnom Penh Crown FC",
+    "recorded_at": "2026-10-29T14:41:39.737137+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-10-29T14:41:45.187295+00:00",
+  "summary": {
+   "total": 26,
+   "goal_after_70": 9,
+   "clean_00": 17,
+   "early_goal": 0,
+   "goal_rate": 34.6
+  }
  }
 }
