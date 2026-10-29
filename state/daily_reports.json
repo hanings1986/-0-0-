@@ -5937,6 +5937,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-29T01:41:38.189172+00:00"
+   },
+   {
+    "match": "Atlanta United FC at New York City FC",
+    "league": "770",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:1",
+    "goal_after_70": true,
+    "first_goal_minute": 70,
+    "first_goal_team": "New York City FC",
+    "recorded_at": "2026-10-29T07:41:48.438341+00:00"
    }
   ],
   "generated_at": null
