@@ -6034,6 +6034,66 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-29T19:55:09.085273+00:00"
+   },
+   {
+    "match": "Unionistas de Salamanca at Real Ávila",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 110,
+    "first_goal_team": "Real Ávila",
+    "recorded_at": "2026-10-29T23:53:19.421235+00:00"
+   },
+   {
+    "match": "Paris Saint-Germain at Manchester City",
+    "league": "UEFA Women's Champions League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 85,
+    "first_goal_team": "Manchester City",
+    "recorded_at": "2026-10-29T23:53:19.421235+00:00"
+   },
+   {
+    "match": "AFC at ACV",
+    "league": "KNVB Beker",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:2",
+    "goal_after_70": true,
+    "first_goal_minute": 100,
+    "first_goal_team": "AFC",
+    "recorded_at": "2026-10-29T23:53:19.421235+00:00"
+   },
+   {
+    "match": "Gemert at Purmersteijn",
+    "league": "KNVB Beker",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 94,
+    "first_goal_team": "Purmersteijn",
+    "recorded_at": "2026-10-29T23:53:19.421235+00:00"
+   },
+   {
+    "match": "Cusco FC at Los Chankas",
+    "league": "Peru Liga 1",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 98,
+    "first_goal_team": "Cusco FC",
+    "recorded_at": "2026-10-29T23:53:19.421235+00:00"
    }
   ],
   "generated_at": null
