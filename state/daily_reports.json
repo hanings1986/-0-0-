@@ -5913,6 +5913,30 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-28T21:52:07.865994+00:00"
+   },
+   {
+    "match": "Palmeiras at Santos",
+    "league": "Brazil Serie A",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-29T01:41:38.189172+00:00"
+   },
+   {
+    "match": "Portuguesa at Metropolitanos",
+    "league": "Liga FUTVE",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-29T01:41:38.189172+00:00"
    }
   ],
   "generated_at": null
