@@ -6094,6 +6094,18 @@
     "first_goal_minute": 98,
     "first_goal_team": "Cusco FC",
     "recorded_at": "2026-10-29T23:53:19.421235+00:00"
+   },
+   {
+    "match": "CD Guastatoya at Marquense",
+    "league": "Guatemalan Liga Nacional",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-30T05:26:25.438087+00:00"
    }
   ],
   "generated_at": null

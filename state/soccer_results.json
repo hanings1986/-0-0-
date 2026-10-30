@@ -1,106 +1,5 @@
 [
  {
-  "league_id": "3937",
-  "league_name": "3937",
-  "match": "Milford FC at Golden Arrows",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-17T19:34:35.665039+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "8301",
-  "league_name": "8301",
-  "match": "Kansas City Current at Utah Royals",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8301",
-  "league_name": "8301",
-  "match": "San Diego Wave FC at North Carolina Courage",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "760",
-  "league_name": "760",
-  "match": "Querétaro at Santos",
-  "final": "5:0",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "760",
-  "league_name": "760",
-  "match": "Tigres UANL at Guadalajara",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23633",
-  "league_name": "23633",
-  "match": "Tampa Bay Sun FC at Lexington SC",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "18992",
-  "league_name": "18992",
-  "match": "Melbourne City at Wellington Phoenix",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "4002",
-  "league_name": "4002",
-  "match": "Brooklyn FC at Hartford Athletic",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "4002",
-  "league_name": "4002",
-  "match": "Indy Eleven at Louisville City FC",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "4002",
-  "league_name": "4002",
-  "match": "Charleston Battery at Miami FC",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
   "league_id": "4002",
   "league_name": "USL Championship",
   "match": "Pittsburgh Riverhounds at Rhode Island FC",
@@ -7952,6 +7851,106 @@
   "goal_after_70": true,
   "date": "2026-10-29",
   "recorded_at": "2026-10-29T23:53:19.421235+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3932",
+  "league_name": "3932",
+  "match": "Mineros de Zacatecas at Alebrijes de Oaxaca",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T05:26:25.438087+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Cruzeiro at Atlético-MG",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-10-29",
+  "recorded_at": "2026-10-30T05:26:25.438087+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Flamengo at Vasco da Gama",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-10-29",
+  "recorded_at": "2026-10-30T05:26:25.438087+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Athletico Paranaense at Grêmio",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T05:26:25.438087+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Fortaleza CEIF at América de Cali",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-29",
+  "recorded_at": "2026-10-30T05:26:25.438087+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Independiente Santa Fe at Atlético Nacional",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T05:26:25.438087+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "670",
+  "league_name": "670",
+  "match": "Comerciantes Unidos at Melgar",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T05:26:25.438087+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "22947",
+  "league_name": "22947",
+  "match": "FC Motagua at Alajuelense",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T05:26:25.438087+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3928",
+  "league_name": "3928",
+  "match": "Deportivo San Pedro at Antigua GFC",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T05:26:25.438087+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3928",
+  "league_name": "Guatemalan Liga Nacional",
+  "match": "CD Guastatoya at Marquense",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T05:26:25.438087+00:00",
   "backstop": true
  }
 ]
