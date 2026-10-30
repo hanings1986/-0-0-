@@ -1,216 +1,5 @@
 [
  {
-  "league_id": "745",
-  "league_name": "745",
-  "match": "Rosario Central at Atlético Tucumán",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "745",
-  "league_name": "Argentine LPF",
-  "match": "Gimnasia (Mendoza) at Vélez Sarsfield",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3904",
-  "league_name": "3904",
-  "match": "Talleres de Remedios at Deportivo Merlo",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3904",
-  "league_name": "Argentine Primera B",
-  "match": "Ituzaingó at Real Pilar",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "630",
-  "league_name": "630",
-  "match": "Palmeiras at Athletico Paranaense",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "650",
-  "league_name": "650",
-  "match": "Jaguares de Córdoba at Millonarios",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "670",
-  "league_name": "670",
-  "match": "Deportivo Garcilaso at Melgar",
-  "final": "4:2",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3934",
-  "league_name": "3934",
-  "match": "2 de Mayo at Club Olimpia",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3949",
-  "league_name": "3949",
-  "match": "Deportivo Táchira at Carabobo",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "620",
-  "league_name": "Bolivian Liga Profesional",
-  "match": "Independiente Petrolero at Blooming",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-18",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3929",
-  "league_name": "3929",
-  "match": "CD Choloma at Juticalpa FC",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "670",
-  "league_name": "670",
-  "match": "Atlético Grau at Alianza Lima",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-18",
-  "recorded_at": "2026-10-18T06:35:37.944323+00:00",
-  "backstop": true
- },
- {
-  "league_id": "630",
-  "league_name": "Brazil Serie A",
-  "match": "Vasco da Gama at São Paulo",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-18",
-  "recorded_at": "2026-10-18T06:35:37.944323+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Vancouver Whitecaps at Austin FC",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-18",
-  "recorded_at": "2026-10-18T06:35:37.944323+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "FC Dallas at Houston Dynamo FC",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-18",
-  "recorded_at": "2026-10-18T06:35:37.944323+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Real Salt Lake at Sporting Kansas City",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-10-18",
-  "recorded_at": "2026-10-18T06:35:37.944323+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "San Diego FC at LA Galaxy",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-18",
-  "recorded_at": "2026-10-18T06:35:37.944323+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Colorado Rapids at Portland Timbers",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-18",
-  "recorded_at": "2026-10-18T06:35:37.944323+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "Nashville SC at San Jose Earthquakes",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-18",
-  "recorded_at": "2026-10-18T06:35:37.944323+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
-  "match": "CF Montréal at Seattle Sounders FC",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-18",
-  "recorded_at": "2026-10-18T06:35:37.944323+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3929",
-  "league_name": "3929",
-  "match": "UPNFM at CA Independiente Siguatepeque",
-  "final": "0:4",
-  "goal_after_70": true,
-  "date": "2026-10-18",
-  "recorded_at": "2026-10-18T06:35:37.944323+00:00",
-  "backstop": true
- },
- {
   "league_id": "3943",
   "league_name": "3943",
   "match": "Fuerte San Francisco at Isidro Metapán",
@@ -7951,6 +7740,216 @@
   "goal_after_70": true,
   "date": "2026-10-30",
   "recorded_at": "2026-10-30T17:11:04.526141+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "720",
+  "league_name": "720",
+  "match": "Mainz at SV Elversberg",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "710",
+  "league_name": "710",
+  "match": "Paris Saint-Germain at Le Havre AC",
+  "final": "1:5",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "710",
+  "league_name": "710",
+  "match": "Stade Rennais at Nice",
+  "final": "5:2",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "21231",
+  "match": "Al Ahli at Al Shabab",
+  "final": "6:1",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3946",
+  "league_name": "3946",
+  "match": "Galatasaray at Konyaspor",
+  "final": "0:4",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3927",
+  "league_name": "3927",
+  "match": "TSV Eintracht Braunschweig at Arminia Bielefeld",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3927",
+  "league_name": "3927",
+  "match": "VfL Bochum at Energie Cottbus",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3926",
+  "league_name": "3926",
+  "match": "Dijon FCO at Grenoble",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3926",
+  "league_name": "3926",
+  "match": "Pau at Metz",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3926",
+  "league_name": "3926",
+  "match": "Clermont Foot at Nantes",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3926",
+  "league_name": "3926",
+  "match": "Dunkerque at Rodez Aveyron",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3926",
+  "league_name": "3926",
+  "match": "Boulogne at Stade Laval",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3907",
+  "league_name": "3907",
+  "match": "TSV Hartberg at Grazer AK",
+  "final": "0:4",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3940",
+  "league_name": "3940",
+  "match": "Livingston at Stenhousemuir",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3933",
+  "league_name": "3933",
+  "match": "De Graafschap at FC Volendam",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3933",
+  "league_name": "3933",
+  "match": "FC Eindhoven at Helmond Sport",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3933",
+  "league_name": "3933",
+  "match": "Almere City at RKC Waalwijk",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3933",
+  "league_name": "3933",
+  "match": "Jong AZ at Roda JC Kerkrade",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3913",
+  "league_name": "3913",
+  "match": "Randers FC at Lyngby Boldklub",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3960",
+  "league_name": "3960",
+  "match": "Viking FK at Bodo/Glimt",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3937",
+  "league_name": "3937",
+  "match": "Siwelele at Marumo Gallants",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T21:36:51.807863+00:00",
   "backstop": true
  }
 ]
