@@ -1,45 +1,5 @@
 [
  {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Portland Hearts of Pine at Forward Madison FC",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Corpus Christi FC at Richmond Kickers",
-  "final": "5:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Charlotte Independence at Greenville Triumph",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Union Omaha at Westchester SC",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-17",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
   "league_id": "745",
   "league_name": "745",
   "match": "Rosario Central at Atlético Tucumán",
@@ -7951,6 +7911,46 @@
   "goal_after_70": true,
   "date": "2026-10-30",
   "recorded_at": "2026-10-30T11:33:44.064034+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "21231",
+  "match": "Al Ittihad at Abha",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T17:11:04.526141+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "21231",
+  "match": "Neom SC at Al Diriyah",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T17:11:04.526141+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8316",
+  "league_name": "8316",
+  "match": "Bengaluru FC at NorthEast United FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T17:11:04.526141+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18505",
+  "league_name": "18505",
+  "match": "Nagaland United SC at Real Kashmir",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T17:11:04.526141+00:00",
   "backstop": true
  }
 ]
