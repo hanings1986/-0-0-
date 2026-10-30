@@ -1,15 +1,5 @@
 [
  {
-  "league_id": "4002",
-  "league_name": "USL Championship",
-  "match": "Pittsburgh Riverhounds at Rhode Island FC",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-18",
-  "recorded_at": "2026-10-18T01:31:37.931944+00:00",
-  "backstop": true
- },
- {
   "league_id": "19915",
   "league_name": "19915",
   "match": "Portland Hearts of Pine at Forward Madison FC",
@@ -7951,6 +7941,16 @@
   "goal_after_70": false,
   "date": "2026-10-30",
   "recorded_at": "2026-10-30T05:26:25.438087+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3906",
+  "league_name": "3906",
+  "match": "Auckland FC at Brisbane Roar FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-10-30",
+  "recorded_at": "2026-10-30T11:33:44.064034+00:00",
   "backstop": true
  }
 ]
