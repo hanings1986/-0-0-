@@ -6211,5 +6211,143 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-01": {
+  "date": "2026-11-01",
+  "rows": [
+   {
+    "match": "Manchester United at Everton",
+    "league": "Women's Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-31T17:55:43.140130+00:00"
+   },
+   {
+    "match": "Caykur Rizespor at Kocaelispor",
+    "league": "Turkish Super Lig",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-31T17:55:43.140130+00:00"
+   },
+   {
+    "match": "Girona at Real Sociedad II",
+    "league": "LALIGA 2",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "Real Sociedad II",
+    "recorded_at": "2026-10-31T17:55:43.140130+00:00"
+   },
+   {
+    "match": "Reading at Plymouth Argyle",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-31T17:55:43.140130+00:00"
+   },
+   {
+    "match": "SC Paderborn 07 at Borussia Mönchengladbach",
+    "league": "Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-31T17:55:43.140130+00:00"
+   },
+   {
+    "match": "Portsmouth at Burnley",
+    "league": "EFL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-31T17:55:43.140130+00:00"
+   },
+   {
+    "match": "St Mirren at Motherwell",
+    "league": "SPFL Premiership",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "Motherwell",
+    "recorded_at": "2026-10-31T17:55:43.140130+00:00"
+   },
+   {
+    "match": "Formartine United at Johnstone Burgh FC",
+    "league": "Scottish Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 83,
+    "first_goal_team": "Johnstone Burgh FC",
+    "recorded_at": "2026-10-31T17:55:43.140130+00:00"
+   },
+   {
+    "match": "SV Josko Ried at SC Rheindorf Altach",
+    "league": "Austrian Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "SV Josko Ried",
+    "recorded_at": "2026-10-31T17:55:43.140130+00:00"
+   },
+   {
+    "match": "Eastleigh at Barrow",
+    "league": "National League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 94,
+    "first_goal_team": "Barrow",
+    "recorded_at": "2026-10-31T17:55:43.140130+00:00"
+   },
+   {
+    "match": "Woking at Tamworth",
+    "league": "National League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Woking",
+    "recorded_at": "2026-10-31T17:55:43.140130+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
