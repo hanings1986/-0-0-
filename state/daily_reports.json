@@ -6136,6 +6136,42 @@
     "first_goal_minute": 71,
     "first_goal_team": "Deportivo Pereira",
     "recorded_at": "2026-10-31T01:03:23.145072+00:00"
+   },
+   {
+    "match": "Pittsburgh Riverhounds at Louisville City FC",
+    "league": "4002",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 106,
+    "first_goal_team": "Louisville City FC",
+    "recorded_at": "2026-10-31T06:58:07.816118+00:00"
+   },
+   {
+    "match": "Heart of Midlothian at Dundee United",
+    "league": "SPFL Premiership",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-31T06:58:02.205132+00:00"
+   },
+   {
+    "match": "C.D. Platense at Internacional Santa Tecla",
+    "league": "Salvadoran Primera",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-31T06:58:02.205132+00:00"
    }
   ],
   "generated_at": null
