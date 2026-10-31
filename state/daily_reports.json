@@ -6172,6 +6172,42 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-31T06:58:02.205132+00:00"
+   },
+   {
+    "match": "Western Sydney Wanderers FC at Macarthur FC",
+    "league": "A-League Men",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-31T13:34:39.108096+00:00"
+   },
+   {
+    "match": "Kerala Blasters FC at Chennaiyin FC",
+    "league": "Indian Super League",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-10-31T13:34:39.108096+00:00"
+   },
+   {
+    "match": "Shillong Lajong FC at Mohammedan SC",
+    "league": "Indian I-League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Shillong Lajong FC",
+    "recorded_at": "2026-10-31T13:34:39.108096+00:00"
    }
   ],
   "generated_at": null
