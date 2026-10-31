@@ -6109,5 +6109,35 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-10-31": {
+  "date": "2026-10-31",
+  "rows": [
+   {
+    "match": "Lens at Lille",
+    "league": "Ligue 1",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "Lille",
+    "recorded_at": "2026-10-31T01:03:23.145072+00:00"
+   },
+   {
+    "match": "Jaguares de Córdoba at Deportivo Pereira",
+    "league": "Colombian Primera A",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Deportivo Pereira",
+    "recorded_at": "2026-10-31T01:03:23.145072+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
