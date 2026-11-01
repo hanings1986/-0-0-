@@ -6502,6 +6502,30 @@
     "first_goal_minute": 95,
     "first_goal_team": "Cacahuatique",
     "recorded_at": "2026-11-01T00:21:35.397020+00:00"
+   },
+   {
+    "match": "CSKA Moscow at Gazovik Orenburg",
+    "league": "Russian Premier",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-01T13:51:37.707654+00:00"
+   },
+   {
+    "match": "Gamba Osaka at Machida Zelvia",
+    "league": "Japanese J1 League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-01T13:51:37.707654+00:00"
    }
   ],
   "generated_at": null
