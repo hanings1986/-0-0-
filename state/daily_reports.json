@@ -6529,5 +6529,95 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-02": {
+  "date": "2026-11-02",
+  "rows": [
+   {
+    "match": "Holstein Kiel at SpVgg Greuther Fürth",
+    "league": "2. Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 87,
+    "first_goal_team": "SpVgg Greuther Fürth",
+    "recorded_at": "2026-11-01T18:50:18.296537+00:00"
+   },
+   {
+    "match": "Bengaluru United FC at Dempo Sports Club",
+    "league": "Indian Football League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 98,
+    "first_goal_team": "Dempo Sports Club",
+    "recorded_at": "2026-11-01T18:50:18.296537+00:00"
+   },
+   {
+    "match": "Ascoli at Arezzo",
+    "league": "Italian Serie B",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-01T18:50:18.296537+00:00"
+   },
+   {
+    "match": "OFI Crete at Panetolikos",
+    "league": "Greek Super League",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 88,
+    "first_goal_team": "OFI Crete",
+    "recorded_at": "2026-11-01T18:50:18.296537+00:00"
+   },
+   {
+    "match": "IF Brommapojkarna at Västerås SK",
+    "league": "Swedish Allsvenskan",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "Västerås SK",
+    "recorded_at": "2026-11-01T18:50:18.296537+00:00"
+   },
+   {
+    "match": "La Serena at Huachipato",
+    "league": "Chilean Primera",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-01T18:50:18.296537+00:00"
+   },
+   {
+    "match": "Los Chankas at Deportivo Moquegua",
+    "league": "Peru Liga 1",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-01T18:50:18.296537+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
