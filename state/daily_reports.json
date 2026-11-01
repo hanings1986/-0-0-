@@ -6454,6 +6454,54 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-10-31T21:22:23.149020+00:00"
+   },
+   {
+    "match": "Defensores de Belgrano at Colón (Santa Fe)",
+    "league": "Argentine Nacional B",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Colón (Santa Fe)",
+    "recorded_at": "2026-11-01T00:21:35.397020+00:00"
+   },
+   {
+    "match": "Montevideo Wanderers at Peñarol",
+    "league": "Liga AUF Uruguaya",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Montevideo Wanderers",
+    "recorded_at": "2026-11-01T00:21:35.397020+00:00"
+   },
+   {
+    "match": "Deportivo Táchira at Academia Puerto Cabello",
+    "league": "Liga FUTVE",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "Deportivo Táchira",
+    "recorded_at": "2026-11-01T00:21:35.397020+00:00"
+   },
+   {
+    "match": "Inca Aruba at Cacahuatique",
+    "league": "Salvadoran Primera",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 95,
+    "first_goal_team": "Cacahuatique",
+    "recorded_at": "2026-11-01T00:21:35.397020+00:00"
    }
   ],
   "generated_at": null
