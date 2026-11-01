@@ -6616,6 +6616,54 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-01T18:50:18.296537+00:00"
+   },
+   {
+    "match": "Napoli at Juventus",
+    "league": "Serie A",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 70,
+    "first_goal_team": "Juventus",
+    "recorded_at": "2026-11-01T22:33:03.386298+00:00"
+   },
+   {
+    "match": "KAA Gent at Lommel SK",
+    "league": "Belgian Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "Lommel SK",
+    "recorded_at": "2026-11-01T22:33:03.386298+00:00"
+   },
+   {
+    "match": "Venezuela U17 at Nigeria U17",
+    "league": "FIFA U-17 Women's World Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 89,
+    "first_goal_team": "Nigeria U17",
+    "recorded_at": "2026-11-01T22:33:03.386298+00:00"
+   },
+   {
+    "match": "Sport Boys at Cusco FC",
+    "league": "Peru Liga 1",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 75,
+    "first_goal_team": "Sport Boys",
+    "recorded_at": "2026-11-01T22:33:03.386298+00:00"
    }
   ],
   "generated_at": null
