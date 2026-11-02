@@ -1,75 +1,5 @@
 [
  {
-  "league_id": "20226",
-  "league_name": "Women's FA Cup",
-  "match": "i2i International at Preston North End",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20226",
-  "league_name": "Women's FA Cup",
-  "match": "SJR Workshop at South Shields",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20226",
-  "league_name": "20226",
-  "match": "Chorley at Thornaby",
-  "final": "4:2",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20226",
-  "league_name": "Women's FA Cup",
-  "match": "Chester-le-Street Town at Wigan Athletic",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20226",
-  "league_name": "20226",
-  "match": "Keynsham Town at Winchester City Flyers",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20226",
-  "league_name": "Women's FA Cup",
-  "match": "Mancunian Unity at Workington Town",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20956",
-  "league_name": "20956",
-  "match": "Alavés at Deportivo",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
   "league_id": "735",
   "league_name": "735",
   "match": "Celtic at Hibernian",
@@ -7979,5 +7909,72 @@
   "date": "2026-11-02",
   "recorded_at": "2026-11-02T01:49:20.310331+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "8312",
+  "league_name": "8312",
+  "match": "Puerto Montt at Colo Colo",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T08:38:25.920549+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Inter Miami CF at New England Revolution",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T08:38:25.920549+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Minnesota United FC at LAFC",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T08:38:25.920549+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Houston Dynamo FC at Portland Timbers",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T08:38:25.920549+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "FC Naples at Charlotte Independence",
+  "final": "5:1",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T08:38:26.805686+00:00"
+ },
+ {
+  "league_id": "23286",
+  "league_name": "23286",
+  "match": "Montreal Roses FC at Vancouver Rise FC",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T08:38:26.955541+00:00"
+ },
+ {
+  "league_id": "3928",
+  "league_name": "3928",
+  "match": "Cobán Imperial at CD Guastatoya",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T08:38:27.102365+00:00"
  }
 ]
