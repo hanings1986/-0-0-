@@ -6775,5 +6775,47 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-03": {
+  "date": "2026-11-03",
+  "rows": [
+   {
+    "match": "Al Ahli at Al Sadd",
+    "league": "AFC Champions League Elite",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-02T18:50:41.554785+00:00"
+   },
+   {
+    "match": "Estudiantes (Buenos Aires) at All Boys",
+    "league": "Argentine Nacional B",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "All Boys",
+    "recorded_at": "2026-11-02T18:50:41.554785+00:00"
+   },
+   {
+    "match": "Melgar at Sport Huancayo",
+    "league": "Peru Liga 1",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Sport Huancayo",
+    "recorded_at": "2026-11-02T18:50:41.554785+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }

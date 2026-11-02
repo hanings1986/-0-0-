@@ -1,115 +1,5 @@
 [
  {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Celtic at Hibernian",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Heart of Midlothian at Motherwell",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3946",
-  "league_name": "3946",
-  "match": "Genclerbirligi at Konyaspor",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3939",
-  "league_name": "3939",
-  "match": "Lokomotiv Moscow at Rostov",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3939",
-  "league_name": "3939",
-  "match": "Spartak Moscow at CSKA Moscow",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3901",
-  "league_name": "3901",
-  "match": "Standard Liege at Racing Genk",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3921",
-  "league_name": "3921",
-  "match": "Tenerife at CD Sabadell",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3927",
-  "league_name": "3927",
-  "match": "Dynamo Dresden at Holstein Kiel",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3927",
-  "league_name": "3927",
-  "match": "Hannover 96 at TSV Eintracht Braunschweig",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3927",
-  "league_name": "3927",
-  "match": "SpVgg Greuther Fürth at VfL Osnabruck",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3931",
-  "league_name": "3931",
-  "match": "Carrarese at Palermo",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-25T16:19:37.880046+00:00",
-  "backstop": true
- },
- {
   "league_id": "3907",
   "league_name": "3907",
   "match": "SV Josko Ried at SK Sturm Graz",
@@ -7976,5 +7866,115 @@
   "goal_after_70": true,
   "date": "2026-11-02",
   "recorded_at": "2026-11-02T08:38:27.102365+00:00"
+ },
+ {
+  "league_id": "3946",
+  "league_name": "3946",
+  "match": "Alanyaspor at Genclerbirligi",
+  "final": "5:0",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T18:50:41.554785+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Al Nassr at Pakhtakor",
+  "final": "2:6",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T18:50:41.554785+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "AFC Champions League Elite",
+  "match": "Al Ahli at Al Sadd",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T18:50:41.554785+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Al-Quwa Al-Jawiya at Al Wasl",
+  "final": "4:3",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T18:50:41.554785+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Neftchi Fergana at Tractor",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T18:50:41.554785+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3939",
+  "league_name": "3939",
+  "match": "Zenit St Petersburg at Krylia Sovetov",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T18:50:41.554785+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3921",
+  "league_name": "3921",
+  "match": "FC Andorra at Tenerife",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T18:50:41.554785+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3921",
+  "league_name": "3921",
+  "match": "Las Palmas at Real Oviedo",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T18:50:41.554785+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3955",
+  "league_name": "3955",
+  "match": "Volos NFC at Atromitos",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T18:50:41.554785+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3903",
+  "league_name": "Argentine Nacional B",
+  "match": "Estudiantes (Buenos Aires) at All Boys",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T18:50:41.554785+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "670",
+  "league_name": "Peru Liga 1",
+  "match": "Melgar at Sport Huancayo",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-02",
+  "recorded_at": "2026-11-02T18:50:41.554785+00:00",
+  "backstop": true
  }
 ]
