@@ -6976,6 +6976,90 @@
     "first_goal_minute": 85,
     "first_goal_team": "Al-Seeb Club",
     "recorded_at": "2026-11-03T16:32:40.882963+00:00"
+   },
+   {
+    "match": "Lille at Bodo/Glimt",
+    "league": "UEFA Champions League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-03T22:00:13.741350+00:00"
+   },
+   {
+    "match": "Al-Shamal at Esteghlal FC",
+    "league": "AFC Champions League Elite",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 91,
+    "first_goal_team": "Esteghlal FC",
+    "recorded_at": "2026-11-03T22:00:13.741350+00:00"
+   },
+   {
+    "match": "Mansfield Town at Wigan Athletic",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-03T22:00:13.741350+00:00"
+   },
+   {
+    "match": "Oldham Athletic at Northampton Town",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 70,
+    "first_goal_team": "Oldham Athletic",
+    "recorded_at": "2026-11-03T22:00:13.741350+00:00"
+   },
+   {
+    "match": "Montrose at Inverness Caledonian Thistle",
+    "league": "SPFL Challenge Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "Inverness Caledonian Thistle",
+    "recorded_at": "2026-11-03T22:00:13.741350+00:00"
+   },
+   {
+    "match": "Livingston at Spartans FC",
+    "league": "SPFL Challenge Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 81,
+    "first_goal_team": "Livingston",
+    "recorded_at": "2026-11-03T22:00:13.741350+00:00"
+   },
+   {
+    "match": "Sportivo Trinidense at 2 de Mayo",
+    "league": "Paraguayan Primera",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-03T22:00:13.741350+00:00"
    }
   ],
   "generated_at": null
