@@ -1,84 +1,5 @@
 [
  {
-  "league_id": "3928",
-  "league_name": "3928",
-  "match": "Aurora FC at Suchitepequez",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-25",
-  "recorded_at": "2026-10-26T01:47:28.769874+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23541",
-  "league_name": "23541",
-  "match": "Monterrey at Tigres UANL",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-26",
-  "recorded_at": "2026-10-26T07:07:21.317193+00:00"
- },
- {
-  "league_id": "4005",
-  "league_name": "Liga FPD",
-  "match": "Pérez Zeledón at Alajuelense",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-26",
-  "recorded_at": "2026-10-26T07:07:21.444270+00:00"
- },
- {
-  "league_id": "3902",
-  "league_name": "3902",
-  "match": "Al Ittihad at Neftchi Fergana",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-26",
-  "recorded_at": "2026-10-26T20:01:00.285600+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8316",
-  "league_name": "8316",
-  "match": "Chennaiyin FC at Mohun Bagan Super Giant",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-26",
-  "recorded_at": "2026-10-26T20:01:00.285600+00:00",
-  "backstop": true,
-  "expired": true
- },
- {
-  "league_id": "740",
-  "league_name": "740",
-  "match": "Osasuna at Sevilla",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-27",
-  "recorded_at": "2026-10-27T04:41:49.191127+00:00",
-  "backstop": true
- },
- {
-  "league_id": "710",
-  "league_name": "Ligue 1",
-  "match": "Lyon at Paris Saint-Germain",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-27",
-  "recorded_at": "2026-10-27T04:41:49.191127+00:00",
-  "backstop": true
- },
- {
-  "league_id": "715",
-  "league_name": "715",
-  "match": "Benfica at Santa Clara",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-27",
-  "recorded_at": "2026-10-27T04:41:49.191127+00:00",
-  "backstop": true
- },
- {
   "league_id": "3946",
   "league_name": "3946",
   "match": "Istanbul Basaksehir at Besiktas",
@@ -7975,6 +7896,86 @@
   "goal_after_70": true,
   "date": "2026-11-03",
   "recorded_at": "2026-11-03T08:31:40.932792+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20381",
+  "league_name": "Copa de la Reina",
+  "match": "Espanyol at Celta Vigo",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-03",
+  "recorded_at": "2026-11-03T16:32:40.882963+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Shanghai Port FC at Newcastle Jets",
+  "final": "2:4",
+  "goal_after_70": true,
+  "date": "2026-11-03",
+  "recorded_at": "2026-11-03T16:32:40.882963+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Johor Darul Ta'zim at Jeonbuk Hyundai Motors",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-03",
+  "recorded_at": "2026-11-03T16:32:40.882963+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Daejeon Hana Citizen FC at Kashiwa Reysol",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-03",
+  "recorded_at": "2026-11-03T16:32:40.882963+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Ratchaburi FC at Vissel Kobe",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-11-03",
+  "recorded_at": "2026-11-03T16:32:40.882963+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "AFC Champions League Elite",
+  "match": "Kyoto Sanga at Cong An Ha Noi",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-03",
+  "recorded_at": "2026-11-03T16:32:40.882963+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Beijing Guoan at Port FC",
+  "final": "7:4",
+  "goal_after_70": true,
+  "date": "2026-11-03",
+  "recorded_at": "2026-11-03T16:32:40.882963+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "AFC Champions League Two",
+  "match": "Al-Seeb Club at East Bengal FC",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-11-03",
+  "recorded_at": "2026-11-03T16:32:40.882963+00:00",
   "backstop": true
  }
 ]

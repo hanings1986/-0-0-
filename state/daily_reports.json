@@ -6913,5 +6913,71 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-04": {
+  "date": "2026-11-04",
+  "rows": [
+   {
+    "match": "Alavés at Anaitasuna",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-03T16:32:40.882963+00:00"
+   },
+   {
+    "match": "Eibar at CD Pamplona",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-03T16:32:40.882963+00:00"
+   },
+   {
+    "match": "Espanyol at Celta Vigo",
+    "league": "Copa de la Reina",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-03T16:32:40.882963+00:00"
+   },
+   {
+    "match": "Kyoto Sanga at Cong An Ha Noi",
+    "league": "AFC Champions League Elite",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-03T16:32:40.882963+00:00"
+   },
+   {
+    "match": "Al-Seeb Club at East Bengal FC",
+    "league": "AFC Champions League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 85,
+    "first_goal_team": "Al-Seeb Club",
+    "recorded_at": "2026-11-03T16:32:40.882963+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
