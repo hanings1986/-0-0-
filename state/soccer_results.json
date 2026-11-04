@@ -1,95 +1,5 @@
 [
  {
-  "league_id": "3920",
-  "league_name": "3920",
-  "match": "Arsenal at Fleetwood Town",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "CE Europa at CF Calamocha",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "Copa del Rey",
-  "match": "Almería at UD Castellonense",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Las Palmas at Alcalá",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Mirandés at Atlético Tordesillas",
-  "final": "3:3",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "Copa del Rey",
-  "match": "Rayo Majadahonda at Ciudad De Lucena",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Cultural Leonesa at Gimnastica Segoviana",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Ponferradina at Llanera",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "CD Extremadura at Don Benito",
-  "final": "2:4",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
   "league_id": "3951",
   "league_name": "Copa del Rey",
   "match": "Sant Andreu at Manresa",
@@ -7979,5 +7889,94 @@
   "date": "2026-11-04",
   "recorded_at": "2026-11-04T02:12:04.410604+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "FC Cartagena at CD Minera",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-11-04T09:29:35.516579+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3951",
+  "league_name": "Copa del Rey",
+  "match": "Barakaldo at Reus FC Reddis",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-10-28",
+  "recorded_at": "2026-11-04T09:29:35.516579+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20381",
+  "league_name": "Copa de la Reina",
+  "match": "Eibar at Levante",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T09:29:35.516579+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20381",
+  "league_name": "Copa de la Reina",
+  "match": "Dux Logroño at Osasuna",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T09:29:35.516579+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20381",
+  "league_name": "Copa de la Reina",
+  "match": "Madrid CFF at CD Argual",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T09:29:35.516579+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20381",
+  "league_name": "Copa de la Reina",
+  "match": "Alavés at CP Cacereño",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T09:29:35.516579+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3937",
+  "league_name": "South African Premier",
+  "match": "Sekhukhune United FC at Chippa United",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T09:29:35.516579+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3937",
+  "league_name": "South African Premier",
+  "match": "Marumo Gallants at Golden Arrows",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T09:29:35.516579+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "Brazil Serie A",
+  "match": "Coritiba at Internacional",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T09:29:59.819494+00:00"
  }
 ]
