@@ -7060,6 +7060,30 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-03T22:00:13.741350+00:00"
+   },
+   {
+    "match": "Jaguares de Córdoba at Deportivo Pasto",
+    "league": "Colombian Primera A",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Deportivo Pasto",
+    "recorded_at": "2026-11-04T02:12:04.410604+00:00"
+   },
+   {
+    "match": "Caracas FC at Monagas SC",
+    "league": "Liga FUTVE",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 81,
+    "first_goal_team": "Caracas FC",
+    "recorded_at": "2026-11-04T02:12:04.410604+00:00"
    }
   ],
   "generated_at": null
