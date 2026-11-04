@@ -7243,5 +7243,119 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-05": {
+  "date": "2026-11-05",
+  "rows": [
+   {
+    "match": "Persib Bandung at Melbourne Victory",
+    "league": "2466",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:2",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Melbourne Victory",
+    "recorded_at": "2026-11-04T17:28:40.763659+00:00"
+   },
+   {
+    "match": "AmaZulu at Kaizer Chiefs",
+    "league": "South African Premier",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-04T17:28:24.076918+00:00"
+   },
+   {
+    "match": "Kruger United at Polokwane City FC",
+    "league": "South African Premier",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-04T17:28:24.076918+00:00"
+   },
+   {
+    "match": "Stellenbosch at Richards Bay FC",
+    "league": "South African Premier",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-04T17:28:24.076918+00:00"
+   },
+   {
+    "match": "Orlando Pirates at Siwelele",
+    "league": "South African Premier",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-04T17:28:24.076918+00:00"
+   },
+   {
+    "match": "Durban City at TS Galaxy FC",
+    "league": "South African Premier",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-04T17:28:24.076918+00:00"
+   },
+   {
+    "match": "Olympiacos at Stade Rennais",
+    "league": "UEFA Europa League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-04T17:28:24.076918+00:00"
+   },
+   {
+    "match": "Kashima Antlers at Buriram United",
+    "league": "AFC Champions League Elite",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-04T17:28:24.076918+00:00"
+   },
+   {
+    "match": "Gol Gohar Sirjan FC at Arkadag FK",
+    "league": "AFC Champions League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "Arkadag FK",
+    "recorded_at": "2026-11-04T17:28:24.076918+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
