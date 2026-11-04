@@ -1,195 +1,5 @@
 [
  {
-  "league_id": "3957",
-  "league_name": "3957",
-  "match": "RKC Waalwijk at BVV Barendrecht",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3957",
-  "league_name": "3957",
-  "match": "FC Volendam at FC Eindhoven",
-  "final": "5:3",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3957",
-  "league_name": "3957",
-  "match": "Willem II at Helmond Sport",
-  "final": "3:4",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3957",
-  "league_name": "3957",
-  "match": "SC Cambuur at Kloetinge",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3957",
-  "league_name": "3957",
-  "match": "FC Den Bosch at Rijnsburgse Boys",
-  "final": "3:5",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3957",
-  "league_name": "KNVB Beker",
-  "match": "De Graafschap at Roda JC Kerkrade",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3957",
-  "league_name": "3957",
-  "match": "Almere City at Telstar",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3957",
-  "league_name": "3957",
-  "match": "Go Ahead Eagles at Koninklijke HFC",
-  "final": "0:5",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3959",
-  "league_name": "3959",
-  "match": "Clyde at Penicuik",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3931",
-  "league_name": "3931",
-  "match": "Sampdoria at Ascoli",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3931",
-  "league_name": "3931",
-  "match": "Empoli at Cesena",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3931",
-  "league_name": "3931",
-  "match": "Cremonese at Mantova",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3931",
-  "league_name": "3931",
-  "match": "Sudtirol at Padova",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3931",
-  "league_name": "3931",
-  "match": "Modena at Vicenza",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3931",
-  "league_name": "3931",
-  "match": "US Avellino at Virtus Entella",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "18481",
-  "league_name": "18481",
-  "match": "Aston Villa U21 at Blackpool",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "18481",
-  "league_name": "18481",
-  "match": "Manchester City U21 at Port Vale",
-  "final": "5:0",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "18481",
-  "league_name": "18481",
-  "match": "Everton U21 at Shrewsbury Town",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3915",
-  "league_name": "3915",
-  "match": "Wigan Athletic at Leicester City",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T00:00:35.377644+00:00",
-  "backstop": true
- },
- {
   "league_id": "3915",
   "league_name": "3915",
   "match": "Doncaster Rovers at Luton Town",
@@ -7977,5 +7787,195 @@
   "goal_after_70": true,
   "date": "2026-11-04",
   "recorded_at": "2026-11-04T17:28:40.763659+00:00"
+ },
+ {
+  "league_id": "775",
+  "league_name": "775",
+  "match": "Real Madrid at AEK Athens",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "775",
+  "league_name": "775",
+  "match": "Liverpool at Fenerbahce",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "775",
+  "league_name": "775",
+  "match": "Real Betis at Borussia Dortmund",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "775",
+  "league_name": "775",
+  "match": "Napoli at FC Porto",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "775",
+  "league_name": "775",
+  "match": "Como at Lens",
+  "final": "1:9",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "775",
+  "league_name": "775",
+  "match": "Club Brugge at PSV Eindhoven",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "775",
+  "league_name": "775",
+  "match": "Manchester City at RB Leipzig",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "775",
+  "league_name": "775",
+  "match": "Arsenal at Slavia Prague",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "775",
+  "league_name": "775",
+  "match": "Sabah FK at Viking FK",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3914",
+  "league_name": "3914",
+  "match": "West Ham United at Cardiff City",
+  "final": "3:3",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3914",
+  "league_name": "EFL Championship",
+  "match": "Middlesbrough at Wrexham",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3914",
+  "league_name": "3914",
+  "match": "Wolverhampton Wanderers at Bristol City",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Al-Khaldiya SC at Al Wahda FC",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "AFC Champions League Two",
+  "match": "Al-Nahda Club at Al-Rayyan SC",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "FC Nasaf at Kuwait SC",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Al-Faisaly SC at Al Taawoun",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Al Jazira Club at Al-Muharraq SC",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3901",
+  "league_name": "3901",
+  "match": "KV Mechelen at KV Kortrijk",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20865",
+  "league_name": "20865",
+  "match": "Nigeria U17 at Brazil U17",
+  "final": "1:3",
+  "goal_after_70": true,
+  "date": "2026-11-04",
+  "recorded_at": "2026-11-04T22:49:51.216730+00:00",
+  "backstop": true
  }
 ]
