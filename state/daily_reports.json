@@ -7681,5 +7681,119 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-06": {
+  "date": "2026-11-06",
+  "rows": [
+   {
+    "match": "Jagiellonia Bialystok at Levski Sofia",
+    "league": "UEFA Europa League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 83,
+    "first_goal_team": "Levski Sofia",
+    "recorded_at": "2026-11-05T23:48:45.761445+00:00"
+   },
+   {
+    "match": "Marseille at Bayer Leverkusen",
+    "league": "UEFA Europa League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "Marseille",
+    "recorded_at": "2026-11-05T23:48:45.761445+00:00"
+   },
+   {
+    "match": "Braga at AGF",
+    "league": "UEFA Conference League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-05T23:48:45.761445+00:00"
+   },
+   {
+    "match": "KAA Gent at KuPS Kuopio",
+    "league": "UEFA Conference League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-05T23:48:45.761445+00:00"
+   },
+   {
+    "match": "Hajduk Split at Lincoln Red Imps",
+    "league": "UEFA Conference League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 89,
+    "first_goal_team": "Lincoln Red Imps",
+    "recorded_at": "2026-11-05T23:48:45.761445+00:00"
+   },
+   {
+    "match": "Al Shabab at Abha",
+    "league": "Saudi Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-05T23:48:45.761445+00:00"
+   },
+   {
+    "match": "Al Khaleej at Al Kholood",
+    "league": "Saudi Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-05T23:48:45.761445+00:00"
+   },
+   {
+    "match": "Al Fayha at Al Qadsiah",
+    "league": "Saudi Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-05T23:48:45.761445+00:00"
+   },
+   {
+    "match": "River Plate at Aldosivi",
+    "league": "Argentine LPF",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "River Plate",
+    "recorded_at": "2026-11-05T23:48:45.761445+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
