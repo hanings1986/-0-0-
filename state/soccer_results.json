@@ -1,115 +1,5 @@
 [
  {
-  "league_id": "3951",
-  "league_name": "Copa del Rey",
-  "match": "Ceuta at Poblense",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "Copa del Rey",
-  "match": "Real Unión Irun at Portugalete",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "Copa del Rey",
-  "match": "CD Sabadell at Utebo",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "Copa del Rey",
-  "match": "Mallorca at Alcoyano",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "Copa del Rey",
-  "match": "UD Logroñés at Amorebieta",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "Copa del Rey",
-  "match": "Tenerife at Badajoz",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "Copa del Rey",
-  "match": "Albacete at Calvo Sotelo",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3902",
-  "league_name": "3902",
-  "match": "Buriram United at Gamba Osaka",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2466",
-  "league_name": "2466",
-  "match": "Melbourne Victory at Persib Bandung",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2466",
-  "league_name": "2466",
-  "match": "FC Seoul at The Cong-Viettel FC",
-  "final": "0:5",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2466",
-  "league_name": "2466",
-  "match": "Kuwait SC at FC Nasaf",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T17:25:15.111422+00:00",
-  "backstop": true
- },
- {
   "league_id": "20865",
   "league_name": "20865",
   "match": "Ghana U17 at Argentina U17",
@@ -7974,5 +7864,115 @@
   "goal_after_70": true,
   "date": "2026-11-05",
   "recorded_at": "2026-11-05T10:43:58.092412+00:00"
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Phnom Penh Crown FC at Kitchee SC",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-05T18:20:43.145053+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Adelaide United FC at Lion City Sailors FC",
+  "final": "5:0",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-05T18:20:43.145053+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Shanghai Shenhua FC at Machida Zelvia",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-05T18:20:43.145053+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Tai Po FC at BG Pathum United",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-05T18:20:43.145053+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Gangwon FC at Kuching City",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-05T18:20:43.145053+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "2466",
+  "match": "Tampines Rovers FC at PKR Svay Rieng",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-05T18:20:43.145053+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18914",
+  "league_name": "18914",
+  "match": "India at Pakistan",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-05T18:20:43.145053+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18914",
+  "league_name": "18914",
+  "match": "Bangladesh at Bhutan",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-05T18:20:43.145053+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8316",
+  "league_name": "8316",
+  "match": "NorthEast United FC at Churchill Brothers",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-05T18:20:43.145053+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8316",
+  "league_name": "8316",
+  "match": "Odisha FC at Mohun Bagan Super Giant",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-05T18:20:43.145053+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18505",
+  "league_name": "18505",
+  "match": "Dempo Sports Club at Samaleswari SC",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-05T18:20:43.145053+00:00",
+  "backstop": true
  }
 ]
