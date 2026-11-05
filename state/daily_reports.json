@@ -7498,6 +7498,78 @@
     "first_goal_minute": 78,
     "first_goal_team": "Al-Rayyan SC",
     "recorded_at": "2026-11-04T22:49:51.216730+00:00"
+   },
+   {
+    "match": "Guaraní at Sportivo Ameliano",
+    "league": "Paraguayan Primera",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 88,
+    "first_goal_team": "Guaraní",
+    "recorded_at": "2026-11-05T02:58:57.159506+00:00"
+   },
+   {
+    "match": "Reading at Oxford United",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Oxford United",
+    "recorded_at": "2026-11-05T02:58:57.159506+00:00"
+   },
+   {
+    "match": "Sekhukhune United FC at Chippa United",
+    "league": "South African Premier",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-05T02:58:57.159506+00:00"
+   },
+   {
+    "match": "Marumo Gallants at Golden Arrows",
+    "league": "South African Premier",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-05T02:58:57.159506+00:00"
+   },
+   {
+    "match": "Corinthians at São Paulo",
+    "league": "Brazil Serie A",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-05T02:58:57.159506+00:00"
+   },
+   {
+    "match": "UPNFM at Olancho FC",
+    "league": "Honduran Liga Nacional",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-05T02:58:57.159506+00:00"
    }
   ],
   "generated_at": null
