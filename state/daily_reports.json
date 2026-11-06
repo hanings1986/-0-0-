@@ -7843,5 +7843,47 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-07": {
+  "date": "2026-11-07",
+  "rows": [
+   {
+    "match": "Rubin Kazan at Lokomotiv Moscow",
+    "league": "Russian Premier",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Rubin Kazan",
+    "recorded_at": "2026-11-06T19:21:03.232779+00:00"
+   },
+   {
+    "match": "Eibar at Castellón",
+    "league": "LALIGA 2",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-06T19:21:03.232779+00:00"
+   },
+   {
+    "match": "Energie Cottbus at TSV Eintracht Braunschweig",
+    "league": "2. Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-06T19:21:03.232779+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }

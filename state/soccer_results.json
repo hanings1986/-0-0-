@@ -1,75 +1,5 @@
 [
  {
-  "league_id": "20865",
-  "league_name": "20865",
-  "match": "Poland U17 at Brazil U17",
-  "final": "3:3",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20865",
-  "league_name": "20865",
-  "match": "Morocco U17 at North Korea U17",
-  "final": "6:0",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Harrogate Town at Carlisle United",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Eastleigh at Forest Green Rovers",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Aldershot Town at Sutton United",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3945",
-  "league_name": "3945",
-  "match": "Västerås SK at Degerfors IF",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3945",
-  "league_name": "3945",
-  "match": "Malmö FF at Halmstads BK",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
   "league_id": "3945",
   "league_name": "Swedish Allsvenskan",
   "match": "BK Häcken at IF Brommapojkarna",
@@ -7972,6 +7902,76 @@
   "goal_after_70": false,
   "date": "2026-11-06",
   "recorded_at": "2026-11-06T12:03:44.975027+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3946",
+  "league_name": "3946",
+  "match": "Kasimpasa at Gaziantep FK",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-11-06",
+  "recorded_at": "2026-11-06T19:21:03.232779+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3939",
+  "league_name": "Russian Premier",
+  "match": "Rubin Kazan at Lokomotiv Moscow",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-11-06",
+  "recorded_at": "2026-11-06T19:21:03.232779+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3921",
+  "league_name": "LALIGA 2",
+  "match": "Eibar at Castellón",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-06",
+  "recorded_at": "2026-11-06T19:21:03.232779+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3927",
+  "league_name": "2. Bundesliga",
+  "match": "Energie Cottbus at TSV Eintracht Braunschweig",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-06",
+  "recorded_at": "2026-11-06T19:21:03.232779+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8316",
+  "league_name": "8316",
+  "match": "Bengaluru FC at FC GOA",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-06",
+  "recorded_at": "2026-11-06T19:21:03.232779+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18505",
+  "league_name": "18505",
+  "match": "Mohammedan SC at Bengaluru United FC",
+  "final": "4:3",
+  "goal_after_70": true,
+  "date": "2026-11-06",
+  "recorded_at": "2026-11-06T19:21:03.232779+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18505",
+  "league_name": "18505",
+  "match": "Chanmari FC at Shillong Lajong FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-06",
+  "recorded_at": "2026-11-06T19:21:03.232779+00:00",
   "backstop": true
  }
 ]
