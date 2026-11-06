@@ -7792,6 +7792,18 @@
     "first_goal_minute": 76,
     "first_goal_team": "River Plate",
     "recorded_at": "2026-11-05T23:48:45.761445+00:00"
+   },
+   {
+    "match": "CA Independiente Siguatepeque at CD Choloma",
+    "league": "Honduran Liga Nacional",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-06T04:00:45.700871+00:00"
    }
   ],
   "generated_at": null

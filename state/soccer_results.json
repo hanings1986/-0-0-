@@ -1,145 +1,5 @@
 [
  {
-  "league_id": "735",
-  "league_name": "SPFL Premiership",
-  "match": "Falkirk at Aberdeen",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Dundee United at Celtic",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Kilmarnock at Dundee",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Motherwell at St Johnstone",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "735",
-  "league_name": "SPFL Premiership",
-  "match": "Hibernian at St Mirren",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2466",
-  "league_name": "AFC Champions League Two",
-  "match": "Arkadag FK at Gol Gohar Sirjan FC",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2466",
-  "league_name": "2466",
-  "match": "Al-Muharraq SC at Al Jazira Club",
-  "final": "4:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2466",
-  "league_name": "2466",
-  "match": "Al-Rayyan SC at Al-Nahda Club",
-  "final": "1:4",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2466",
-  "league_name": "2466",
-  "match": "Al Taawoun at Al-Faisaly SC",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2466",
-  "league_name": "2466",
-  "match": "Al Wahda FC at Al-Khaldiya SC",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "24079",
-  "league_name": "24079",
-  "match": "Czarni Sosnowiec at SK Brann",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "24079",
-  "league_name": "24079",
-  "match": "Hammarby IF at Spartak Myjava",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "24079",
-  "league_name": "24079",
-  "match": "Eintracht Frankfurt at PSV Eindhoven",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
-  "league_id": "24079",
-  "league_name": "24079",
-  "match": "Feberbache at Real Sociedad",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-28T21:52:07.865994+00:00",
-  "backstop": true
- },
- {
   "league_id": "24079",
   "league_name": "24079",
   "match": "Feyenoord Rotterdam at VfL Wolfsburg",
@@ -7975,5 +7835,143 @@
   "date": "2026-11-05",
   "recorded_at": "2026-11-05T23:48:45.761445+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3932",
+  "league_name": "3932",
+  "match": "Piratas at Cancún FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-06",
+  "recorded_at": "2026-11-06T04:00:45.700871+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23541",
+  "league_name": "23541",
+  "match": "Atlas at Necaxa",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-06T04:00:45.700871+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23541",
+  "league_name": "23541",
+  "match": "Toluca at Querétaro",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-06",
+  "recorded_at": "2026-11-06T04:00:45.700871+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Belgrano (Córdoba) at Gimnasia La Plata",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-06T04:00:45.700871+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Remo at Palmeiras",
+  "final": "6:1",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-06T04:00:45.700871+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Bahia at Cruzeiro",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-11-06",
+  "recorded_at": "2026-11-06T04:00:45.700871+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Londrina at Botafogo-SP",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-06T04:00:45.700871+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23284",
+  "league_name": "23284",
+  "match": "Real Potosí at Bolívar",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-06T04:00:45.700871+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3929",
+  "league_name": "Honduran Liga Nacional",
+  "match": "CA Independiente Siguatepeque at CD Choloma",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-06T04:00:45.700871+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3929",
+  "league_name": "3929",
+  "match": "Platense at Club Deportivo Marathón",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-11-06",
+  "recorded_at": "2026-11-06T04:00:45.700871+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4005",
+  "league_name": "4005",
+  "match": "Cartaginés at Inter de San Carlos",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-06T04:00:45.700871+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4005",
+  "league_name": "4005",
+  "match": "Saprissa at Herediano",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-11-06",
+  "recorded_at": "2026-11-06T04:00:45.700871+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8312",
+  "league_name": "8312",
+  "match": "Antofagasta at Universidad de Chile",
+  "final": "4:0",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-06T04:00:50.289703+00:00"
+ },
+ {
+  "league_id": "3934",
+  "league_name": "3934",
+  "match": "Sportivo Luqueño at Rubio Ñú",
+  "final": "0:5",
+  "goal_after_70": true,
+  "date": "2026-11-05",
+  "recorded_at": "2026-11-06T04:00:50.289722+00:00"
  }
 ]
