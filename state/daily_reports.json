@@ -7804,6 +7804,42 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-06T04:00:45.700871+00:00"
+   },
+   {
+    "match": "Al Riyadh at Al Fateh",
+    "league": "Saudi Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-06T12:03:44.975027+00:00"
+   },
+   {
+    "match": "Al Nassr at Al Hazem",
+    "league": "Saudi Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-06T12:03:44.975027+00:00"
+   },
+   {
+    "match": "Neom SC at Al Ittihad",
+    "league": "Saudi Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-06T12:03:44.975027+00:00"
    }
   ],
   "generated_at": null
