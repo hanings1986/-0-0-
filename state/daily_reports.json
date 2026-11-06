@@ -7882,6 +7882,78 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-06T19:21:03.232779+00:00"
+   },
+   {
+    "match": "Alavés at Sevilla",
+    "league": "LALIGA",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-06T23:47:17.758142+00:00"
+   },
+   {
+    "match": "Arouca at FC Famalicao",
+    "league": "Liga Portugal",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 96,
+    "first_goal_team": "FC Famalicao",
+    "recorded_at": "2026-11-06T23:47:17.758142+00:00"
+   },
+   {
+    "match": "Sochaux at AS Nancy Lorraine",
+    "league": "Ligue 2",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 74,
+    "first_goal_team": "AS Nancy Lorraine",
+    "recorded_at": "2026-11-06T23:47:17.758142+00:00"
+   },
+   {
+    "match": "Red Star FC 93 at Dijon FCO",
+    "league": "Ligue 2",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Dijon FCO",
+    "recorded_at": "2026-11-06T23:47:17.758142+00:00"
+   },
+   {
+    "match": "Dunfermline Athletic at Raith Rovers",
+    "league": "SPFL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-06T23:47:17.758142+00:00"
+   },
+   {
+    "match": "NAC Breda at FC Dordrecht",
+    "league": "Keuken Kampioen Divisie",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-06T23:47:17.758142+00:00"
    }
   ],
   "generated_at": null
