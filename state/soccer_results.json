@@ -2,126 +2,6 @@
  {
   "league_id": "3951",
   "league_name": "3951",
-  "match": "Granada at Cieza",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-29T23:53:19.421235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Aguilas at Antequera CF",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-29",
-  "recorded_at": "2026-10-29T23:53:19.421235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Burgos at CD Laredo",
-  "final": "2:4",
-  "goal_after_70": true,
-  "date": "2026-10-29",
-  "recorded_at": "2026-10-29T23:53:19.421235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "FC Andorra at CD Varea",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-10-29",
-  "recorded_at": "2026-10-29T23:53:19.421235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Castellón at Conquense",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-10-29",
-  "recorded_at": "2026-10-29T23:53:19.421235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Real Valladolid at Covadonga",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-29T23:53:19.421235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Sporting Gijón at Guijuelo",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-10-29",
-  "recorded_at": "2026-10-29T23:53:19.421235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "Copa del Rey",
-  "match": "Unionistas de Salamanca at Real Ávila",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-29",
-  "recorded_at": "2026-10-29T23:53:19.421235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "UD Ourense at Gimnástica Torrelavega",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-28",
-  "recorded_at": "2026-10-29T23:53:19.421235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Athletic Club at AE Prat",
-  "final": "1:6",
-  "goal_after_70": true,
-  "date": "2026-10-29",
-  "recorded_at": "2026-10-29T23:53:19.421235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Deportivo at Auriense Cented Academy",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-10-29",
-  "recorded_at": "2026-10-29T23:53:19.421235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
-  "match": "Racing Santander at Ribadesella",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-10-29",
-  "recorded_at": "2026-10-29T23:53:19.421235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3951",
-  "league_name": "3951",
   "match": "Sevilla at Sporting Hortaleza",
   "final": "0:3",
   "goal_after_70": true,
@@ -7975,6 +7855,126 @@
   "goal_after_70": true,
   "date": "2026-11-07",
   "recorded_at": "2026-11-07T03:17:03.498147+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18992",
+  "league_name": "18992",
+  "match": "Melbourne Victory  at Brisbane Roar",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-07T10:28:56.797977+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18992",
+  "league_name": "18992",
+  "match": "Canberra United  at Perth Glory",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-07T10:28:56.797977+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "Saudi Pro League",
+  "match": "Al Taawoun at Al Ahli",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-07T10:28:56.797977+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "Saudi Pro League",
+  "match": "Al Hilal at Al Ettifaq",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-07T10:28:56.797977+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "21231",
+  "league_name": "Saudi Pro League",
+  "match": "Al Diriyah at Al Faisaly",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-07T10:28:56.797977+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3921",
+  "league_name": "LALIGA 2",
+  "match": "Tenerife at Granada",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-07T10:28:56.797977+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3917",
+  "league_name": "National League",
+  "match": "Tamworth at Gateshead",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-07T10:28:56.797977+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Kyoto Sanga at Nagoya Grampus",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-07T10:28:56.797977+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Fagiano Okayama at Yokohama F. Marinos",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-07T10:28:56.797977+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "V-Varen Nagasaki at Avispa Fukuoka",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-07T10:28:56.797977+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Kashima Antlers at FC Tokyo",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-07T10:28:56.797977+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Kawasaki Frontale at Kashiwa Reysol",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-07T10:28:56.797977+00:00",
   "backstop": true
  }
 ]

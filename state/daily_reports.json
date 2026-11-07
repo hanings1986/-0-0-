@@ -8026,6 +8026,66 @@
     "first_goal_minute": 70,
     "first_goal_team": "Tigre",
     "recorded_at": "2026-11-07T03:17:03.498147+00:00"
+   },
+   {
+    "match": "Al Taawoun at Al Ahli",
+    "league": "Saudi Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-07T10:28:56.797977+00:00"
+   },
+   {
+    "match": "Al Hilal at Al Ettifaq",
+    "league": "Saudi Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-07T10:28:56.797977+00:00"
+   },
+   {
+    "match": "Al Diriyah at Al Faisaly",
+    "league": "Saudi Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-07T10:28:56.797977+00:00"
+   },
+   {
+    "match": "Tenerife at Granada",
+    "league": "LALIGA 2",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-07T10:28:56.797977+00:00"
+   },
+   {
+    "match": "Tamworth at Gateshead",
+    "league": "National League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-07T10:28:56.797977+00:00"
    }
   ],
   "generated_at": null
