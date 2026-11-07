@@ -8089,5 +8089,59 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-08": {
+  "date": "2026-11-08",
+  "rows": [
+   {
+    "match": "Tottenham Hotspur at Leeds United",
+    "league": "Premier League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "Leeds United",
+    "recorded_at": "2026-11-07T16:36:10.438012+00:00"
+   },
+   {
+    "match": "Académico de Viseu at C.D. Nacional",
+    "league": "Liga Portugal",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-07T16:36:10.438012+00:00"
+   },
+   {
+    "match": "Catanzaro at Cesena",
+    "league": "Italian Serie B",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 83,
+    "first_goal_team": "Cesena",
+    "recorded_at": "2026-11-07T16:36:10.438012+00:00"
+   },
+   {
+    "match": "Rodez Aveyron at Clermont Foot",
+    "league": "Ligue 2",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Clermont Foot",
+    "recorded_at": "2026-11-07T16:36:10.438012+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
