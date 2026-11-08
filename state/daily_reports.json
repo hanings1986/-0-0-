@@ -8722,6 +8722,54 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   },
+   {
+    "match": "Levante at Celta Vigo",
+    "league": "LALIGA",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T21:57:38.776619+00:00"
+   },
+   {
+    "match": "Getafe at Villarreal",
+    "league": "LALIGA",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Villarreal",
+    "recorded_at": "2026-11-08T21:57:38.776619+00:00"
+   },
+   {
+    "match": "Racing Genk at Union St.-Gilloise",
+    "league": "Belgian Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Union St.-Gilloise",
+    "recorded_at": "2026-11-08T21:57:38.776619+00:00"
+   },
+   {
+    "match": "Atromitos at OFI Crete",
+    "league": "Greek Super League",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T21:57:38.776619+00:00"
    }
   ],
   "generated_at": null
