@@ -8524,6 +8524,54 @@
     "first_goal_minute": 70,
     "first_goal_team": "Olancho FC",
     "recorded_at": "2026-11-08T05:42:15.193686+00:00"
+   },
+   {
+    "match": "Sanfrecce Hiroshima at Machida Zelvia",
+    "league": "Japanese J1 League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T12:14:42.669423+00:00"
+   },
+   {
+    "match": "Chongqing Tonglianglong at Beijing Guoan",
+    "league": "Chinese Super League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Beijing Guoan",
+    "recorded_at": "2026-11-08T12:14:42.669423+00:00"
+   },
+   {
+    "match": "De Graafschap at Vitesse",
+    "league": "Keuken Kampioen Divisie",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T12:14:42.669423+00:00"
+   },
+   {
+    "match": "Mito Hollyhock at JEF United Ichihara-Chiba",
+    "league": "Japanese J1 League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "JEF United Ichihara-Chiba",
+    "recorded_at": "2026-11-08T12:14:42.669423+00:00"
    }
   ],
   "generated_at": null
