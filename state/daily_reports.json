@@ -8428,6 +8428,102 @@
     "first_goal_minute": 94,
     "first_goal_team": "Once Caldas",
     "recorded_at": "2026-11-07T23:54:49.674011+00:00"
+   },
+   {
+    "match": "Cacahuatique at C.D. Platense",
+    "league": "Salvadoran Primera",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 75,
+    "first_goal_team": "Cacahuatique",
+    "recorded_at": "2026-11-08T05:42:15.193686+00:00"
+   },
+   {
+    "match": "Alavés at Tenerife",
+    "league": "Liga F",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T05:42:15.193686+00:00"
+   },
+   {
+    "match": "Maritimo at Estoril",
+    "league": "Liga Portugal",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T05:42:15.193686+00:00"
+   },
+   {
+    "match": "Mallorca at FC Andorra",
+    "league": "LALIGA 2",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T05:42:15.193686+00:00"
+   },
+   {
+    "match": "Deportivo Cali at América de Cali",
+    "league": "Colombian Primera A",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T05:42:15.193686+00:00"
+   },
+   {
+    "match": "St. Louis CITY SC at Houston Dynamo FC",
+    "league": "MLS",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 97,
+    "first_goal_team": "St. Louis CITY SC",
+    "recorded_at": "2026-11-08T05:42:15.193686+00:00"
+   },
+   {
+    "match": "Sporting Kansas City at San Diego FC",
+    "league": "MLS",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Sporting Kansas City",
+    "recorded_at": "2026-11-08T05:42:15.193686+00:00"
+   },
+   {
+    "match": "Olancho FC at Club Deportivo Olimpia",
+    "league": "Honduran Liga Nacional",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 70,
+    "first_goal_team": "Olancho FC",
+    "recorded_at": "2026-11-08T05:42:15.193686+00:00"
    }
   ],
   "generated_at": null

@@ -1,205 +1,5 @@
 [
  {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Bristol Rovers at Fleetwood Town",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Crawley Town at Oldham Athletic",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Exeter City at Salford City",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Gillingham at Shrewsbury Town",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Rotherham United at Swindon Town",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Cheltenham Town at Tranmere Rovers",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Yeovil Town at FC Halifax Town",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Harrogate Town at Forest Green Rovers",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Gateshead at Aldershot Town",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Carlisle United at Altrincham",
-  "final": "2:4",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "National League",
-  "match": "Eastleigh at Barrow",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Hartlepool United at Boreham Wood",
-  "final": "4:3",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Kidderminster Harriers at Solihull Moors",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "National League",
-  "match": "Woking at Tamworth",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Southend United at Wealdstone",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Sutton United at Worthing",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3940",
-  "league_name": "3940",
-  "match": "Raith Rovers at Arbroath",
-  "final": "0:4",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3940",
-  "league_name": "3940",
-  "match": "Queen's Park at Ayr United",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3940",
-  "league_name": "3940",
-  "match": "Inverness Caledonian Thistle at Dunfermline Athletic",
-  "final": "5:1",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3940",
-  "league_name": "3940",
-  "match": "Greenock Morton at Partick Thistle",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-10-31",
-  "recorded_at": "2026-10-31T17:55:43.140130+00:00",
-  "backstop": true
- },
- {
   "league_id": "3933",
   "league_name": "3933",
   "match": "VVV-Venlo at MVV Maastricht",
@@ -7980,6 +7780,206 @@
   "goal_after_70": true,
   "date": "2026-11-07",
   "recorded_at": "2026-11-07T23:54:49.674011+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20956",
+  "league_name": "Liga F",
+  "match": "Alavés at Tenerife",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "715",
+  "league_name": "Liga Portugal",
+  "match": "Maritimo at Estoril",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3921",
+  "league_name": "LALIGA 2",
+  "match": "Mallorca at FC Andorra",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "Colombian Primera A",
+  "match": "Deportivo Cali at América de Cali",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Newell's Old Boys at Instituto (Córdoba)",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3934",
+  "league_name": "3934",
+  "match": "Nacional Asunción at Libertad",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "670",
+  "league_name": "670",
+  "match": "Juan Pablo II at Melgar",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "670",
+  "league_name": "670",
+  "match": "Sport Huancayo at Cienciano del Cusco",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Portland Timbers at Austin FC",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "Colorado Rapids at FC Dallas",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "MLS",
+  "match": "St. Louis CITY SC at Houston Dynamo FC",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "San Jose Earthquakes at Minnesota United FC",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "LA Galaxy at Real Salt Lake",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "MLS",
+  "match": "Sporting Kansas City at San Diego FC",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "LAFC at Seattle Sounders FC",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3929",
+  "league_name": "3929",
+  "match": "FC Motagua at UPNFM",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3929",
+  "league_name": "Honduran Liga Nacional",
+  "match": "Olancho FC at Club Deportivo Olimpia",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3943",
+  "league_name": "Salvadoran Primera",
+  "match": "Cacahuatique at C.D. Platense",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-11-07",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "Luis Ángel Firpo at Internacional Santa Tecla",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "Águila at Alianza FC",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-11-08",
+  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
   "backstop": true
  }
 ]
