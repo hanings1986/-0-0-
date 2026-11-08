@@ -8575,5 +8575,155 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-09": {
+  "date": "2026-11-09",
+  "rows": [
+   {
+    "match": "Manchester United at Aston Villa",
+    "league": "Women's Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Manchester United",
+    "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   },
+   {
+    "match": "Real Betis at Elche",
+    "league": "LALIGA",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 81,
+    "first_goal_team": "Real Betis",
+    "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   },
+   {
+    "match": "Alavés at Tenerife",
+    "league": "Liga F",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   },
+   {
+    "match": "Académico de Viseu at C.D. Nacional",
+    "league": "Liga Portugal",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "C.D. Nacional",
+    "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   },
+   {
+    "match": "Maritimo at Estoril",
+    "league": "Liga Portugal",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   },
+   {
+    "match": "Mallorca at FC Andorra",
+    "league": "LALIGA 2",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   },
+   {
+    "match": "Eldense at Las Palmas",
+    "league": "LALIGA 2",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   },
+   {
+    "match": "Malmö FF at IFK Göteborg",
+    "league": "Swedish Allsvenskan",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   },
+   {
+    "match": "Mjällby AIF at IF Brommapojkarna",
+    "league": "Swedish Allsvenskan",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   },
+   {
+    "match": "Sarpsborg FK at Hamarkameratene",
+    "league": "Norwegian Eliteserien",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "3:0",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Hamarkameratene",
+    "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   },
+   {
+    "match": "Deportivo Cali at América de Cali",
+    "league": "Colombian Primera A",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   },
+   {
+    "match": "Sanfrecce Hiroshima at Machida Zelvia",
+    "league": "750",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-08T17:59:03.262954+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
