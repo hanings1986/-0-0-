@@ -8854,6 +8854,54 @@
     "first_goal_minute": 99,
     "first_goal_team": "Xelajú MC",
     "recorded_at": "2026-11-09T01:38:14.289345+00:00"
+   },
+   {
+    "match": "Notts County at Bromley",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-09T08:40:56.260297+00:00"
+   },
+   {
+    "match": "Bradford City at Leicester City",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-09T08:40:56.260297+00:00"
+   },
+   {
+    "match": "Cambridge United at Luton Town",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-09T08:40:56.260297+00:00"
+   },
+   {
+    "match": "Oxford United at Peterborough United",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-09T08:40:56.260297+00:00"
    }
   ],
   "generated_at": null

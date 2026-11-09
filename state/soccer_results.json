@@ -1,95 +1,5 @@
 [
  {
-  "league_id": "23390",
-  "league_name": "23390",
-  "match": "Bristol City at Wolverhampton",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T18:50:18.296537+00:00",
-  "backstop": true
- },
- {
-  "league_id": "20955",
-  "league_name": "20955",
-  "match": "Paris Saint-Germain at Paris FC",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T18:50:18.296537+00:00",
-  "backstop": true
- },
- {
-  "league_id": "735",
-  "league_name": "735",
-  "match": "Celtic at Falkirk",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T18:50:18.296537+00:00",
-  "backstop": true
- },
- {
-  "league_id": "5330",
-  "league_name": "5330",
-  "match": "Hibernian at Heart of Midlothian",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T18:50:18.296537+00:00",
-  "backstop": true
- },
- {
-  "league_id": "715",
-  "league_name": "715",
-  "match": "C.D. Nacional at Arouca",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T18:50:18.296537+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3946",
-  "league_name": "3946",
-  "match": "Samsunspor at Istanbul Basaksehir",
-  "final": "5:2",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T18:50:18.296537+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3946",
-  "league_name": "3946",
-  "match": "Gaziantep FK at Trabzonspor",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T18:50:18.296537+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3946",
-  "league_name": "3946",
-  "match": "Besiktas at Kasimpasa",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T18:50:18.296537+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3939",
-  "league_name": "3939",
-  "match": "Rostov at Dynamo Makhachkala",
-  "final": "0:3",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T18:50:18.296537+00:00",
-  "backstop": true
- },
- {
   "league_id": "3939",
   "league_name": "3939",
   "match": "Akron Tolyatti at FC Baltika Kaliningrad",
@@ -7983,5 +7893,92 @@
   "date": "2026-11-09",
   "recorded_at": "2026-11-09T01:38:14.289345+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "670",
+  "league_name": "670",
+  "match": "Deportivo Moquegua at Universitario",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-11-09",
+  "recorded_at": "2026-11-09T08:40:56.260297+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3929",
+  "league_name": "3929",
+  "match": "CD Choloma at Club Deportivo Marathón",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-09",
+  "recorded_at": "2026-11-09T08:40:56.260297+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Notts County at Bromley",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-09",
+  "recorded_at": "2026-11-09T08:40:56.260297+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Bradford City at Leicester City",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-09",
+  "recorded_at": "2026-11-09T08:40:56.260297+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Cambridge United at Luton Town",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-09",
+  "recorded_at": "2026-11-09T08:40:56.260297+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Oxford United at Peterborough United",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-09",
+  "recorded_at": "2026-11-09T08:40:56.260297+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Puebla at Querétaro",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-11-09",
+  "recorded_at": "2026-11-09T08:41:04.795226+00:00"
+ },
+ {
+  "league_id": "19915",
+  "league_name": "19915",
+  "match": "Forward Madison FC at Charlotte Independence",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-09",
+  "recorded_at": "2026-11-09T08:41:04.827068+00:00"
+ },
+ {
+  "league_id": "3928",
+  "league_name": "3928",
+  "match": "CD Malacateco at Antigua GFC",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-09",
+  "recorded_at": "2026-11-09T08:41:04.852740+00:00"
  }
 ]
