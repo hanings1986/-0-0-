@@ -1,35 +1,5 @@
 [
  {
-  "league_id": "3939",
-  "league_name": "3939",
-  "match": "Akron Tolyatti at FC Baltika Kaliningrad",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T18:50:18.296537+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3939",
-  "league_name": "3939",
-  "match": "Spartak Moscow at Lokomotiv Moscow",
-  "final": "0:4",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T18:50:18.296537+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3901",
-  "league_name": "3901",
-  "match": "Antwerp at Cercle Brugge KSV",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T18:50:18.296537+00:00",
-  "backstop": true
- },
- {
   "league_id": "3901",
   "league_name": "3901",
   "match": "Oud-Heverlee Leuven at Sint-Truidense",
@@ -7980,5 +7950,35 @@
   "goal_after_70": true,
   "date": "2026-11-09",
   "recorded_at": "2026-11-09T08:41:04.852740+00:00"
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Leyton Orient at Doncaster Rovers",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-09",
+  "recorded_at": "2026-11-09T19:14:41.359682+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Mansfield Town at Stevenage",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-09",
+  "recorded_at": "2026-11-09T19:14:41.359682+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3915",
+  "league_name": "EFL League One",
+  "match": "Huddersfield Town at Wycombe Wanderers",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-09",
+  "recorded_at": "2026-11-09T19:14:41.359682+00:00",
+  "backstop": true
  }
 ]
