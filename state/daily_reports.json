@@ -8944,6 +8944,78 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-09T19:14:41.359682+00:00"
+   },
+   {
+    "match": "Real Sociedad II at CD Sabadell",
+    "league": "LALIGA 2",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T02:16:31.753565+00:00"
+   },
+   {
+    "match": "Eldense at Las Palmas",
+    "league": "LALIGA 2",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 95,
+    "first_goal_team": "Las Palmas",
+    "recorded_at": "2026-11-10T02:16:31.753565+00:00"
+   },
+   {
+    "match": "Notts County at Bromley",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T02:16:31.753565+00:00"
+   },
+   {
+    "match": "Bradford City at Leicester City",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T02:16:31.753565+00:00"
+   },
+   {
+    "match": "Cambridge United at Luton Town",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T02:16:31.753565+00:00"
+   },
+   {
+    "match": "Oxford United at Peterborough United",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T02:16:31.753565+00:00"
    }
   ],
   "generated_at": null
