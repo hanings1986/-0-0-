@@ -9058,6 +9058,102 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-10T17:46:40.602572+00:00"
+   },
+   {
+    "match": "Chelsea at BK Häcken",
+    "league": "UEFA Women's Champions League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T22:34:36.888787+00:00"
+   },
+   {
+    "match": "UD Logroñés at Amorebieta",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "Amorebieta",
+    "recorded_at": "2026-11-10T22:34:36.888787+00:00"
+   },
+   {
+    "match": "VfL Wolfsburg at Feyenoord Rotterdam",
+    "league": "Women's Europa Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:3",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "VfL Wolfsburg",
+    "recorded_at": "2026-11-10T22:34:36.888787+00:00"
+   },
+   {
+    "match": "Tranmere Rovers at Stockport County",
+    "league": "EFL Trophy",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T22:34:36.888787+00:00"
+   },
+   {
+    "match": "Ipswich Town U21 at Colchester United",
+    "league": "EFL Trophy",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T22:34:36.888787+00:00"
+   },
+   {
+    "match": "Leyton Orient at Doncaster Rovers",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T22:34:36.888787+00:00"
+   },
+   {
+    "match": "Mansfield Town at Stevenage",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T22:34:36.888787+00:00"
+   },
+   {
+    "match": "Huddersfield Town at Wycombe Wanderers",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T22:34:36.888787+00:00"
    }
   ],
   "generated_at": null
