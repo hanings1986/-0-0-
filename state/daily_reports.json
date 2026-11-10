@@ -9019,5 +9019,47 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-11": {
+  "date": "2026-11-11",
+  "rows": [
+   {
+    "match": "Notts County at Bromley",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T17:46:40.602572+00:00"
+   },
+   {
+    "match": "Bradford City at Leicester City",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T17:46:40.602572+00:00"
+   },
+   {
+    "match": "Cambridge United at Luton Town",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-10T17:46:40.602572+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
