@@ -9220,6 +9220,102 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-11T17:27:45.033409+00:00"
+   },
+   {
+    "match": "HB Køge at Oud-Heverlee Leuven",
+    "league": "UEFA Women's Champions League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "OH Leuven",
+    "recorded_at": "2026-11-11T23:40:09.106833+00:00"
+   },
+   {
+    "match": "Ipswich Town at Charlton Athletic",
+    "league": "WSL Players Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "Charlton Athletic",
+    "recorded_at": "2026-11-11T23:40:09.106833+00:00"
+   },
+   {
+    "match": "Spartak Myjava at Hammarby IF",
+    "league": "Women's Europa Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "4:0",
+    "goal_after_70": true,
+    "first_goal_minute": 73,
+    "first_goal_team": "Hammarby IF",
+    "recorded_at": "2026-11-11T23:40:09.106833+00:00"
+   },
+   {
+    "match": "Ajax Amsterdam at Malmö FF",
+    "league": "Women's Europa Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "Ajax Amsterdam",
+    "recorded_at": "2026-11-11T23:40:09.106833+00:00"
+   },
+   {
+    "match": "Alianza FC at Fuerte San Francisco",
+    "league": "Salvadoran Primera",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 73,
+    "first_goal_team": "Fuerte San Francisco",
+    "recorded_at": "2026-11-11T23:40:09.106833+00:00"
+   },
+   {
+    "match": "Notts County at Bromley",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-11T23:40:09.106833+00:00"
+   },
+   {
+    "match": "Bradford City at Leicester City",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-11T23:40:09.106833+00:00"
+   },
+   {
+    "match": "Cambridge United at Luton Town",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-11T23:40:09.106833+00:00"
    }
   ],
   "generated_at": null
