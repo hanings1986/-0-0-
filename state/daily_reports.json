@@ -9181,5 +9181,47 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-12": {
+  "date": "2026-11-12",
+  "rows": [
+   {
+    "match": "Leyton Orient at Doncaster Rovers",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-11T17:27:45.033409+00:00"
+   },
+   {
+    "match": "Mansfield Town at Stevenage",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-11T17:27:45.033409+00:00"
+   },
+   {
+    "match": "Huddersfield Town at Wycombe Wanderers",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-11T17:27:45.033409+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
