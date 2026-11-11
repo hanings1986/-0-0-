@@ -1,25 +1,5 @@
 [
  {
-  "league_id": "740",
-  "league_name": "740",
-  "match": "Valencia at Elche",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T22:33:03.386298+00:00",
-  "backstop": true
- },
- {
-  "league_id": "740",
-  "league_name": "740",
-  "match": "Real Sociedad at Athletic Club",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-11-01",
-  "recorded_at": "2026-11-01T22:33:03.386298+00:00",
-  "backstop": true
- },
- {
   "league_id": "730",
   "league_name": "730",
   "match": "Genoa at Lecce",
@@ -7981,6 +7961,26 @@
   "goal_after_70": true,
   "date": "2026-11-11",
   "recorded_at": "2026-11-11T02:15:14.812869+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19483",
+  "league_name": "UEFA Women's Champions League",
+  "match": "Austria Vienna at Benfica",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-11",
+  "recorded_at": "2026-11-11T09:36:18.564879+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "24079",
+  "league_name": "Women's Europa Cup",
+  "match": "Sparta Prague at Torreense",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-11",
+  "recorded_at": "2026-11-11T09:36:18.564879+00:00",
   "backstop": true
  }
 ]
