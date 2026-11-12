@@ -9340,6 +9340,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-12T04:20:45.109185+00:00"
+   },
+   {
+    "match": "Fredrikstad at BK Häcken",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-12T13:08:01.888145+00:00"
    }
   ],
   "generated_at": null
