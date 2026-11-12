@@ -9316,6 +9316,30 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-11T23:40:09.106833+00:00"
+   },
+   {
+    "match": "Náutico at Londrina",
+    "league": "Brazil Serie B",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:1",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Náutico",
+    "recorded_at": "2026-11-12T04:20:45.109169+00:00"
+   },
+   {
+    "match": "Always Ready at Independiente Petrolero",
+    "league": "Copa Bolivia",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-12T04:20:45.109185+00:00"
    }
   ],
   "generated_at": null
