@@ -9355,5 +9355,71 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-13": {
+  "date": "2026-11-13",
+  "rows": [
+   {
+    "match": "Greece U21 at Iceland U21",
+    "league": "EURO U-21 Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 89,
+    "first_goal_team": "Iceland U21",
+    "recorded_at": "2026-11-12T20:49:34.839757+00:00"
+   },
+   {
+    "match": "Suriname at Lithuania",
+    "league": "Men's International Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-12T20:49:34.839757+00:00"
+   },
+   {
+    "match": "Grenoble at Chambéry Savoie",
+    "league": "Coupe de France",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 94,
+    "first_goal_team": "Grenoble",
+    "recorded_at": "2026-11-12T20:49:34.839757+00:00"
+   },
+   {
+    "match": "Zimbabwe at Equatorial Guinea",
+    "league": "AFCON Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-12T20:49:34.839757+00:00"
+   },
+   {
+    "match": "FC Stade Lausanne-Ouchy at Young Boys",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-12T20:49:34.839757+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
