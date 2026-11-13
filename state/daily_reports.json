@@ -9700,6 +9700,66 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-13T16:47:56.511814+00:00"
+   },
+   {
+    "match": "Switzerland at Slovenia",
+    "league": "UEFA Nations League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T22:16:07.165356+00:00"
+   },
+   {
+    "match": "Lebanon at Iraq",
+    "league": "Men's International Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T22:16:07.165356+00:00"
+   },
+   {
+    "match": "Indonesia at Jordan",
+    "league": "Men's International Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T22:16:07.165356+00:00"
+   },
+   {
+    "match": "Mauritania at Burkina Faso",
+    "league": "AFCON Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 94,
+    "first_goal_team": "Burkina Faso",
+    "recorded_at": "2026-11-13T22:16:07.165356+00:00"
+   },
+   {
+    "match": "Vysocina Jihlava at Mlada Boleslav",
+    "league": "19834",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T22:16:07.165356+00:00"
    }
   ],
   "generated_at": null
