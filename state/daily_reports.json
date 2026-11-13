@@ -9589,5 +9589,119 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-14": {
+  "date": "2026-11-14",
+  "rows": [
+   {
+    "match": "Congo at Comoros",
+    "league": "AFCON Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T16:47:56.511814+00:00"
+   },
+   {
+    "match": "Ethiopia at Mozambique",
+    "league": "AFCON Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 87,
+    "first_goal_team": "Ethiopia",
+    "recorded_at": "2026-11-13T16:47:56.511814+00:00"
+   },
+   {
+    "match": "TBD Away at Universitatea Cluj",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T16:47:56.511814+00:00"
+   },
+   {
+    "match": "Lechia Gdansk at Raków Czestochowa",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T16:47:56.511814+00:00"
+   },
+   {
+    "match": "Notts County at Bromley",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T16:47:56.511814+00:00"
+   },
+   {
+    "match": "Leyton Orient at Doncaster Rovers",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T16:47:56.511814+00:00"
+   },
+   {
+    "match": "Bradford City at Leicester City",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T16:47:56.511814+00:00"
+   },
+   {
+    "match": "Mansfield Town at Stevenage",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T16:47:56.511814+00:00"
+   },
+   {
+    "match": "Huddersfield Town at Wycombe Wanderers",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T16:47:56.511814+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
