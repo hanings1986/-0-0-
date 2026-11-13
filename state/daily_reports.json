@@ -9550,6 +9550,42 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-13T01:35:32.666185+00:00"
+   },
+   {
+    "match": "Boyacá Chicó FC at Llaneros FC",
+    "league": "Colombian Primera A",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T08:45:38.770345+00:00"
+   },
+   {
+    "match": "Indonesia at Jordan",
+    "league": "Men's International Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T08:45:33.656920+00:00"
+   },
+   {
+    "match": "Vysocina Jihlava at Mlada Boleslav",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-13T08:45:33.656920+00:00"
    }
   ],
   "generated_at": null
