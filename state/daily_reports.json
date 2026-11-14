@@ -9808,8 +9808,99 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-14T09:24:39.598344+00:00"
+   },
+   {
+    "match": "Israel at Kosovo",
+    "league": "UEFA Nations League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-14T15:59:23.682451+00:00"
+   },
+   {
+    "match": "Kyrgyz Republic at Chinese Taipei",
+    "league": "Men's International Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-14T15:59:23.682451+00:00"
+   },
+   {
+    "match": "Stade de Reims at Tourcoing",
+    "league": "Coupe de France",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-14T15:59:23.682451+00:00"
+   },
+   {
+    "match": "Rodez Aveyron at Versailles 78",
+    "league": "Coupe de France",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-14T15:59:23.682451+00:00"
+   },
+   {
+    "match": "Otrant Ulcinj at Novi Pazar",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-14T15:59:23.682451+00:00"
+   },
+   {
+    "match": "Beselidhja at Vllaznia Shkoder",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-14T15:59:23.682451+00:00"
+   },
+   {
+    "match": "Gimnasia La Plata at River Plate",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-14T15:59:23.682451+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-11-14T15:59:36.389409+00:00",
+  "summary": {
+   "total": 25,
+   "goal_after_70": 3,
+   "clean_00": 22,
+   "early_goal": 0,
+   "goal_rate": 12.0
+  }
  }
 }
