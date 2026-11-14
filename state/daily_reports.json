@@ -9760,6 +9760,54 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-13T22:16:07.165356+00:00"
+   },
+   {
+    "match": "Perth Glory at Central Coast Mariners",
+    "league": "A-League Women",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "Perth Glory",
+    "recorded_at": "2026-11-14T09:24:39.598344+00:00"
+   },
+   {
+    "match": "Crawley Town at Rotherham United",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-14T09:24:39.598344+00:00"
+   },
+   {
+    "match": "Barnet at Walsall",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-14T09:24:39.598344+00:00"
+   },
+   {
+    "match": "Forest Green Rovers at Woking",
+    "league": "National League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-14T09:24:39.598344+00:00"
    }
   ],
   "generated_at": null
