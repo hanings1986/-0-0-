@@ -9902,5 +9902,119 @@
    "early_goal": 0,
    "goal_rate": 12.0
   }
+ },
+ "2026-11-15": {
+  "date": "2026-11-15",
+  "rows": [
+   {
+    "match": "Hungary at Georgia",
+    "league": "UEFA Nations League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 73,
+    "first_goal_team": "Hungary",
+    "recorded_at": "2026-11-14T20:38:51.338423+00:00"
+   },
+   {
+    "match": "Iran at Palestine",
+    "league": "Men's International Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Iran",
+    "recorded_at": "2026-11-14T20:38:51.338423+00:00"
+   },
+   {
+    "match": "Everton at Tottenham Hotspur",
+    "league": "Women's Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-14T20:38:51.338423+00:00"
+   },
+   {
+    "match": "Rouen at Saint-Brieuc",
+    "league": "Coupe de France",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-14T20:38:51.338423+00:00"
+   },
+   {
+    "match": "Oldham Athletic at Shrewsbury Town",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "2:1",
+    "goal_after_70": true,
+    "first_goal_minute": 73,
+    "first_goal_team": "Shrewsbury Town",
+    "recorded_at": "2026-11-14T20:38:51.338423+00:00"
+   },
+   {
+    "match": "Tranmere Rovers at Fleetwood Town",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "Fleetwood Town",
+    "recorded_at": "2026-11-14T20:38:51.338423+00:00"
+   },
+   {
+    "match": "Wealdstone at Hartlepool United",
+    "league": "National League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 79,
+    "first_goal_team": "Hartlepool United",
+    "recorded_at": "2026-11-14T20:38:51.338423+00:00"
+   },
+   {
+    "match": "Sportivo Italiano at Deportivo Armenio",
+    "league": "Argentine Primera B",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 84,
+    "first_goal_team": "Deportivo Armenio",
+    "recorded_at": "2026-11-14T20:38:51.338423+00:00"
+   },
+   {
+    "match": "Camioneros at Villa Dálmine",
+    "league": "Argentine Primera B",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 84,
+    "first_goal_team": "Camioneros",
+    "recorded_at": "2026-11-14T20:38:51.338423+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
