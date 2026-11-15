@@ -1,95 +1,5 @@
 [
  {
-  "league_id": "3945",
-  "league_name": "3945",
-  "match": "IF Elfsborg at Hammarby IF",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-11-06",
-  "recorded_at": "2026-11-06T23:47:17.758142+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3913",
-  "league_name": "3913",
-  "match": "Lyngby Boldklub at Silkeborg IF",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-11-06",
-  "recorded_at": "2026-11-06T23:47:17.758142+00:00",
-  "backstop": true
- },
- {
-  "league_id": "745",
-  "league_name": "745",
-  "match": "Racing Club at Barracas Central",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-06",
-  "recorded_at": "2026-11-06T23:47:17.758142+00:00",
-  "backstop": true
- },
- {
-  "league_id": "670",
-  "league_name": "670",
-  "match": "Cusco FC at Atlético Grau",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-11-06",
-  "recorded_at": "2026-11-06T23:47:17.758142+00:00",
-  "backstop": true
- },
- {
-  "league_id": "760",
-  "league_name": "Liga MX",
-  "match": "FC Juárez at Atlético de San Luis",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T03:17:03.498147+00:00",
-  "backstop": true
- },
- {
-  "league_id": "760",
-  "league_name": "760",
-  "match": "Tijuana at Necaxa",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T03:17:03.498147+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "3952",
-  "match": "AS Etoile Matoury at Olympique De Cayenne",
-  "final": "1:3",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T03:17:03.498147+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23633",
-  "league_name": "23633",
-  "match": "Lexington SC at DC Power FC",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T03:17:03.498147+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23633",
-  "league_name": "USL Super League",
-  "match": "Tampa Bay Sun FC at Fort Lauderdale United FC",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T03:17:03.498147+00:00",
-  "backstop": true
- },
- {
   "league_id": "23541",
   "league_name": "23541",
   "match": "Puebla at Pachuca",
@@ -7986,5 +7896,95 @@
   "goal_after_70": true,
   "date": "2026-11-15",
   "recorded_at": "2026-11-15T07:03:03.261910+00:00"
+ },
+ {
+  "league_id": "23633",
+  "league_name": "USL Super League",
+  "match": "Dallas Trinity FC at Tampa Bay Sun FC",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-15T14:43:48.007062+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20226",
+  "league_name": "20226",
+  "match": "Bournemouth at Norwich City",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-15T14:43:48.007062+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20956",
+  "league_name": "20956",
+  "match": "Dux Logroño at Madrid CFF",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-15T14:43:48.007062+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20956",
+  "league_name": "20956",
+  "match": "Athletic Club at Real Sociedad",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-15T14:43:48.007062+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "FCSB at Chindia Targoviste",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-15T14:43:48.007062+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19834",
+  "league_name": "19834",
+  "match": "Druzhba Maikop at Krasnodar",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-15T14:43:48.007062+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20132",
+  "league_name": "20132",
+  "match": "Belarus U21 at Kazakhstan U21",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-15T14:43:48.007062+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "19945",
+  "league_name": "19945",
+  "match": "De Graafschap at ADO Den Haag",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-15T14:43:48.007062+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18505",
+  "league_name": "18505",
+  "match": "Chanmari FC at Dempo Sports Club",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-15T14:43:48.007062+00:00",
+  "backstop": true
  }
 ]

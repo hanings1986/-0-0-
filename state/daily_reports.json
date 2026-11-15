@@ -10229,8 +10229,27 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-15T07:02:50.444293+00:00"
+   },
+   {
+    "match": "Dallas Trinity FC at Tampa Bay Sun FC",
+    "league": "USL Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-15T14:43:48.007062+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-11-15T14:43:51.141999+00:00",
+  "summary": {
+   "total": 28,
+   "goal_after_70": 13,
+   "clean_00": 15,
+   "early_goal": 0,
+   "goal_rate": 46.4
+  }
  }
 }
