@@ -10338,6 +10338,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-15T19:59:46.837022+00:00"
+   },
+   {
+    "match": "Club Atlético Morelia at Leones Negros",
+    "league": "Liga de Expansión MX",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-15T23:56:05.071944+00:00"
    }
   ],
   "generated_at": null
