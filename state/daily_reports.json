@@ -10251,5 +10251,95 @@
    "early_goal": 0,
    "goal_rate": 46.4
   }
+ },
+ "2026-11-16": {
+  "date": "2026-11-16",
+  "rows": [
+   {
+    "match": "Armenia at Latvia",
+    "league": "UEFA Nations League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-15T19:59:46.837022+00:00"
+   },
+   {
+    "match": "Birmingham City at Aston Villa",
+    "league": "Women's Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Aston Villa",
+    "recorded_at": "2026-11-15T19:59:46.837022+00:00"
+   },
+   {
+    "match": "Les Ulis at Chatou",
+    "league": "Coupe de France",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-15T19:59:46.837022+00:00"
+   },
+   {
+    "match": "Plabennec at Stade Pontivy",
+    "league": "Coupe de France",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-15T19:59:46.837022+00:00"
+   },
+   {
+    "match": "USF Fecamp at Stade Sotteville",
+    "league": "Coupe de France",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-15T19:59:46.837022+00:00"
+   },
+   {
+    "match": "Granada at Valencia",
+    "league": "Liga F",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-15T19:59:46.837022+00:00"
+   },
+   {
+    "match": "Polissya Zhitomir at FC Kolos Kovalivka",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-15T19:59:46.837022+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
