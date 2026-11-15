@@ -10157,6 +10157,78 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-15T00:21:01.990716+00:00"
+   },
+   {
+    "match": "Forest Green Rovers at Woking",
+    "league": "3917",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-15T07:02:50.444293+00:00"
+   },
+   {
+    "match": "Atlético-MG at Mirassol",
+    "league": "Brazil Serie A",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-15T07:02:50.444293+00:00"
+   },
+   {
+    "match": "Independiente Medellín at Águilas Doradas",
+    "league": "Colombian Primera A",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 83,
+    "first_goal_team": "Independiente Medellín",
+    "recorded_at": "2026-11-15T07:02:50.444293+00:00"
+   },
+   {
+    "match": "Fortaleza CEIF at Atlético Bucaramanga",
+    "league": "Colombian Primera A",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 95,
+    "first_goal_team": "Atlético Bucaramanga",
+    "recorded_at": "2026-11-15T07:02:50.444293+00:00"
+   },
+   {
+    "match": "Thionville at AS Tefana",
+    "league": "Coupe de France",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-15T07:02:50.444293+00:00"
+   },
+   {
+    "match": "J-Lease FC at Oita Trinita",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-15T07:02:50.444293+00:00"
    }
   ],
   "generated_at": null
