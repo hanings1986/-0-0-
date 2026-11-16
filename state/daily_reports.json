@@ -10350,6 +10350,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-15T23:56:05.071944+00:00"
+   },
+   {
+    "match": "Peñarol at Defensor Sporting",
+    "league": "Liga AUF Uruguaya",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Peñarol",
+    "recorded_at": "2026-11-16T06:07:45.213857+00:00"
    }
   ],
   "generated_at": null

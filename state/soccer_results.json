@@ -2,86 +2,6 @@
  {
   "league_id": "3918",
   "league_name": "3918",
-  "match": "Macclesfield FC at Mansfield Town",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T20:30:06.656235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3918",
-  "league_name": "3918",
-  "match": "Swindon Town at Milton Keynes Dons",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T20:30:06.656235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3918",
-  "league_name": "3918",
-  "match": "Walsall at Newport County",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T20:30:06.656235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3918",
-  "league_name": "3918",
-  "match": "Stevenage at Oxford United",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T20:30:06.656235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3918",
-  "league_name": "3918",
-  "match": "Alvechurch at Plymouth Argyle",
-  "final": "4:0",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T20:30:06.656235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3918",
-  "league_name": "3918",
-  "match": "Scunthorpe United at Port Vale",
-  "final": "4:2",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T20:30:06.656235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3918",
-  "league_name": "3918",
-  "match": "Sholing at Salisbury FC",
-  "final": "6:0",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T20:30:06.656235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3918",
-  "league_name": "3918",
-  "match": "Northampton Town at York City",
-  "final": "4:0",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T20:30:06.656235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3918",
-  "league_name": "3918",
   "match": "Notts County at Altrincham",
   "final": "2:2",
   "goal_after_70": true,
@@ -7985,5 +7905,84 @@
   "date": "2026-11-15",
   "recorded_at": "2026-11-15T23:56:05.071944+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "19267",
+  "league_name": "19267",
+  "match": "Curaçao at Panama",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-16T06:07:45.213857+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23541",
+  "league_name": "23541",
+  "match": "Pachuca at Monterrey",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-11-16",
+  "recorded_at": "2026-11-16T06:07:45.213857+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23541",
+  "league_name": "23541",
+  "match": "América at Toluca",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-11-16",
+  "recorded_at": "2026-11-16T06:07:45.213857+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3903",
+  "league_name": "3903",
+  "match": "Gimnasia y Tiro (Salta) at Ferro Carril Oeste",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-16T06:07:45.213857+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "680",
+  "league_name": "Liga AUF Uruguaya",
+  "match": "Peñarol at Defensor Sporting",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-16T06:07:45.213857+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3928",
+  "league_name": "3928",
+  "match": "Antigua GFC at Suchitepequez",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-16T06:07:45.213857+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "Águila at Inca Aruba",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-16T06:07:45.213857+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23633",
+  "league_name": "23633",
+  "match": "DC Power FC at Sporting Jax",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-15",
+  "recorded_at": "2026-11-16T06:07:48.118835+00:00"
  }
 ]
