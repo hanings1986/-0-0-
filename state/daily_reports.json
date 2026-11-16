@@ -10384,5 +10384,35 @@
    "early_goal": 0,
    "goal_rate": 20.0
   }
+ },
+ "2026-11-17": {
+  "date": "2026-11-17",
+  "rows": [
+   {
+    "match": "Benin at Central African Republic",
+    "league": "AFCON Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 93,
+    "first_goal_team": "Benin",
+    "recorded_at": "2026-11-16T23:52:27.026184+00:00"
+   },
+   {
+    "match": "Iceland U21 at Greece U21",
+    "league": "EURO U-21 Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Iceland U21",
+    "recorded_at": "2026-11-16T23:52:27.026184+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
