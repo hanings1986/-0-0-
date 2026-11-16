@@ -1,35 +1,5 @@
 [
  {
-  "league_id": "3918",
-  "league_name": "3918",
-  "match": "Notts County at Altrincham",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T20:30:06.656235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "725",
-  "league_name": "725",
-  "match": "Telstar at Fortuna Sittard",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T20:30:06.656235+00:00",
-  "backstop": true
- },
- {
-  "league_id": "725",
-  "league_name": "725",
-  "match": "Sparta Rotterdam at ADO Den Haag",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-11-07",
-  "recorded_at": "2026-11-07T20:30:06.656235+00:00",
-  "backstop": true
- },
- {
   "league_id": "3914",
   "league_name": "3914",
   "match": "Swansea City at Birmingham City",
@@ -7984,5 +7954,35 @@
   "goal_after_70": true,
   "date": "2026-11-15",
   "recorded_at": "2026-11-16T06:07:48.118835+00:00"
+ },
+ {
+  "league_id": "8315",
+  "league_name": "8315",
+  "match": "Cameroon at Namibia",
+  "final": "0:3",
+  "goal_after_70": true,
+  "date": "2026-11-16",
+  "recorded_at": "2026-11-16T15:47:02.475014+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8315",
+  "league_name": "8315",
+  "match": "Senegal at Sudan",
+  "final": "2:4",
+  "goal_after_70": true,
+  "date": "2026-11-16",
+  "recorded_at": "2026-11-16T15:47:02.475014+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "20132",
+  "league_name": "Men's U-21 Friendly",
+  "match": "Montenegro U21 at Bosnia-Herzegovina U21",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-16",
+  "recorded_at": "2026-11-16T15:47:02.475014+00:00",
+  "backstop": true
  }
 ]

@@ -10362,8 +10362,27 @@
     "first_goal_minute": 72,
     "first_goal_team": "Peñarol",
     "recorded_at": "2026-11-16T06:07:45.213857+00:00"
+   },
+   {
+    "match": "Montenegro U21 at Bosnia-Herzegovina U21",
+    "league": "Men's U-21 Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-16T15:47:02.475014+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-11-16T15:47:05.304383+00:00",
+  "summary": {
+   "total": 10,
+   "goal_after_70": 2,
+   "clean_00": 8,
+   "early_goal": 0,
+   "goal_rate": 20.0
+  }
  }
 }
