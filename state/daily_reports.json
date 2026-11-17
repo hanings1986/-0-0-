@@ -10414,5 +10414,59 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-18": {
+  "date": "2026-11-18",
+  "rows": [
+   {
+    "match": "Palestine at Lebanon",
+    "league": "Men's International Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-17T17:05:10.165251+00:00"
+   },
+   {
+    "match": "Zambia at Burundi",
+    "league": "AFCON Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "Burundi",
+    "recorded_at": "2026-11-17T17:05:10.165251+00:00"
+   },
+   {
+    "match": "Egypt at Malawi",
+    "league": "AFCON Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-17T17:05:10.165251+00:00"
+   },
+   {
+    "match": "Nigeria at Tanzania",
+    "league": "AFCON Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-17T17:05:10.165251+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
