@@ -10465,6 +10465,42 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-17T17:05:10.165251+00:00"
+   },
+   {
+    "match": "Uganda at Botswana",
+    "league": "AFCON Qualifying",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 74,
+    "first_goal_team": "Botswana",
+    "recorded_at": "2026-11-17T23:50:22.926980+00:00"
+   },
+   {
+    "match": "Japan U21 at Egypt U21",
+    "league": "Men's U-21 Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-17T23:50:22.926980+00:00"
+   },
+   {
+    "match": "Spain U21 at Albania U21",
+    "league": "Men's U-21 Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-17T23:50:22.926980+00:00"
    }
   ],
   "generated_at": null
