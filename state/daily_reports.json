@@ -10501,6 +10501,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-17T23:50:22.926980+00:00"
+   },
+   {
+    "match": "Colombia at Chile",
+    "league": "Men's International Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-18T06:59:29.141183+00:00"
    }
   ],
   "generated_at": null
