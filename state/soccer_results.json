@@ -2,16 +2,6 @@
  {
   "league_id": "770",
   "league_name": "770",
-  "match": "San Jose Earthquakes at Minnesota United FC",
-  "final": "3:1",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T05:42:15.193686+00:00",
-  "backstop": true
- },
- {
-  "league_id": "770",
-  "league_name": "770",
   "match": "LA Galaxy at Real Salt Lake",
   "final": "2:1",
   "goal_after_70": true,
@@ -7982,6 +7972,16 @@
   "goal_after_70": true,
   "date": "2026-11-18",
   "recorded_at": "2026-11-18T06:59:29.141183+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18505",
+  "league_name": "18505",
+  "match": "Sreenidi Deccan FC at Bengaluru United FC",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-11-18",
+  "recorded_at": "2026-11-18T16:22:50.417089+00:00",
   "backstop": true
  }
 ]
