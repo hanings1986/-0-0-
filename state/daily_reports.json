@@ -10516,5 +10516,47 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-19": {
+  "date": "2026-11-19",
+  "rows": [
+   {
+    "match": "Paris Saint-Germain at Chelsea",
+    "league": "UEFA Women's Champions League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 87,
+    "first_goal_team": "Chelsea",
+    "recorded_at": "2026-11-18T23:02:13.756613+00:00"
+   },
+   {
+    "match": "Oud-Heverlee Leuven at Juventus",
+    "league": "UEFA Women's Champions League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "Juventus",
+    "recorded_at": "2026-11-18T23:02:13.756613+00:00"
+   },
+   {
+    "match": "Real Unión Irun at Portugalete",
+    "league": "Copa del Rey",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-18T23:02:13.756613+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
