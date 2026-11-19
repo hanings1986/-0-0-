@@ -10555,6 +10555,30 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-18T23:02:13.756613+00:00"
+   },
+   {
+    "match": "Santos at Coritiba",
+    "league": "Brazil Serie A",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 92,
+    "first_goal_team": "Santos",
+    "recorded_at": "2026-11-19T04:09:38.370165+00:00"
+   },
+   {
+    "match": "Bahia at Grêmio",
+    "league": "Brazil Serie A",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-19T04:09:38.370165+00:00"
    }
   ],
   "generated_at": null
