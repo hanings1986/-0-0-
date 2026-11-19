@@ -10582,5 +10582,35 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-20": {
+  "date": "2026-11-20",
+  "rows": [
+   {
+    "match": "Madrid CFF at CD Argual",
+    "league": "Copa de la Reina",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "CD Argual",
+    "recorded_at": "2026-11-19T21:40:25.894486+00:00"
+   },
+   {
+    "match": "Panama U17 at Qatar U17",
+    "league": "FIFA U-17 World Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 91,
+    "first_goal_team": "Qatar U17",
+    "recorded_at": "2026-11-19T21:40:25.894486+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
