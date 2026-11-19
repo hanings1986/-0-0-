@@ -1,15 +1,5 @@
 [
  {
-  "league_id": "700",
-  "league_name": "700",
-  "match": "Chelsea at Sunderland",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
   "league_id": "740",
   "league_name": "LALIGA",
   "match": "Real Betis at Elche",
@@ -7982,6 +7972,16 @@
   "goal_after_70": true,
   "date": "2026-11-19",
   "recorded_at": "2026-11-19T04:09:38.370165+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18505",
+  "league_name": "18505",
+  "match": "Shillong Lajong FC at Dempo Sports Club",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-19",
+  "recorded_at": "2026-11-19T13:14:23.660601+00:00",
   "backstop": true
  }
 ]
