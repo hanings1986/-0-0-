@@ -1,175 +1,5 @@
 [
  {
-  "league_id": "715",
-  "league_name": "715",
-  "match": "Gil Vicente at Santa Clara",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3946",
-  "league_name": "3946",
-  "match": "Fenerbahce at Çorum FK",
-  "final": "0:5",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3946",
-  "league_name": "3946",
-  "match": "Trabzonspor at Alanyaspor",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3939",
-  "league_name": "3939",
-  "match": "Gazovik Orenburg at Krylia Sovetov",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3939",
-  "league_name": "3939",
-  "match": "Akron Tolyatti at Spartak Moscow",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3939",
-  "league_name": "3939",
-  "match": "Rostov at Zenit St Petersburg",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3901",
-  "league_name": "3901",
-  "match": "Anderlecht at Club Brugge",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3901",
-  "league_name": "3901",
-  "match": "KV Kortrijk at KAA Gent",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3921",
-  "league_name": "3921",
-  "match": "Almería at Girona",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3921",
-  "league_name": "LALIGA 2",
-  "match": "Eldense at Las Palmas",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3927",
-  "league_name": "3927",
-  "match": "Hannover 96 at 1. FC Heidenheim 1846",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3927",
-  "league_name": "3927",
-  "match": "St. Pauli at 1. FC Magdeburg",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3927",
-  "league_name": "3927",
-  "match": "Karlsruher SC at VfL Bochum",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3931",
-  "league_name": "3931",
-  "match": "Modena at Virtus Entella",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3907",
-  "league_name": "3907",
-  "match": "SC Rheindorf Altach at TSV Hartberg",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3907",
-  "league_name": "3907",
-  "match": "Austria Vienna at WSG Swarovski Tirol",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3907",
-  "league_name": "3907",
-  "match": "RB Salzburg at SK Sturm Graz",
-  "final": "3:4",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
   "league_id": "3955",
   "league_name": "3955",
   "match": "Levadiakos at AEK Athens",
@@ -7983,5 +7813,174 @@
   "date": "2026-11-20",
   "recorded_at": "2026-11-20T10:36:46.056503+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3939",
+  "league_name": "3939",
+  "match": "Krylia Sovetov at Rostov",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "5697",
+  "league_name": "5697",
+  "match": "Vietnam U17 at Belgium U17",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "5697",
+  "league_name": "5697",
+  "match": "Tajikistan U17 at Cuba U17",
+  "final": "3:5",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "5697",
+  "league_name": "5697",
+  "match": "New Zealand U17 at Mali U17",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "5697",
+  "league_name": "5697",
+  "match": "China U17 at Spain U17",
+  "final": "5:0",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "5697",
+  "league_name": "5697",
+  "match": "Jamaica U17 at Italy U17",
+  "final": "6:0",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "5697",
+  "league_name": "5697",
+  "match": "Croatia U17 at Senegal U17",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "5697",
+  "league_name": "5697",
+  "match": "Morocco U17 at Fiji U17",
+  "final": "0:6",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "5697",
+  "league_name": "5697",
+  "match": "Uzbekistan U17 at Ivory Coast U17",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "Japanese J1 League",
+  "match": "Shimizu S-Pulse at Kashima Antlers",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "Japanese J1 League",
+  "match": "JEF United Ichihara-Chiba at Kashiwa Reysol",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Mito Hollyhock at Vissel Kobe",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8316",
+  "league_name": "8316",
+  "match": "Sporting Club Delhi at East Bengal FC",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "8316",
+  "league_name": "8316",
+  "match": "Mumbai City FC at Bengaluru FC",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18505",
+  "league_name": "18505",
+  "match": "Chanmari FC at Rajasthan United FC",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18505",
+  "league_name": "18505",
+  "match": "Gokulam Kerala FC at Mohammedan SC",
+  "final": "1:4",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:22.862737+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3906",
+  "league_name": "3906",
+  "match": "Adelaide United FC at Western Sydney Wanderers FC",
+  "final": "4:2",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T18:50:27.680657+00:00"
  }
 ]

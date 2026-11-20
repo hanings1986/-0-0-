@@ -10612,5 +10612,35 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-21": {
+  "date": "2026-11-21",
+  "rows": [
+   {
+    "match": "Shimizu S-Pulse at Kashima Antlers",
+    "league": "Japanese J1 League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 73,
+    "first_goal_team": "Shimizu S-Pulse",
+    "recorded_at": "2026-11-20T18:50:22.862737+00:00"
+   },
+   {
+    "match": "JEF United Ichihara-Chiba at Kashiwa Reysol",
+    "league": "Japanese J1 League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "JEF United Ichihara-Chiba",
+    "recorded_at": "2026-11-20T18:50:22.862737+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
