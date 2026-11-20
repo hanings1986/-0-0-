@@ -1,16 +1,6 @@
 [
  {
   "league_id": "715",
-  "league_name": "Liga Portugal",
-  "match": "Académico de Viseu at C.D. Nacional",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-11-08",
-  "recorded_at": "2026-11-08T17:59:03.262954+00:00",
-  "backstop": true
- },
- {
-  "league_id": "715",
   "league_name": "715",
   "match": "Gil Vicente at Santa Clara",
   "final": "1:2",
@@ -7982,6 +7972,16 @@
   "goal_after_70": true,
   "date": "2026-11-20",
   "recorded_at": "2026-11-20T02:41:27.687671+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18992",
+  "league_name": "18992",
+  "match": "Wellington Phoenix at Western Sydney ",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-11-20",
+  "recorded_at": "2026-11-20T10:36:46.056503+00:00",
   "backstop": true
  }
 ]
