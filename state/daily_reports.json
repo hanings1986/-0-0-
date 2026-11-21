@@ -10747,8 +10747,63 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-21T07:46:23.126985+00:00"
+   },
+   {
+    "match": "Perth Glory FC at Central Coast Mariners FC",
+    "league": "A-League Men",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T15:40:56.140216+00:00"
+   },
+   {
+    "match": "Chelsea at Liverpool",
+    "league": "Women's Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T15:40:46.627560+00:00"
+   },
+   {
+    "match": "Sydney FC at Brisbane Roar FC",
+    "league": "A-League Men",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T15:40:46.627560+00:00"
+   },
+   {
+    "match": "Greenock Morton at Dunfermline Athletic",
+    "league": "SPFL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T15:40:46.627560+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-11-21T15:40:57.189576+00:00",
+  "summary": {
+   "total": 15,
+   "goal_after_70": 7,
+   "clean_00": 8,
+   "early_goal": 0,
+   "goal_rate": 46.7
+  }
  }
 }
