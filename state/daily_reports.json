@@ -10805,5 +10805,179 @@
    "early_goal": 0,
    "goal_rate": 46.7
   }
+ },
+ "2026-11-22": {
+  "date": "2026-11-22",
+  "rows": [
+   {
+    "match": "Borussia Dortmund at Borussia Mönchengladbach",
+    "league": "Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Borussia Dortmund",
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "Degerfors IF at AIK",
+    "league": "Swedish Allsvenskan",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T21:14:41.682407+00:00"
+   },
+   {
+    "match": "Sunderland at Aston Villa",
+    "league": "Premier League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "VfB Stuttgart at Schalke 04",
+    "league": "Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "Wrexham at Lincoln City",
+    "league": "EFL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "Wrexham",
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "Montpellier at Lens",
+    "league": "Première Ligue",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 92,
+    "first_goal_team": "Montpellier",
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "Perth Glory FC at Central Coast Mariners FC",
+    "league": "3906",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "Adelaide United  at Newcastle Jets ",
+    "league": "A-League Women",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "GD Chaves at Maritimo",
+    "league": "Taca de Portugal",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "Stevenage at Notts County",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "Stevenage",
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "Rotherham United at Grimsby Town",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "Walsall at York City",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "Fredrikstad at Hamarkameratene",
+    "league": "Norwegian Eliteserien",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "Deportivo Armenio at Sportivo Italiano",
+    "league": "Argentine Primera B",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
