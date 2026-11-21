@@ -10639,6 +10639,66 @@
     "first_goal_minute": 76,
     "first_goal_team": "JEF United Ichihara-Chiba",
     "recorded_at": "2026-11-20T18:50:22.862737+00:00"
+   },
+   {
+    "match": "KVC Westerlo at Cercle Brugge KSV",
+    "league": "Belgian Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Cercle Brugge KSV",
+    "recorded_at": "2026-11-21T00:43:18.154466+00:00"
+   },
+   {
+    "match": "Ayr United at Inverness Caledonian Thistle",
+    "league": "SPFL Championship",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T00:43:18.154466+00:00"
+   },
+   {
+    "match": "FC Emmen at Jong FC Utrecht",
+    "league": "Keuken Kampioen Divisie",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 80,
+    "first_goal_team": "Jong FC Utrecht",
+    "recorded_at": "2026-11-21T00:43:18.154466+00:00"
+   },
+   {
+    "match": "Central Español Fútbol Club at Racing (Montevideo)",
+    "league": "Liga AUF Uruguaya",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 75,
+    "first_goal_team": "Racing (Montevideo)",
+    "recorded_at": "2026-11-21T00:43:18.154466+00:00"
+   },
+   {
+    "match": "Independiente Santa Fe at Independiente Medellín",
+    "league": "Colombian Primera A",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Independiente Medellín",
+    "recorded_at": "2026-11-21T00:43:18.154466+00:00"
    }
   ],
   "generated_at": null
