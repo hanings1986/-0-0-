@@ -10699,6 +10699,54 @@
     "first_goal_minute": 72,
     "first_goal_team": "Independiente Medellín",
     "recorded_at": "2026-11-21T00:43:18.154466+00:00"
+   },
+   {
+    "match": "Unión La Calera at Palestino",
+    "league": "Chilean Primera",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 91,
+    "first_goal_team": "Unión La Calera",
+    "recorded_at": "2026-11-21T07:46:23.126985+00:00"
+   },
+   {
+    "match": "Adelaide United  at Newcastle Jets ",
+    "league": "A-League Women",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T07:46:23.126985+00:00"
+   },
+   {
+    "match": "V-Varen Nagasaki at Machida Zelvia",
+    "league": "Japanese J1 League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T07:46:23.126985+00:00"
+   },
+   {
+    "match": "Nagoya Grampus at Tokyo Verdy 1969",
+    "league": "Japanese J1 League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-21T07:46:23.126985+00:00"
    }
   ],
   "generated_at": null
