@@ -11063,5 +11063,131 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-23": {
+  "date": "2026-11-23",
+  "rows": [
+   {
+    "match": "Brighton & Hove Albion at Hull City",
+    "league": "Premier League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 92,
+    "first_goal_team": "Hull City",
+    "recorded_at": "2026-11-22T16:42:57.692018+00:00"
+   },
+   {
+    "match": "West Ham United at Arsenal",
+    "league": "Women's Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-22T16:42:57.692018+00:00"
+   },
+   {
+    "match": "Burnley at Sunderland",
+    "league": "WSL Players Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Sunderland",
+    "recorded_at": "2026-11-22T16:42:57.692018+00:00"
+   },
+   {
+    "match": "Goztepe at Erzurum BB",
+    "league": "Turkish Super Lig",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 70,
+    "first_goal_team": "Goztepe",
+    "recorded_at": "2026-11-22T16:42:57.692018+00:00"
+   },
+   {
+    "match": "KAA Gent at Waasland-Beveren",
+    "league": "Belgian Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Waasland-Beveren",
+    "recorded_at": "2026-11-22T16:42:57.692018+00:00"
+   },
+   {
+    "match": "VfL Osnabruck at Karlsruher SC",
+    "league": "2. Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-22T16:42:57.692018+00:00"
+   },
+   {
+    "match": "Australia U17 at Denmark U17",
+    "league": "FIFA U-17 World Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-22T16:42:57.692018+00:00"
+   },
+   {
+    "match": "Uganda U17 at Ecuador U17",
+    "league": "FIFA U-17 World Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-22T16:42:57.692018+00:00"
+   },
+   {
+    "match": "Saudi Arabia U17 at France U17",
+    "league": "FIFA U-17 World Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 73,
+    "first_goal_team": "Saudi Arabia U17",
+    "recorded_at": "2026-11-22T16:42:57.692018+00:00"
+   },
+   {
+    "match": "Randers FC at Viborg FF",
+    "league": "Danish Superliga",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-22T16:42:57.692018+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
