@@ -11186,6 +11186,102 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-22T16:42:57.692018+00:00"
+   },
+   {
+    "match": "Union St.-Gilloise at KV Kortrijk",
+    "league": "Belgian Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 84,
+    "first_goal_team": "Union St.-Gilloise",
+    "recorded_at": "2026-11-22T22:10:03.264899+00:00"
+   },
+   {
+    "match": "Oud-Heverlee Leuven at Anderlecht",
+    "league": "Belgian Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 86,
+    "first_goal_team": "Anderlecht",
+    "recorded_at": "2026-11-22T22:10:03.264899+00:00"
+   },
+   {
+    "match": "RB Salzburg at Austria Vienna",
+    "league": "Austrian Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "Austria Vienna",
+    "recorded_at": "2026-11-22T22:10:03.264899+00:00"
+   },
+   {
+    "match": "Volos NFC at Panetolikos",
+    "league": "Greek Super League",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 88,
+    "first_goal_team": "Panetolikos",
+    "recorded_at": "2026-11-22T22:10:03.264899+00:00"
+   },
+   {
+    "match": "PEC Zwolle at PSV Eindhoven",
+    "league": "Dutch Vrouwen Eredivisie",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-22T22:10:03.264899+00:00"
+   },
+   {
+    "match": "Lillestrom at Sarpsborg FK",
+    "league": "Norwegian Eliteserien",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "Lillestrom",
+    "recorded_at": "2026-11-22T22:10:03.264899+00:00"
+   },
+   {
+    "match": "Deportes Concepcion at Huachipato",
+    "league": "Chilean Primera",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-22T22:10:03.264899+00:00"
+   },
+   {
+    "match": "Bolívar at Real Potosí",
+    "league": "Bolivian Liga Profesional",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 92,
+    "first_goal_team": "Real Potosí",
+    "recorded_at": "2026-11-22T22:10:03.264899+00:00"
    }
   ],
   "generated_at": null
