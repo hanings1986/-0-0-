@@ -1,44 +1,5 @@
 [
  {
-  "league_id": "3943",
-  "league_name": "3943",
-  "match": "Inca Aruba at Atletico Balboa",
-  "final": "4:1",
-  "goal_after_70": true,
-  "date": "2026-11-13",
-  "recorded_at": "2026-11-13T01:35:32.666185+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3922",
-  "league_name": "Men's International Friendly",
-  "match": "Indonesia at Jordan",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-11-13",
-  "recorded_at": "2026-11-13T08:45:33.656920+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "Club Friendly",
-  "match": "Vysocina Jihlava at Mlada Boleslav",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-11-13",
-  "recorded_at": "2026-11-13T08:45:33.656920+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8346",
-  "league_name": "8346",
-  "match": "Independiente Rivadavia at Estudiantes de La Plata",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-11-13",
-  "recorded_at": "2026-11-13T08:45:38.719738+00:00"
- },
- {
   "league_id": "650",
   "league_name": "Colombian Primera A",
   "match": "Boyacá Chicó FC at Llaneros FC",
@@ -7977,5 +7938,42 @@
   "date": "2026-11-22",
   "recorded_at": "2026-11-22T01:25:59.261569+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3906",
+  "league_name": "3906",
+  "match": "Macarthur FC at Wellington Phoenix",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-22",
+  "recorded_at": "2026-11-22T08:42:40.294430+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "640",
+  "league_name": "640",
+  "match": "Ñublense at Universidad de Concepción",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-11-22",
+  "recorded_at": "2026-11-22T08:42:40.330449+00:00"
+ },
+ {
+  "league_id": "620",
+  "league_name": "620",
+  "match": "Independiente Petrolero at Oriente Petrolero",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-11-22",
+  "recorded_at": "2026-11-22T08:42:40.349268+00:00"
+ },
+ {
+  "league_id": "4005",
+  "league_name": "4005",
+  "match": "Herediano at Puntarenas FC",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-22",
+  "recorded_at": "2026-11-22T08:42:40.362019+00:00"
  }
 ]
