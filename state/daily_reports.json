@@ -10976,6 +10976,90 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-21T21:14:19.317849+00:00"
+   },
+   {
+    "match": "Torino at Napoli",
+    "league": "Serie A",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 73,
+    "first_goal_team": "Napoli",
+    "recorded_at": "2026-11-22T01:25:59.261569+00:00"
+   },
+   {
+    "match": "Carolina Ascent FC at Sporting Jax",
+    "league": "USL Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 70,
+    "first_goal_team": "Sporting Jax",
+    "recorded_at": "2026-11-22T01:25:59.261569+00:00"
+   },
+   {
+    "match": "Mallorca at Tenerife",
+    "league": "LALIGA 2",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-22T01:25:59.261569+00:00"
+   },
+   {
+    "match": "Deportivo Morón at Colón (Santa Fe)",
+    "league": "Argentine Nacional B",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-22T01:25:59.261569+00:00"
+   },
+   {
+    "match": "Coritiba at Bahia",
+    "league": "Brazil Serie A",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 74,
+    "first_goal_team": "Coritiba",
+    "recorded_at": "2026-11-22T01:25:59.261569+00:00"
+   },
+   {
+    "match": "Universidad de Chile at O'Higgins",
+    "league": "Chilean Primera",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Universidad de Chile",
+    "recorded_at": "2026-11-22T01:25:59.261569+00:00"
+   },
+   {
+    "match": "C.D. Platense at Águila",
+    "league": "Salvadoran Primera",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-22T01:25:59.261569+00:00"
    }
   ],
   "generated_at": null
