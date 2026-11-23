@@ -2,36 +2,6 @@
  {
   "league_id": "3952",
   "league_name": "3952",
-  "match": "Horizon Patho at Chateaubriant",
-  "final": "5:0",
-  "goal_after_70": true,
-  "date": "2026-11-14",
-  "recorded_at": "2026-11-14T20:38:51.338423+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "3952",
-  "match": "ESA Linas-Montlhery at Contres",
-  "final": "0:4",
-  "goal_after_70": true,
-  "date": "2026-11-14",
-  "recorded_at": "2026-11-14T20:38:51.338423+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "3952",
-  "match": "Chassieu Declines FC at Cournon",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-11-14",
-  "recorded_at": "2026-11-14T20:38:51.338423+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "3952",
   "match": "US Quevilly at Dunkerque",
   "final": "0:3",
   "goal_after_70": true,
@@ -7977,5 +7947,33 @@
   "date": "2026-11-23",
   "recorded_at": "2026-11-23T02:49:41.131027+00:00",
   "backstop": true
+ },
+ {
+  "league_id": "3929",
+  "league_name": "3929",
+  "match": "Olancho FC at Juticalpa FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-23",
+  "recorded_at": "2026-11-23T11:33:37.595121+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Necaxa at Querétaro",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-11-23",
+  "recorded_at": "2026-11-23T11:33:37.884868+00:00"
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Huracán at Instituto (Córdoba)",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-23",
+  "recorded_at": "2026-11-23T11:33:38.031354+00:00"
  }
 ]
