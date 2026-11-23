@@ -11357,5 +11357,47 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-24": {
+  "date": "2026-11-24",
+  "rows": [
+   {
+    "match": "Aris at Asteras Tripoli",
+    "league": "Greek Super League",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 94,
+    "first_goal_team": "Aris",
+    "recorded_at": "2026-11-23T22:54:56.975209+00:00"
+   },
+   {
+    "match": "De Graafschap at Vitesse",
+    "league": "Keuken Kampioen Divisie",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "De Graafschap",
+    "recorded_at": "2026-11-23T22:54:56.975209+00:00"
+   },
+   {
+    "match": "CR Belouizdad at Douanes",
+    "league": "CAF Confederation Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-23T22:54:56.975209+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
