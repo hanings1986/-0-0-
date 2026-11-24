@@ -1,95 +1,5 @@
 [
  {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Newport County at Crewe Alexandra",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-11-14",
-  "recorded_at": "2026-11-14T20:38:51.338423+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Accrington Stanley at Port Vale",
-  "final": "4:2",
-  "goal_after_70": true,
-  "date": "2026-11-14",
-  "recorded_at": "2026-11-14T20:38:51.338423+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "York City at Rochdale",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-11-14",
-  "recorded_at": "2026-11-14T20:38:51.338423+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Northampton Town at Salford City",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-14",
-  "recorded_at": "2026-11-14T20:38:51.338423+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "EFL League Two",
-  "match": "Oldham Athletic at Shrewsbury Town",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-11-14",
-  "recorded_at": "2026-11-14T20:38:51.338423+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "3916",
-  "match": "Grimsby Town at Swindon Town",
-  "final": "1:4",
-  "goal_after_70": true,
-  "date": "2026-11-14",
-  "recorded_at": "2026-11-14T20:38:51.338423+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3916",
-  "league_name": "EFL League Two",
-  "match": "Tranmere Rovers at Fleetwood Town",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-11-14",
-  "recorded_at": "2026-11-14T20:38:51.338423+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Tamworth at AFC Hornchurch",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-11-14",
-  "recorded_at": "2026-11-14T20:38:51.338423+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3917",
-  "league_name": "3917",
-  "match": "Boston United at Carlisle United",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-14",
-  "recorded_at": "2026-11-14T20:38:51.338423+00:00",
-  "backstop": true
- },
- {
   "league_id": "3917",
   "league_name": "3917",
   "match": "AFC Fylde at Eastleigh",
@@ -7974,6 +7884,96 @@
   "goal_after_70": false,
   "date": "2026-11-23",
   "recorded_at": "2026-11-23T22:54:56.975209+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "770",
+  "league_name": "770",
+  "match": "LAFC at St. Louis CITY SC",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-11-24",
+  "recorded_at": "2026-11-24T06:53:06.167285+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Vitória at Internacional",
+  "final": "2:5",
+  "goal_after_70": true,
+  "date": "2026-11-23",
+  "recorded_at": "2026-11-24T06:53:06.167285+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "São Paulo at Botafogo",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-24",
+  "recorded_at": "2026-11-24T06:53:06.167285+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Grêmio at Santos",
+  "final": "0:2",
+  "goal_after_70": true,
+  "date": "2026-11-24",
+  "recorded_at": "2026-11-24T06:53:06.167285+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "680",
+  "league_name": "Liga AUF Uruguaya",
+  "match": "Danubio at Albion FC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-23",
+  "recorded_at": "2026-11-24T06:53:06.167285+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3934",
+  "league_name": "Paraguayan Primera",
+  "match": "Sportivo San Lorenzo at 2 de Mayo",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-24",
+  "recorded_at": "2026-11-24T06:53:06.167285+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3934",
+  "league_name": "3934",
+  "match": "Cerro Porteño at Nacional Asunción",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-24",
+  "recorded_at": "2026-11-24T06:53:06.167285+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "620",
+  "league_name": "620",
+  "match": "GV San José at Universitario de Vinto",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-11-24",
+  "recorded_at": "2026-11-24T06:53:06.167285+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4005",
+  "league_name": "4005",
+  "match": "Cartaginés at Alajuelense",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-24",
+  "recorded_at": "2026-11-24T06:53:06.167285+00:00",
   "backstop": true
  }
 ]

@@ -11396,6 +11396,30 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-23T22:54:56.975209+00:00"
+   },
+   {
+    "match": "Danubio at Albion FC",
+    "league": "Liga AUF Uruguaya",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 74,
+    "first_goal_team": "Albion FC",
+    "recorded_at": "2026-11-24T06:53:06.167285+00:00"
+   },
+   {
+    "match": "Sportivo San Lorenzo at 2 de Mayo",
+    "league": "Paraguayan Primera",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 78,
+    "first_goal_team": "2 de Mayo",
+    "recorded_at": "2026-11-24T06:53:06.167285+00:00"
    }
   ],
   "generated_at": null
