@@ -11423,5 +11423,59 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-25": {
+  "date": "2026-11-25",
+  "rows": [
+   {
+    "match": "Pohang Steelers at Kyoto Sanga",
+    "league": "AFC Champions League Elite",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Kyoto Sanga",
+    "recorded_at": "2026-11-24T18:47:03.501560+00:00"
+   },
+   {
+    "match": "Al-Hussein SC at East Bengal FC",
+    "league": "AFC Champions League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 87,
+    "first_goal_team": "East Bengal FC",
+    "recorded_at": "2026-11-24T18:47:03.501560+00:00"
+   },
+   {
+    "match": "Colombia U17 at Honduras U17",
+    "league": "FIFA U-17 World Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:2",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Colombia U17",
+    "recorded_at": "2026-11-24T18:47:03.501560+00:00"
+   },
+   {
+    "match": "Chanmari FC at Sreenidi Deccan FC",
+    "league": "Indian Football League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:1",
+    "goal_after_70": true,
+    "first_goal_minute": 82,
+    "first_goal_team": "Chanmari FC",
+    "recorded_at": "2026-11-24T18:47:03.501560+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
