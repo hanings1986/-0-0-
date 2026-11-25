@@ -11474,6 +11474,102 @@
     "first_goal_minute": 82,
     "first_goal_team": "Chanmari FC",
     "recorded_at": "2026-11-24T18:47:03.501560+00:00"
+   },
+   {
+    "match": "LASK Linz at Bodo/Glimt",
+    "league": "UEFA Champions League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 92,
+    "first_goal_team": "Bodo/Glimt",
+    "recorded_at": "2026-11-25T02:50:20.844258+00:00"
+   },
+   {
+    "match": "Aston Villa at Galatasaray",
+    "league": "UEFA Champions League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "Galatasaray",
+    "recorded_at": "2026-11-25T02:50:20.844258+00:00"
+   },
+   {
+    "match": "Dallas Trinity FC at Tampa Bay Sun FC",
+    "league": "USL Super League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 83,
+    "first_goal_team": "Dallas Trinity FC",
+    "recorded_at": "2026-11-25T02:50:20.844258+00:00"
+   },
+   {
+    "match": "Sheffield Wednesday at Stevenage",
+    "league": "EFL League One",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-25T02:50:20.844258+00:00"
+   },
+   {
+    "match": "Barnet at Crawley Town",
+    "league": "EFL League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-25T02:50:20.844258+00:00"
+   },
+   {
+    "match": "Sutton United at AFC Hornchurch",
+    "league": "National League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-25T02:50:20.844258+00:00"
+   },
+   {
+    "match": "Barrow at Boston United",
+    "league": "National League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 73,
+    "first_goal_team": "Barrow",
+    "recorded_at": "2026-11-25T02:50:20.844258+00:00"
+   },
+   {
+    "match": "Golden Arrows at Orlando Pirates",
+    "league": "South African Premiership",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 90,
+    "first_goal_team": "Orlando Pirates",
+    "recorded_at": "2026-11-25T02:50:20.844258+00:00"
    }
   ],
   "generated_at": null
