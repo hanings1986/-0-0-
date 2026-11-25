@@ -1,115 +1,5 @@
 [
  {
-  "league_id": "19915",
-  "league_name": "19915",
-  "match": "Athletic Club Boise at Charlotte Independence",
-  "final": "4:2",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T07:02:50.444293+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3932",
-  "league_name": "3932",
-  "match": "Piratas at Club Atlético La Paz",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T07:02:50.444293+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23541",
-  "league_name": "23541",
-  "match": "Pumas UNAM at Tigres UANL",
-  "final": "0:5",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T07:02:50.444293+00:00",
-  "backstop": true
- },
- {
-  "league_id": "23541",
-  "league_name": "23541",
-  "match": "FC Juárez at Guadalajara",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T07:02:50.444293+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "19834",
-  "match": "América at Red Bull New York",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T07:02:50.444293+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19834",
-  "league_name": "Club Friendly",
-  "match": "J-Lease FC at Oita Trinita",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T07:02:50.444293+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3903",
-  "league_name": "3903",
-  "match": "Almirante Brown at Gimnasia y Esgrima (Jujuy)",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T07:02:50.444293+00:00",
-  "backstop": true
- },
- {
-  "league_id": "630",
-  "league_name": "Brazil Serie A",
-  "match": "Atlético-MG at Mirassol",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T07:02:50.444293+00:00",
-  "backstop": true
- },
- {
-  "league_id": "630",
-  "league_name": "630",
-  "match": "Vasco da Gama at Chapecoense",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T07:02:50.444293+00:00",
-  "backstop": true
- },
- {
-  "league_id": "680",
-  "league_name": "680",
-  "match": "Albion FC at Nacional",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T07:02:50.444293+00:00",
-  "backstop": true
- },
- {
-  "league_id": "650",
-  "league_name": "Colombian Primera A",
-  "match": "Independiente Medellín at Águilas Doradas",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T07:02:50.444293+00:00",
-  "backstop": true
- },
- {
   "league_id": "650",
   "league_name": "Colombian Primera A",
   "match": "Fortaleza CEIF at Atlético Bucaramanga",
@@ -7974,6 +7864,116 @@
   "goal_after_70": true,
   "date": "2026-11-25",
   "recorded_at": "2026-11-25T02:50:20.844258+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "AFC Champions League Elite",
+  "match": "Port FC at Gamba Osaka",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-25",
+  "recorded_at": "2026-11-25T12:30:05.453988+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3902",
+  "league_name": "3902",
+  "match": "Jeonbuk Hyundai Motors at Kashima Antlers",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-11-25",
+  "recorded_at": "2026-11-25T12:30:05.453988+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "2466",
+  "league_name": "AFC Champions League Two",
+  "match": "The Cong-Viettel FC at Melbourne Victory",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-25",
+  "recorded_at": "2026-11-25T12:30:05.453988+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Yokohama F. Marinos at Avispa Fukuoka",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-25",
+  "recorded_at": "2026-11-25T12:30:05.453988+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Shimizu S-Pulse at Fagiano Okayama",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-25",
+  "recorded_at": "2026-11-25T12:30:05.453988+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Sanfrecce Hiroshima at FC Tokyo",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-11-25",
+  "recorded_at": "2026-11-25T12:30:05.453988+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Nagoya Grampus at JEF United Ichihara-Chiba",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-25",
+  "recorded_at": "2026-11-25T12:30:05.453988+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Tokyo Verdy 1969 at Mito Hollyhock",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-11-25",
+  "recorded_at": "2026-11-25T12:30:05.453988+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Kawasaki Frontale at V-Varen Nagasaki",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-25",
+  "recorded_at": "2026-11-25T12:30:05.453988+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Cerezo Osaka at Urawa Red Diamonds",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-11-25",
+  "recorded_at": "2026-11-25T12:30:05.453988+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18505",
+  "league_name": "18505",
+  "match": "Rajasthan United FC at Mohammedan SC",
+  "final": "0:4",
+  "goal_after_70": true,
+  "date": "2026-11-25",
+  "recorded_at": "2026-11-25T12:30:05.453988+00:00",
   "backstop": true
  }
 ]

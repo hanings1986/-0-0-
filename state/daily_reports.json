@@ -11570,6 +11570,30 @@
     "first_goal_minute": 90,
     "first_goal_team": "Orlando Pirates",
     "recorded_at": "2026-11-25T02:50:20.844258+00:00"
+   },
+   {
+    "match": "Port FC at Gamba Osaka",
+    "league": "AFC Champions League Elite",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Gamba Osaka",
+    "recorded_at": "2026-11-25T12:30:05.453988+00:00"
+   },
+   {
+    "match": "The Cong-Viettel FC at Melbourne Victory",
+    "league": "AFC Champions League Two",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-25T12:30:05.453988+00:00"
    }
   ],
   "generated_at": null
