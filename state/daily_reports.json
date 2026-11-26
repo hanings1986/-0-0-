@@ -11660,6 +11660,18 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-26T04:04:57.365740+00:00"
+   },
+   {
+    "match": "Águila at Internacional Santa Tecla",
+    "league": "3943",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 76,
+    "first_goal_team": "Internacional Santa Tecla",
+    "recorded_at": "2026-11-26T13:51:19.373413+00:00"
    }
   ],
   "generated_at": null
