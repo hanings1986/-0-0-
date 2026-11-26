@@ -11675,5 +11675,71 @@
    }
   ],
   "generated_at": null
+ },
+ "2026-11-27": {
+  "date": "2026-11-27",
+  "rows": [
+   {
+    "match": "Hapoel Be'er at Besiktas",
+    "league": "UEFA Europa League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "2:1",
+    "goal_after_70": true,
+    "first_goal_minute": 75,
+    "first_goal_team": "Besiktas",
+    "recorded_at": "2026-11-26T22:54:03.057166+00:00"
+   },
+   {
+    "match": "NK Celje at Ferencvaros",
+    "league": "UEFA Europa League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-26T22:54:03.057166+00:00"
+   },
+   {
+    "match": "Lillestrom at Lyon",
+    "league": "UEFA Europa League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-26T22:54:03.057166+00:00"
+   },
+   {
+    "match": "FC Lugano at Jablonec",
+    "league": "UEFA Conference League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 70,
+    "first_goal_team": "Jablonec",
+    "recorded_at": "2026-11-26T22:54:03.057166+00:00"
+   },
+   {
+    "match": "Al Riyadh at Al Fateh",
+    "league": "Saudi Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 70,
+    "first_goal_team": "Al Fateh",
+    "recorded_at": "2026-11-26T22:54:03.057166+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
