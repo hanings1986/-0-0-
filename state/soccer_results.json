@@ -2,96 +2,6 @@
  {
   "league_id": "3952",
   "league_name": "3952",
-  "match": "Bourges Foot at Sedan",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T19:59:46.837022+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "3952",
-  "match": "Saint-Pryvé Saint Hilaire at Senlis",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T19:59:46.837022+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "3952",
-  "match": "Nimes at Seyssinet",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T19:59:46.837022+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "3952",
-  "match": "Racing Club de France at St Martin Tatinghem",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T19:59:46.837022+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "3952",
-  "match": "Nantes at Stade Castelbourgeois",
-  "final": "1:9",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T19:59:46.837022+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "Coupe de France",
-  "match": "Plabennec at Stade Pontivy",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T19:59:46.837022+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "3952",
-  "match": "Baume-Les-Dames at Talange",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T19:59:46.837022+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "3952",
-  "match": "Maisons-Alfort at Tremblay",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T19:59:46.837022+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "3952",
-  "match": "SC Toulon at US Marseille Endoume",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-11-15",
-  "recorded_at": "2026-11-15T19:59:46.837022+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3952",
-  "league_name": "3952",
   "match": "Union Cosnoise at Val Yerres Crosne",
   "final": "2:2",
   "goal_after_70": true,
@@ -7975,6 +7885,96 @@
   "goal_after_70": true,
   "date": "2026-11-25",
   "recorded_at": "2026-11-25T21:57:18.867050+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "760",
+  "league_name": "760",
+  "match": "Atlas at Toluca",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-26",
+  "recorded_at": "2026-11-26T04:04:57.365740+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "745",
+  "league_name": "745",
+  "match": "Independiente Rivadavia at Boca Juniors",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-26",
+  "recorded_at": "2026-11-26T04:04:57.365740+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "Brazil Serie A",
+  "match": "Corinthians at Atlético-MG",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-26",
+  "recorded_at": "2026-11-26T04:04:57.365740+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Once Caldas at Independiente Santa Fe",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-11-26",
+  "recorded_at": "2026-11-26T04:04:57.365740+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Independiente Medellín at Atlético Nacional",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-11-26",
+  "recorded_at": "2026-11-26T04:04:57.365740+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "660",
+  "league_name": "660",
+  "match": "Independiente del Valle at Barcelona SC",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-26",
+  "recorded_at": "2026-11-26T04:04:57.365740+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "23284",
+  "league_name": "Copa Bolivia",
+  "match": "Always Ready at Real Potosí",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-26",
+  "recorded_at": "2026-11-26T04:04:57.365740+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3928",
+  "league_name": "3928",
+  "match": "Aurora FC at Municipal",
+  "final": "3:2",
+  "goal_after_70": true,
+  "date": "2026-11-26",
+  "recorded_at": "2026-11-26T04:04:57.365740+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3943",
+  "league_name": "3943",
+  "match": "CD FAS at C.D. Platense",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-11-26",
+  "recorded_at": "2026-11-26T04:04:57.365740+00:00",
   "backstop": true
  }
 ]

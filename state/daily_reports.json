@@ -11636,6 +11636,30 @@
     "first_goal_minute": 79,
     "first_goal_team": "Fleetwood Town",
     "recorded_at": "2026-11-25T21:57:18.867050+00:00"
+   },
+   {
+    "match": "Corinthians at Atlético-MG",
+    "league": "Brazil Serie A",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:1",
+    "goal_after_70": true,
+    "first_goal_minute": 70,
+    "first_goal_team": "Corinthians",
+    "recorded_at": "2026-11-26T04:04:57.365740+00:00"
+   },
+   {
+    "match": "Always Ready at Real Potosí",
+    "league": "Copa Bolivia",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-26T04:04:57.365740+00:00"
    }
   ],
   "generated_at": null
