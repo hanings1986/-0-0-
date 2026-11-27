@@ -11760,5 +11760,143 @@
    "early_goal": 0,
    "goal_rate": 66.7
   }
+ },
+ "2026-11-28": {
+  "date": "2026-11-28",
+  "rows": [
+   {
+    "match": "Al Fayha at Al Qadsiah",
+    "league": "Saudi Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 71,
+    "first_goal_team": "Al Qadsiah",
+    "recorded_at": "2026-11-27T23:20:05.671459+00:00"
+   },
+   {
+    "match": "Bologna at Venezia",
+    "league": "Serie A",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-27T23:20:05.671459+00:00"
+   },
+   {
+    "match": "Neom SC at Al Ittihad",
+    "league": "Saudi Pro League",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 75,
+    "first_goal_team": "Al Ittihad",
+    "recorded_at": "2026-11-27T23:20:05.671459+00:00"
+   },
+   {
+    "match": "Wolfsberger AC Amateure at FSC Eggendorf",
+    "league": "Club Friendly",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-27T23:20:05.671459+00:00"
+   },
+   {
+    "match": "CD Sabadell at Leganés",
+    "league": "LALIGA 2",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-27T23:20:05.671459+00:00"
+   },
+   {
+    "match": "SV Darmstadt 98 at VfL Bochum",
+    "league": "2. Bundesliga",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "2:0",
+    "goal_after_70": true,
+    "first_goal_minute": 81,
+    "first_goal_team": "VfL Bochum",
+    "recorded_at": "2026-11-27T23:20:05.671459+00:00"
+   },
+   {
+    "match": "Mexico U17 at Venezuela U17",
+    "league": "FIFA U-17 World Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-27T23:20:05.671459+00:00"
+   },
+   {
+    "match": "Vitesse at FC Dordrecht",
+    "league": "Keuken Kampioen Divisie",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-27T23:20:05.671459+00:00"
+   },
+   {
+    "match": "TOP Oss at Jong AZ",
+    "league": "Keuken Kampioen Divisie",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-27T23:20:05.671459+00:00"
+   },
+   {
+    "match": "Almere City at Jong FC Utrecht",
+    "league": "Keuken Kampioen Divisie",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-27T23:20:05.671459+00:00"
+   },
+   {
+    "match": "RKC Waalwijk at VVV-Venlo",
+    "league": "Keuken Kampioen Divisie",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-27T23:20:05.671459+00:00"
+   }
+  ],
+  "generated_at": null
  }
 }
