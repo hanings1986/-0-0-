@@ -11738,8 +11738,27 @@
     "first_goal_minute": 70,
     "first_goal_team": "Al Fateh",
     "recorded_at": "2026-11-26T22:54:03.057166+00:00"
+   },
+   {
+    "match": "Serbia U17 at Colombia U17",
+    "league": "FIFA U-17 World Cup",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Serbia U17",
+    "recorded_at": "2026-11-27T14:52:28.679292+00:00"
    }
   ],
-  "generated_at": null
+  "generated_at": "2026-11-27T14:52:32.933554+00:00",
+  "summary": {
+   "total": 6,
+   "goal_after_70": 4,
+   "clean_00": 2,
+   "early_goal": 0,
+   "goal_rate": 66.7
+  }
  }
 }
