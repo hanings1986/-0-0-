@@ -1,125 +1,5 @@
 [
  {
-  "league_id": "2395",
-  "league_name": "2395",
-  "match": "Georgia at Ukraine",
-  "final": "1:0",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2395",
-  "league_name": "2395",
-  "match": "Portugal at Wales",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "Uzbekistan at Saudi Arabia",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "Australia at Jordan",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "Venezuela at Russia",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "Iran at Iraq",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "Honduras at Kuwait",
-  "final": "0:2",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8315",
-  "league_name": "8315",
-  "match": "Ivory Coast at Gambia",
-  "final": "2:2",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8315",
-  "league_name": "8315",
-  "match": "Madagascar at Guinea-Bissau",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8315",
-  "league_name": "8315",
-  "match": "South Africa at Kenya",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8315",
-  "league_name": "8315",
-  "match": "Tunisia at Libya",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8315",
-  "league_name": "8315",
-  "match": "Congo DR at Sierra Leone",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
   "league_id": "8315",
   "league_name": "8315",
   "match": "Algeria at Togo",
@@ -7976,6 +7856,126 @@
   "goal_after_70": true,
   "date": "2026-11-28",
   "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Albania at Malawi",
+  "final": "4:3",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T13:45:44.389590+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Colombia at Australia",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T13:45:44.389590+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "South Korea at Catalunya",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T13:45:44.389590+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Thailand at China",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T13:45:44.389590+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3906",
+  "league_name": "3906",
+  "match": "Auckland FC at Central Coast Mariners FC",
+  "final": "2:3",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T13:45:44.389590+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3939",
+  "league_name": "3939",
+  "match": "Akron Tolyatti at Rubin Kazan",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T13:45:44.389590+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3933",
+  "league_name": "Keuken Kampioen Divisie",
+  "match": "Helmond Sport at FC Emmen",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T13:45:44.389590+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Cerezo Osaka at Kyoto Sanga",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T13:45:44.389590+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "Japanese J1 League",
+  "match": "Urawa Red Diamonds at Shimizu S-Pulse",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T13:45:44.389590+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Fagiano Okayama at Kashima Antlers",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T13:45:44.389590+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "JEF United Ichihara-Chiba at Vissel Kobe",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T13:45:44.389590+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "750",
+  "league_name": "750",
+  "match": "Sanfrecce Hiroshima at Kashiwa Reysol",
+  "final": "3:1",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T13:45:44.389590+00:00",
   "backstop": true
  }
 ]

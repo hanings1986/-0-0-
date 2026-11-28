@@ -11931,6 +11931,30 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-28T04:49:01.021761+00:00"
+   },
+   {
+    "match": "Helmond Sport at FC Emmen",
+    "league": "Keuken Kampioen Divisie",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-28T13:45:44.389590+00:00"
+   },
+   {
+    "match": "Urawa Red Diamonds at Shimizu S-Pulse",
+    "league": "Japanese J1 League",
+    "tier": 1,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 77,
+    "first_goal_team": "Shimizu S-Pulse",
+    "recorded_at": "2026-11-28T13:45:44.389590+00:00"
    }
   ],
   "generated_at": null
