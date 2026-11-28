@@ -1,185 +1,5 @@
 [
  {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "South Korea at Qatar",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T17:05:10.165251+00:00",
-  "backstop": true
- },
- {
-  "league_id": "3922",
-  "league_name": "3922",
-  "match": "Syria at United Arab Emirates",
-  "final": "4:2",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T17:05:10.165251+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8315",
-  "league_name": "AFCON Qualifying",
-  "match": "Zambia at Burundi",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T17:05:10.165251+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8315",
-  "league_name": "8315",
-  "match": "Mozambique at Ethiopia",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T17:05:10.165251+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8315",
-  "league_name": "8315",
-  "match": "Gabon at Lesotho",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T17:05:10.165251+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8315",
-  "league_name": "AFCON Qualifying",
-  "match": "Egypt at Malawi",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T17:05:10.165251+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8315",
-  "league_name": "8315",
-  "match": "Angola at South Sudan",
-  "final": "0:1",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T17:05:10.165251+00:00",
-  "backstop": true
- },
- {
-  "league_id": "8315",
-  "league_name": "AFCON Qualifying",
-  "match": "Nigeria at Tanzania",
-  "final": "0:0",
-  "goal_after_70": false,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T17:05:10.165251+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19267",
-  "league_name": "19267",
-  "match": "Sint Maarten at Belize",
-  "final": "1:2",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19267",
-  "league_name": "19267",
-  "match": "Cayman Islands at Dominica",
-  "final": "5:0",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19267",
-  "league_name": "19267",
-  "match": "Bonaire at St. Kitts and Nevis",
-  "final": "3:2",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "19267",
-  "league_name": "19267",
-  "match": "Barbados at St. Lucia",
-  "final": "2:0",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2395",
-  "league_name": "2395",
-  "match": "Romania at Bosnia-Herzegovina",
-  "final": "2:1",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2395",
-  "league_name": "2395",
-  "match": "Norway at Denmark",
-  "final": "2:3",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2395",
-  "league_name": "2395",
-  "match": "Northern Ireland at Hungary",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2395",
-  "league_name": "2395",
-  "match": "Austria at Israel",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2395",
-  "league_name": "2395",
-  "match": "Sweden at Poland",
-  "final": "1:1",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
-  "league_id": "2395",
-  "league_name": "2395",
-  "match": "Kosovo at Republic of Ireland",
-  "final": "3:0",
-  "goal_after_70": true,
-  "date": "2026-11-17",
-  "recorded_at": "2026-11-17T23:50:22.926980+00:00",
-  "backstop": true
- },
- {
   "league_id": "2395",
   "league_name": "2395",
   "match": "Georgia at Ukraine",
@@ -7977,5 +7797,185 @@
   "goal_after_70": true,
   "date": "2026-11-27",
   "recorded_at": "2026-11-27T23:20:26.360526+00:00"
+ },
+ {
+  "league_id": "770",
+  "league_name": "MLS",
+  "match": "Inter Miami CF at Columbus Crew",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18969",
+  "league_name": "18969",
+  "match": "Costa Rica at Jamaica",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-11-27",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "18969",
+  "league_name": "18969",
+  "match": "El Salvador at United States",
+  "final": "8:0",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Dominican Republic at Peru",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3923",
+  "league_name": "3923",
+  "match": "Uruguay at Bolivia",
+  "final": "0:8",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3903",
+  "league_name": "3903",
+  "match": "Ciudad de Bolívar at Atlanta",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-11-27",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3903",
+  "league_name": "3903",
+  "match": "Colón (Santa Fe) at Deportivo Morón",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3903",
+  "league_name": "3903",
+  "match": "Gimnasia y Tiro (Salta) at Tristán Suárez",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "630",
+  "league_name": "630",
+  "match": "Cruzeiro at Fluminense",
+  "final": "0:1",
+  "goal_after_70": true,
+  "date": "2026-11-27",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4007",
+  "league_name": "4007",
+  "match": "Atlético Goianiense at Vila Nova",
+  "final": "2:0",
+  "goal_after_70": true,
+  "date": "2026-11-27",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "680",
+  "league_name": "680",
+  "match": "Racing (Montevideo) at Liverpool",
+  "final": "2:2",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "650",
+  "match": "Atlético Bucaramanga at Deportivo Cali",
+  "final": "1:1",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "650",
+  "league_name": "Colombian Primera A",
+  "match": "América de Cali at Millonarios",
+  "final": "0:0",
+  "goal_after_70": false,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "3934",
+  "league_name": "3934",
+  "match": "Club Olimpia at Sportivo Luqueño",
+  "final": "1:2",
+  "goal_after_70": true,
+  "date": "2026-11-27",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "660",
+  "league_name": "660",
+  "match": "Manta F.C. at Deportivo Cuenca",
+  "final": "3:0",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "620",
+  "league_name": "620",
+  "match": "Real Oruro at Independiente Petrolero",
+  "final": "4:1",
+  "goal_after_70": true,
+  "date": "2026-11-27",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "620",
+  "league_name": "620",
+  "match": "Real Tomayapo at ABB",
+  "final": "1:0",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
+ },
+ {
+  "league_id": "4005",
+  "league_name": "4005",
+  "match": "Escorpiones Belén at Herediano",
+  "final": "2:1",
+  "goal_after_70": true,
+  "date": "2026-11-28",
+  "recorded_at": "2026-11-28T04:49:01.021761+00:00",
+  "backstop": true
  }
 ]

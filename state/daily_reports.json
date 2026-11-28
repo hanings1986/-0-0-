@@ -11895,6 +11895,42 @@
     "first_goal_minute": null,
     "first_goal_team": null,
     "recorded_at": "2026-11-27T23:20:05.671459+00:00"
+   },
+   {
+    "match": "Inter Miami CF at Columbus Crew",
+    "league": "MLS",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "1:0",
+    "goal_after_70": true,
+    "first_goal_minute": 92,
+    "first_goal_team": "Columbus Crew",
+    "recorded_at": "2026-11-28T04:49:01.021761+00:00"
+   },
+   {
+    "match": "Serbia U17 at Colombia U17",
+    "league": "5697",
+    "tier": 3,
+    "alert_70": true,
+    "alert_80": false,
+    "final": "0:1",
+    "goal_after_70": true,
+    "first_goal_minute": 72,
+    "first_goal_team": "Serbia U17",
+    "recorded_at": "2026-11-28T04:49:01.021761+00:00"
+   },
+   {
+    "match": "América de Cali at Millonarios",
+    "league": "Colombian Primera A",
+    "tier": 2,
+    "alert_70": true,
+    "alert_80": true,
+    "final": "0:0",
+    "goal_after_70": false,
+    "first_goal_minute": null,
+    "first_goal_team": null,
+    "recorded_at": "2026-11-28T04:49:01.021761+00:00"
    }
   ],
   "generated_at": null
